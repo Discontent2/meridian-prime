@@ -1,4 +1,4 @@
-# Meridian Prime Bible v0.3
+# Meridian Prime Bible v0.4
 
 > Fictional worldbuilding reference for the Meridian Prime universe.
 
@@ -463,7 +463,176 @@ Their power is the ability to keep standing after systems designed to break them
 
 ---
 
-## 23. Faction Strength Balance
+## 23. Native Secondary Factions
+
+The Aeonolacertians and áæbsconditians are not monolithic civilizations. The Catastrophic Interaction, the Poisoned Contact, and the reduction of both populations to roughly 1,000 survivors fractured their societies into survivor factions, ideological orders, and specialist sects.
+
+### Aeonolacertian Secondary Factions
+
+#### The Scale Concord
+
+**Role:** surviving traditional leadership
+
+**Core Belief:** Aeonolacertian society can only survive if the old class balance is restored.
+
+The Scale Concord is composed of elders, memory-keepers, surviving class leaders, and ceremonial authorities. They preserve Aeonolacertian identity after the Catastrophic Interaction. They are cautious, suspicious of humans, and committed to restoring order without allowing grief to become extinction.
+
+**Story Uses:** hidden councils, ancient law, cautious alliances, ceremonial memory, witnesses who remember more than the public record allows.
+
+#### The Sundering Clades
+
+**Role:** militant survivor factions
+
+**Core Belief:** the Catastrophic Interaction proved mercy is extinction.
+
+The Sundering Clades are Aeonolacertian hardliners shaped by catastrophe. They are often associated with Tyrannisauroid, Ankylosauroid, and Ceratopsinoid strength-lines. They blame áæbsconditians first, humans second, and failed Aeonolacertian leadership third.
+
+**Story Uses:** dangerous allies, anti-World Works resistance, internal hardliners, brute-force conflict.
+
+#### The Steam-Oracles
+
+**Role:** technologists, mystics, continuity engineers
+
+**Core Belief:** technology and memory are the same machine wearing different masks.
+
+The Steam-Oracles preserve and operate Aeonolacertian technologies that humans mistake for primitive steampunk mechanisms. Their machines may look like boilers, valves, brass engines, pressure vessels, bone instruments, and ritual architecture. In truth, they are advanced continuity systems.
+
+**Story Uses:** cryptic exposition, memory repair, impossible machinery, rituals that are actually science.
+
+#### The Aeolipile
+
+**Role:** internal sect of the Steam-Oracles; field-practitioners of pressure-memory technology
+
+**Core Belief:** memory is not stored. It is pressurized, released, and set back into motion.
+
+The Aeolipile are the Aeonolacertian counterpart to the áæbsconditian Madrigalists, but they are not a mirror. Where Madrigalists work through cyber-resonance, signal, and harmonic perception, the Aeolipile work through steam, breath, scale vibration, rotating chambers, pressure vessels, and continuity engines.
+
+Humans often mistake members of the Aeolipile for boiler-priests, engine monks, or ritual singers.
+
+**Human Slang:** Kettle Cantors
+
+**Practice Tradition:** The Bellows Rite
+
+**Possible Members:** Aeolipilists, Cantors, Pressure-Singers
+
+**Story Uses:** continuity stabilization, ancient machine operation, memory anchoring, acoustic-pressure rituals, scenes where apparently primitive technology reveals impossible sophistication.
+
+#### The Broken Brood
+
+**Role:** displaced young survivors
+
+**Core Belief:** the old class system failed, so something new must hatch.
+
+The Broken Brood is made up of younger Aeonolacertians born after the catastrophe or raised in its aftermath. They resent strict class obligations and form cross-class kinship groups. They are more likely than elders to interact with Meridians and question inherited narratives.
+
+**Story Uses:** bridges between species, rebels, emotional entry point into Aeonolacertian society, allies to forbidden truth-seekers.
+
+#### The Quiet Talon
+
+**Role:** scouts, spies, memory-runners
+
+**Core Belief:** survival belongs to those who move unseen.
+
+The Quiet Talon is often associated with Velociraptoroid traits. They track World Works, áæbsconditian activity, human incursions, and continuity disturbances. They are not as purely stealth-dominant as áæbsconditians, but they are fast, physical, and hard to catch.
+
+**Story Uses:** first-contact scenes, ambushes, secret guides, wilderness intelligence, tense alliances.
+
+### áæbsconditian Secondary Factions
+
+#### The Null Court
+
+**Role:** ruling or elite strategic faction
+
+**Core Belief:** life on Aeonos is an instability that must be contained, corrected, or permanently watched.
+
+The Null Court is elegant, cold, ancient, and politically dangerous. It sees the Catastrophic Interaction as proof that Matter Aeonos cannot be trusted. Some within the Court may know or suspect human involvement, while others use the official version of the catastrophe to preserve authority.
+
+**Story Uses:** terrifying diplomacy, cyberpunk aristocracy, strategic antagonists, secret keepers.
+
+#### The Veilknives
+
+**Role:** stealth operatives and infiltrators
+
+**Core Belief:** history is won by the unseen hand.
+
+The Veilknives are masters of stealth, memory masking, phase movement, covert observation, and hidden intervention. If something impossible happened in a locked room, the Veilknives may have been nearby.
+
+**Story Uses:** paranoia, thriller tension, unseen presence, covert conflict, impossible intrusions.
+
+#### The Amaranth Schola
+
+**Role:** resonance scholars, signal theorists, memory engineers
+
+**Core Belief:** reality is not rewritten by force alone, but by frequency, perception, and record.
+
+The Amaranth Schola is an áæbsconditian institution devoted to resonance, signal, memory-patterns, dreams, and cross-world perception. It is less a simple school than an archive-laboratory-priesthood of anti-matter cognition and cybernetic harmonics.
+
+**Story Uses:** dream sequences, corrupted broadcasts, signal mysteries, memory horror, elegant technical ritual.
+
+#### The Madrigalists
+
+**Role:** field-practitioners within the Amaranth Schola
+
+**Core Belief:** the fracture can be heard before it can be seen.
+
+Madrigalists manipulate resonance, dreams, encrypted signals, memory-patterns, and cross-world perception through harmonic cybernetic systems. They are the active hands and voices of the Amaranth Schola.
+
+They balance the Aeonolacertian Aeolipile thematically, but not symmetrically. Madrigalists sing the fracture open. The Aeolipile try to set memory back into motion without letting the world split.
+
+**Story Uses:** active field agents, resonance operations, strange music, signal intrusion, memory manipulation, dream-contact.
+
+#### The Last Thousand
+
+**Role:** survivor-purists and continuity archivists
+
+**Core Belief:** every áæbsconditian life is sacred because only a thousand remained.
+
+The Last Thousand treat the survivor count after the Catastrophic Interaction as holy mathematics. They maintain genealogical ledgers, identity vaults, continuity records, and population memory. They are not necessarily aggressive; their desperation is rooted in extinction fear.
+
+**Story Uses:** sympathetic áæbsconditians, moral complexity, population records, identity vaults, survival ethics.
+
+#### The Livid Æ Revisionists
+
+**Role:** forbidden historians, dissident analysts, anti-orthodox truth-seekers
+
+**Core Belief:** the Catastrophic Interaction was not inevitable, and Aeonolacertians may not have been the original betrayers.
+
+The Livid Æ Revisionists suspect that the official account of the Catastrophic Interaction is false. They believe a third party corrupted events between Aeonos and àæonos. Their name carries the bruised blue-gray anger of livid history, the Æ marker of áæbsconditian identity, and the accusation of forbidden historical revision.
+
+They may be hunted by the Null Court for weakening the official revenge narrative.
+
+**Story Uses:** secret allies, revelation engine, forbidden archives, bridges to Meridians and Aeonolacertians.
+
+### Key Cross-Civilization Pairings
+
+| Aeonolacertian Faction | áæbsconditian Faction | Dynamic |
+|---|---|---|
+| The Scale Concord | The Null Court | ancient leadership versus ancient leadership |
+| The Sundering Clades | The Veilknives | brute force versus stealth |
+| The Steam-Oracles | The Amaranth Schola | analog continuity science versus cyber-resonance |
+| The Aeolipile | The Madrigalists | pressure-memory practice versus harmonic signal practice |
+| The Broken Brood | The Livid Æ Revisionists | young reformers and forbidden truth-seekers |
+| The Quiet Talon | The Last Thousand | hunters, witnesses, and survivor records |
+
+### Faction Aphorism
+
+The Null Court rules.
+The Veilknives vanish.
+The Amaranth Schola listens.
+The Madrigalists sing.
+The Last Thousand remembers.
+The Livid Æ Revisionists doubt.
+
+The Scale Concord preserves.
+The Sundering Clades strike.
+The Steam-Oracles maintain.
+The Aeolipile turn pressure into memory.
+The Broken Brood questions.
+The Quiet Talon watches.
+
+---
+
+## 24. Faction Strength Balance
 
 Each major civilization or faction can defeat the others under the right circumstances.
 
@@ -479,7 +648,7 @@ This balance prevents any one group from being universally superior and keeps co
 
 ---
 
-## 24. Corrupted Planetary Memory
+## 25. Corrupted Planetary Memory
 
 Meridian Prime exists under the shadow of corrupted planetary memory.
 
@@ -495,7 +664,7 @@ Its answer is Control over Continuity.
 
 ---
 
-## 25. Story Engine
+## 26. Story Engine
 
 A Meridian Prime story should usually include:
 
@@ -517,7 +686,7 @@ Every truth has a cost.
 
 ---
 
-## 26. Major Themes
+## 27. Major Themes
 
 ### Inherited Memory
 
@@ -547,9 +716,13 @@ Meridians survive not because they are best equipped, but because they are harde
 
 Meridian Prime was not simply colonized. It was prepared for colonization through secrecy, interference, and the engineered weakening of native civilizations.
 
+### Fractured Survivorship
+
+The Aeonolacertians and áæbsconditians survived catastrophe, but survival did not preserve unity. Both civilizations carry internal factions that disagree about memory, revenge, reform, continuity, and truth.
+
 ---
 
-## 27. Core Open Mysteries
+## 28. Core Open Mysteries
 
 The following mysteries should remain active engines for the setting:
 
@@ -568,10 +741,15 @@ The following mysteries should remain active engines for the setting:
 13. Can Control over Continuity actually prevent collapse, or does it deepen the wound?
 14. What happens if Meridians learn the full truth about their world?
 15. Did any human faction oppose the Inheritance Protocol before arrival?
+16. Which Aeonolacertian faction first discovers proof of human involvement in the Catastrophic Interaction?
+17. Which áæbsconditian faction first accepts that the official catastrophe narrative is incomplete?
+18. Can The Broken Brood and The Livid Æ Revisionists form a truth alliance?
+19. What does The Aeolipile know about repairing planetary memory?
+20. What song, signal, or record are the Madrigalists trying to recover?
 
 ---
 
-## 28. Current Canon Summary
+## 29. Current Canon Summary
 
 Meridian Prime is the human name for Kepler-1649c, a planet originally reached by The Lodestar after a 200-year generational mission called Project Meridian Prime.
 
@@ -584,6 +762,8 @@ At the same time, World Works exploited the crisis to carry out the Auto-Coup ab
 In the present, World Works rules from The Lodestar, which remains active in orbit and appears from the surface as a large moving star with red blinking lights.
 
 The surface population, known as Meridians, lives under degraded dieselpunk conditions, while The Lodestar projects a solarpunk image of clean corporate order. Aeonolacertian technology appears primitive and steampunk-like while being extremely advanced. áæbsconditian technology is cyberpunk in appearance and terrifyingly sophisticated.
+
+The native survivor civilizations are internally fractured. Aeonolacertian groups include The Scale Concord, The Sundering Clades, The Steam-Oracles, The Aeolipile, The Broken Brood, and The Quiet Talon. áæbsconditian groups include The Null Court, The Veilknives, The Amaranth Schola, the Madrigalists, The Last Thousand, and The Livid Æ Revisionists.
 
 World Works has numbers.
 Aeonolacertians have brute strength.
