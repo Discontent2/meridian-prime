@@ -58,13 +58,37 @@ Morph types often correlate with specialized roles, inherited family traditions,
 
 A city, enclave, or faction should show mixed Aeonolacertian populations: different morph-types living, working, arguing, fighting, raising young, and maintaining machinery together.
 
+### Naming Systems
+
+The five Aeonolacertian morph-type lines have two common human-facing naming systems.
+
+**Archival / World Works / academic labels** usually use the older `-sauroid` morphology terms. These appear in classification records, restricted dossiers, scientific notes, and official World Works analysis.
+
+**Common field names** usually use the shorter `-sapien` shorthand. These are more likely to appear in Meridian dialogue, field reports, mechanic slang, scout notes, game text, and everyday speech.
+
+Native Aeonolacertian names for these morph-type lines remain open for future development.
+
+| Archival Morph Label | Common Field Name | Typical Usage |
+|---|---|---|
+| Velociraptoroid | Velocisapien | speed, scouting, rapid movement |
+| Tyrannisauroid | Tyrannosapien | command, heavy war, force projection |
+| Bajadasauroid | Bajadrasapien | signal, ritual science, resonance |
+| Ankylosauroid | Ankylosapien | defense, engineering, endurance |
+| Ceratopsinoid | Cerasapien | civic order, guardianship, family law |
+
+Example usage:
+
+- **World Works archive:** “Subject exhibits Tyrannisauroid-dominant morphology.”
+- **Meridian mechanic:** “That’s Tyrannosapien pressure gear. Don’t touch it unless you want your arm educated.”
+- **Possible native usage:** TBD.
+
 ### Canonical Morph-Type Lines
 
-- **Velociraptoroid**
-- **Tyrannisauroid**
-- **Bajadasauroid**
-- **Ankylosauroid**
-- **Ceratopsinoid**
+- **Velociraptoroid / Velocisapien**
+- **Tyrannisauroid / Tyrannosapien**
+- **Bajadasauroid / Bajadrasapien**
+- **Ankylosauroid / Ankylosapien**
+- **Ceratopsinoid / Cerasapien**
 
 These are not separate species. They are trait-line expressions within one crossbred saurian civilization.
 
@@ -213,7 +237,9 @@ The Heart Guard should look like living red crystal statues heated from within.
 
 ## Morph-Type Visual Guide
 
-### Velociraptoroid
+### Velociraptoroid / Velocisapien
+
+**Common Field Name:** Velocisapien
 
 **Role Tendencies:** scouts, messengers, tactical intelligence, rapid-strike defense, infiltration, memory-runners.
 
@@ -235,7 +261,9 @@ The Heart Guard should look like living red crystal statues heated from within.
 
 ---
 
-### Tyrannisauroid
+### Tyrannisauroid / Tyrannosapien
+
+**Common Field Name:** Tyrannosapien
 
 **Role Tendencies:** command, heavy war leadership, territorial defense, executive authority, Heart Guard candidates, ceremonial force.
 
@@ -257,7 +285,9 @@ The Heart Guard should look like living red crystal statues heated from within.
 
 ---
 
-### Bajadasauroid
+### Bajadasauroid / Bajadrasapien
+
+**Common Field Name:** Bajadrasapien
 
 **Role Tendencies:** signal communication, ritual science, environmental interpretation, diplomacy, memory traditions, pressure resonance.
 
@@ -279,7 +309,9 @@ The Heart Guard should look like living red crystal statues heated from within.
 
 ---
 
-### Ankylosauroid
+### Ankylosauroid / Ankylosapien
+
+**Common Field Name:** Ankylosapien
 
 **Role Tendencies:** protection, engineering, fortress-building, infrastructure, endurance, defensive warfare.
 
@@ -301,7 +333,9 @@ The Heart Guard should look like living red crystal statues heated from within.
 
 ---
 
-### Ceratopsinoid
+### Ceratopsinoid / Cerasapien
+
+**Common Field Name:** Cerasapien
 
 **Role Tendencies:** civic order, elder councils, community defense, family structures, agriculture, law, ceremonial guardianship.
 
@@ -327,13 +361,13 @@ The Heart Guard should look like living red crystal statues heated from within.
 
 Color associations are strong but not absolute. Individuals may show mixed coloration, regional variation, family marks, or ritual paint that overrides natural class-line colors.
 
-| Morph Type | Common Color Associations | Notes |
-|---|---|---|
-| Velociraptoroid | vivid greens, teals, amber, high-contrast striping | speed, scouting, alertness |
-| Tyrannisauroid | reds, deep oranges, black, iron-dark tones | heat, command, war presence |
-| Bajadasauroid | blues, violets, oxidized copper greens, signal accents | ritual science, resonance, diplomacy |
-| Ankylosauroid | ochre, rust, bronze, dark green, slate | endurance, infrastructure, defense |
-| Ceratopsinoid | gold, cream, deep green, red-brown, white markings | law, family, civic guardianship |
+| Archival Morph Label | Common Field Name | Common Color Associations | Notes |
+|---|---|---|---|
+| Velociraptoroid | Velocisapien | vivid greens, teals, amber, high-contrast striping | speed, scouting, alertness |
+| Tyrannisauroid | Tyrannosapien | reds, deep oranges, black, iron-dark tones | heat, command, war presence |
+| Bajadasauroid | Bajadrasapien | blues, violets, oxidized copper greens, signal accents | ritual science, resonance, diplomacy |
+| Ankylosauroid | Ankylosapien | ochre, rust, bronze, dark green, slate | endurance, infrastructure, defense |
+| Ceratopsinoid | Cerasapien | gold, cream, deep green, red-brown, white markings | law, family, civic guardianship |
 
 ---
 
@@ -377,6 +411,7 @@ Artists and writers should avoid making Aeonolacertians unreadable monsters. The
 13. Heart Guard wear red crystal armor.
 14. Scale and armor painting for war, ritual, grief, and oath-status is canon.
 15. Morph types are mixed population traits associated with specialized roles, not separate species.
+16. `-sauroid` terms are archival or academic labels; `-sapien` terms are common field names.
 
 ---
 
@@ -392,6 +427,7 @@ Artists and writers should avoid making Aeonolacertians unreadable monsters. The
 - Do not make Steam-Oracles look like fantasy wizards; they are ritual engineers.
 - Do not make Heart Guard armor ordinary red metal; it is red crystal armor.
 - Do not treat morph types as rigid castes with no mixing.
+- Do not use the common `-sapien` field names as proof that Aeonolacertians are human; the terms are human-facing shorthand.
 
 ---
 
@@ -404,6 +440,7 @@ Artists and writers should avoid making Aeonolacertians unreadable monsters. The
 - An Aeolipile character’s throat-resonance gear shows their connection to pressure-memory technology.
 - A Heart Guard reveal should feel mythic: red crystal armor glowing in 20 K’al heat.
 - An infantry steam automaton suit entering a straight Vent Corridor should feel like a boiler grew legs and chose violence.
+- A character can notice the gap between World Works archival labels and Meridian field names, revealing who learned about Aeonolacertians from files and who learned in the field.
 
 ---
 
@@ -417,15 +454,15 @@ Use morph-type silhouette first: readers should recognize major line tendencies 
 
 Morph-types can become readable sprite classes:
 
-- Velociraptoroid: fast scout / dash unit
-- Tyrannisauroid: heavy command / power unit
-- Bajadasauroid: signal / support / ritual-tech unit
-- Ankylosauroid: tank / engineer / shield unit
-- Ceratopsinoid: guardian / civic leader / defensive support
+- Velociraptoroid / Velocisapien: fast scout / dash unit
+- Tyrannisauroid / Tyrannosapien: heavy command / power unit
+- Bajadasauroid / Bajadrasapien: signal / support / ritual-tech unit
+- Ankylosauroid / Ankylosapien: tank / engineer / shield unit
+- Ceratopsinoid / Cerasapien: guardian / civic leader / defensive support
 
 ### Tabletop Games
 
-Morph-types can inform role bonuses without locking characters into roles. A Velociraptoroid can be a scholar. An Ankylosauroid can be a diplomat. The trait-line influences silhouette and cultural expectations, not destiny.
+Morph-types can inform role bonuses without locking characters into roles. A Velocisapien can be a scholar. An Ankylosapien can be a diplomat. The trait-line influences silhouette and cultural expectations, not destiny.
 
 ---
 
@@ -446,6 +483,8 @@ Morph-types can inform role bonuses without locking characters into roles. A Vel
 13. What ceremonial marks distinguish The Scale Concord, Sundering Clades, Steam-Oracles, Aeolipile, Broken Brood, and Quiet Talon?
 14. What does a mixed-morph family unit look like visually and socially?
 15. Which morph-type is most commonly misunderstood by Meridians?
+16. What are the native Aeonolacertian names for the five morph-type lines?
+17. Which human group coined the `-sapien` field names first: Meridians, Prime Ops, Traverse Loyalists, or World Works field researchers?
 
 ---
 
