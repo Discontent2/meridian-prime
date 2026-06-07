@@ -523,7 +523,7 @@ A tabletop adaptation may use **Saurasapien** as the playable ancestry/species u
 
 **Plural Field Term:** Antisapiens.
 
-**Core Visual Principle:** Antisapiens are áæbsconditian phenotype people whose visible differences are primarily expressed through signal behavior, glow patterning, stealth adaptation, resonance markers, identity markings, bio-cabling, and anti-matter biology rather than body-shape ecology.
+**Core Visual Principle:** Antisapiens are áæbsconditian phenotype people whose visible differences are primarily expressed through signal behavior, glow patterning, stealth adaptation, resonance markers, identity markings, bio-cabling, technology access, and anti-matter biology rather than body-shape ecology.
 
 Antisapiens should look elegant, unsettling, alive, intelligent, blue-skinned, cyber-resonant, and profoundly alien without becoming generic fantasy creatures.
 
@@ -533,7 +533,7 @@ Antisapiens should look elegant, unsettling, alive, intelligent, blue-skinned, c
 
 Antisapiens are blue-skinned humanoids with anti-matter biological and cyber-resonant traits.
 
-Their bodies are generally humanoid in silhouette, but their visual identity comes from their eyes, glow behavior, signal markings, posture, stealth adaptation, lattice ornamentation, bio-cabling, and how their presence interacts with light and perception.
+Their bodies are generally humanoid in silhouette, but their visual identity comes from their eyes, glow behavior, signal markings, posture, stealth adaptation, lattice ornamentation, bio-cabling, technology access, and how their presence interacts with light and perception.
 
 ### Shared Anatomical and Visual Traits
 
@@ -618,9 +618,108 @@ Bio-cabling can move, glow, dim, retract, pulse, or respond to interface states 
 
 ---
 
+## Antisapien Signal-Band Technology Access
+
+Each Antisapien signal-band is bound by a technology-access ceiling. This access is biological, cultural, political, and infrastructural. It reflects what systems their signal-band can safely interface with, what systems society permits them to operate, and what kinds of technology their bio-cabling and signal behavior are naturally adapted to.
+
+**Each Antisapien signal-band can access its own technology tier and all lesser tiers. Higher tiers require special permission, illegal bypass, rare talent, ritual modification, or dangerous interface corruption.**
+
+### Tier 5: Nullsapien
+
+**Highest authorized access.**
+
+Nullsapiens have access to:
+
+- AI systems
+- sovereign cognition systems
+- predictive governance engines
+- command intelligence
+- high-order automated decision networks
+- all lesser forms of Antisapien technology
+
+This matches their bald/internalized bio-cabling and wireless signal authority. Nullsapiens do not visibly wear the network. They are permitted to command it.
+
+### Tier 4: Veilsapien
+
+Veilsapiens have access to:
+
+- AR systems
+- perception-layer overlays
+- stealth-field interfaces
+- phase-navigation displays
+- visual misdirection networks
+- VR systems
+- archive mesh systems
+- smart tech and legacy systems
+
+This matches their retractable dark fiber-optic bio-cabling and stealth role. Veilsapiens specialize in editing perception, masking presence, and controlling what others think they see.
+
+### Tier 3: Amaranthsapien
+
+Amaranthsapiens have access to:
+
+- VR systems
+- resonance chambers
+- dream-contact systems
+- harmonic simulations
+- immersive memory theaters
+- virtual signal laboratories
+- archive mesh systems
+- smart tech and legacy systems
+
+This matches their luminous fiber-optic bio-cabling with glowing tips. Amaranthsapiens specialize in simulated experience, resonance, dream logic, harmonic computation, and Madrigalist practice.
+
+### Tier 2: Vaultsapien
+
+Vaultsapiens have access to:
+
+- intranet systems
+- the Vault Mesh
+- archive mesh systems
+- identity vaults
+- continuity ledgers
+- survivor records
+- population memory systems
+- smart tech and legacy systems
+
+**Vault Mesh** is the preferred term for the secured áæbsconditian intranet used for identity records, survivor ledgers, population continuity, official history, memory proofs, and protected internal archives.
+
+This matches their organized network-cable bio-cabling. Vaultsapiens preserve continuity through ordered, secured, internal networks.
+
+### Tier 1: Lividisapien
+
+Lividisapiens have access to:
+
+- smart tech
+- old devices
+- phreaking systems
+- hacking tools
+- signal salvage
+- legacy interfaces
+- discarded hardware
+- corrupted devices
+- unofficial workarounds
+- exposed wiring and forgotten infrastructure
+
+**Wire access** and **fringe access** are common terms for Lividisapien interaction with discarded, outdated, unofficial, corrupted, or physically exposed systems.
+
+This matches their exposed multicolored phone-wire bio-cabling. Lividisapiens are low-clearance but dangerous because they understand broken systems, abandoned channels, and the ugly little wires official power forgets to bury.
+
+### Technology Access Design Balance
+
+- **Nullsapien** = AI / wireless sovereignty.
+- **Veilsapien** = AR / perception control.
+- **Amaranthsapien** = VR / dream and resonance simulation.
+- **Vaultsapien** = intranet / archive continuity.
+- **Lividisapien** = smart tech, phreaking, hacking, and legacy systems.
+
+The highest Antisapien class controls AI and official reality. The lowest or most suspect class can expose truth through obsolete and broken systems.
+
+---
+
 ## Antisapien Population Structure and Signal-Band Phenotypes
 
-Antisapien signal-bands are not separate species. They are recognizable áæbsconditian phenotype and specialization bands tied to anti-matter biology, cyber-resonance, stealth, memory, identity, bio-cabling, and social function.
+Antisapien signal-bands are not separate species. They are recognizable áæbsconditian phenotype and specialization bands tied to anti-matter biology, cyber-resonance, stealth, memory, identity, bio-cabling, technology access, and social function.
 
 Where Saurasapien morph-types are primarily readable through body-shape ecology, Antisapien bands are primarily readable through signal behavior.
 
@@ -630,6 +729,7 @@ A trained observer might identify an Antisapien band through:
 - eye-shine behavior
 - signal markings
 - bio-cabling expression
+- technology interface style
 - skin reflectivity
 - lattice scars or ornaments
 - stealth adaptation
@@ -665,6 +765,8 @@ These are human-facing field terms and should not be assumed to be native áæbs
 
 **Role Tendencies:** command, strategy, courts, sovereignty, high governance.
 
+**Technology Access:** Tier 5; AI, sovereign cognition systems, predictive governance engines, command intelligence, and all lesser tiers.
+
 **Visual Language:** deep blue or blue-black skin, severe symmetry, controlled expression, black irises, magenta pupils, subtle teal tapetum, regal stillness, bald smooth scalp.
 
 **Bio-Cabling:** absent or fully internalized; Nullsapiens generally appear bald because they represent wireless signal control and contained authority.
@@ -680,6 +782,8 @@ These are human-facing field terms and should not be assumed to be native áæbs
 **Faction Association:** The Veilknives.
 
 **Role Tendencies:** stealth, infiltration, phase movement, covert observation.
+
+**Technology Access:** Tier 4; AR, perception-layer overlays, stealth-field interfaces, phase navigation, visual misdirection networks, and all lesser tiers.
 
 **Visual Language:** midnight-blue matte skin, low-reflective surfaces, dim teal tapetum, shadow-adaptive markings, quiet movement.
 
@@ -697,6 +801,8 @@ These are human-facing field terms and should not be assumed to be native áæbs
 
 **Role Tendencies:** resonance science, signal theory, dream-contact, harmonic computation.
 
+**Technology Access:** Tier 3; VR, resonance chambers, dream-contact systems, harmonic simulations, immersive memory theaters, virtual signal laboratories, and all lesser tiers.
+
 **Visual Language:** blue-violet skin, amaranth/magenta signal lines, brighter teal eye-shine, lattice patterns at temples, throat, hands, or spine.
 
 **Bio-Cabling:** luminous fiber optics with glowing tips; magenta, amaranth, violet, teal, or electric-blue strands arranged in braids, loops, or harmonic patterns.
@@ -712,6 +818,8 @@ These are human-facing field terms and should not be assumed to be native áæbs
 **Faction Association:** The Last Thousand.
 
 **Role Tendencies:** identity preservation, genealogies, records, population memory, continuity custody.
+
+**Technology Access:** Tier 2; intranet systems, the Vault Mesh, archive mesh systems, identity vaults, continuity ledgers, survivor records, population memory systems, and all lesser tiers.
 
 **Visual Language:** stable cobalt or teal-blue skin, precise identity markings, subtle facial or hand glyphs, ceremonial record implants or memory-thread ornaments.
 
@@ -729,25 +837,27 @@ These are human-facing field terms and should not be assumed to be native áæbs
 
 **Role Tendencies:** contradiction reading, forbidden history, Split Signal analysis, revisionist truth-seeking.
 
+**Technology Access:** Tier 1; smart tech, old devices, phreaking systems, hacking tools, signal salvage, legacy interfaces, discarded hardware, corrupted devices, unofficial workarounds, exposed wiring, and forgotten infrastructure.
+
 **Visual Language:** livid blue skin with pale violet undertones, irregular but beautiful signal markings, strong magenta/teal eye contrast, asymmetrical glow patterns.
 
 **Bio-Cabling:** exposed multicolored phone-wire hair; visible internal cable-like strands in magenta, teal, yellow, orange, violet, pale blue, white, and other signal colors.
 
 **Signal Behavior:** contradiction-sensitive, unstable to lies, responsive to Split Signals, irregular but meaningful.
 
-**Design Notes:** Lividisapiens should look like they can see where a story fails to synchronize. Their cabling may look tangled, frayed, or asymmetrical, but it should feel meaningful and beautiful rather than random.
+**Design Notes:** Lividisapiens should look like they can see where a story fails to synchronize. Their cabling may look tangled, frayed, or asymmetrical, but it should feel meaningful and beautiful rather than random. Lividisapiens have the lowest formal access but the highest potential for illegal discovery.
 
 ---
 
 ## Antisapien Signal-Band Summary
 
-| Signal-Band Field Term | Faction Association | Primary Readability | Bio-Cabling / Hair | Notes |
-|---|---|---|---|---|
-| Nullsapien | The Null Court | symmetry, stillness, command signal | bald / internalized | sovereignty and wireless authority |
-| Veilsapien | The Veilknives | matte skin, low reflectivity, suppressed glow | retractable dark fiber optics | stealth and phase movement |
-| Amaranthsapien | Amaranth Schola / Madrigalists | magenta signal lines, lattice glow, harmonic pulse | glowing fiber optics with luminous tips | resonance science and dream-contact |
-| Vaultsapien | The Last Thousand | precise identity markings, record implants | organized network-cable bundles | continuity custody and survivor ledgers |
-| Lividisapien | Livid Æ Revisionists | asymmetrical glow, livid-blue undertones | exposed multicolored phone wires | contradiction reading and forbidden history |
+| Signal-Band Field Term | Faction Association | Tech Tier | Primary Readability | Bio-Cabling / Hair | Notes |
+|---|---|---|---|---|---|
+| Nullsapien | The Null Court | Tier 5 | symmetry, stillness, command signal | bald / internalized | AI and wireless sovereignty |
+| Veilsapien | The Veilknives | Tier 4 | matte skin, low reflectivity, suppressed glow | retractable dark fiber optics | AR, perception control, stealth |
+| Amaranthsapien | Amaranth Schola / Madrigalists | Tier 3 | magenta signal lines, lattice glow, harmonic pulse | glowing fiber optics with luminous tips | VR, resonance science, dream-contact |
+| Vaultsapien | The Last Thousand | Tier 2 | precise identity markings, record implants | organized network-cable bundles | Vault Mesh, archives, survivor ledgers |
+| Lividisapien | Livid Æ Revisionists | Tier 1 | asymmetrical glow, livid-blue undertones | exposed multicolored phone wires | smart tech, phreaking, hacking, hidden truth |
 
 ---
 
@@ -771,10 +881,11 @@ The Saurasapien and Antisapien systems are designed to balance one another witho
 - identity markings
 - contradiction asymmetry
 - bio-cabling expression
+- technology access ceiling
 
 Saurasapiens show civilization through bodies adapted to heat, pressure, color, tool-use, and physical role.
 
-Antisapiens show civilization through light discipline, signal etiquette, stealth surfaces, memory markings, anti-matter perception, bio-cabling, and cyber-resonant ornamentation.
+Antisapiens show civilization through light discipline, signal etiquette, stealth surfaces, memory markings, anti-matter perception, bio-cabling, technology access, and cyber-resonant ornamentation.
 
 ---
 
@@ -785,32 +896,40 @@ Antisapiens show civilization through light discipline, signal etiquette, stealt
 3. Antisapiens are blue-skinned humanoids.
 4. Their eyes have black irises, magenta pupils, and teal tapetum lucidum.
 5. They have rounded or humanlike ears rather than pointed fantasy ears.
-6. Their variation should come from signal behavior, glow patterning, stealth adaptation, resonance markers, identity markings, bio-cabling, and anti-matter biology.
+6. Their variation should come from signal behavior, glow patterning, stealth adaptation, resonance markers, identity markings, bio-cabling, technology access, and anti-matter biology.
 7. Use cyberpunk and anti-matter aesthetics: black glass, magenta/amaranth light, teal optics, neural lattice details, signal markings, bio-cabling, and stealth surfaces.
 8. Keep them alive, elegant, unsettling, and culturally specific.
-9. Avoid making the signal-bands simple color swaps; each band should have posture, glow behavior, markings, bio-cabling expression, and social function.
-10. Do not depict Antisapien bio-cabling as ordinary human hair.
-11. Do not give Nullsapiens hair unless deliberately showing an anomaly, disguise, or non-canon experiment.
-12. Do not make all Antisapien bands bald.
-13. Do not make all Antisapien bands have the same cable-hair texture.
-14. Bio-cabling should reinforce signal-band identity.
-15. Bio-cabling can move, glow, dim, retract, pulse, or respond to interface states depending on band.
-16. The cabling should feel biological and technological at once.
-17. The Nullsapien should not look like a generic monarch; the Veilsapien should not look like a generic assassin; the Amaranthsapien should not look like a fantasy mage; the Vaultsapien should not look like a librarian costume; the Lividisapien should not look random or broken without pattern.
+9. Technology access should influence costume, posture, tools, interface style, and scene design.
+10. Nullsapiens should visually imply wireless authority and AI command.
+11. Veilsapiens should visually imply perception-layer interfaces and AR stealth.
+12. Amaranthsapiens should visually imply immersive resonance, VR, dream-contact, and glowing fiber-optic interaction.
+13. Vaultsapiens should visually imply archive discipline, internal networks, identity locks, and organized cable bundles.
+14. Lividisapiens should visually imply smart devices, signal salvage, exposed wires, phreaking, hacking, and forbidden workarounds.
+15. Avoid making the signal-bands simple color swaps; each band should have posture, glow behavior, markings, bio-cabling expression, technology access, and social function.
+16. Do not depict Antisapien bio-cabling as ordinary human hair.
+17. Do not give Nullsapiens hair unless deliberately showing an anomaly, disguise, or non-canon experiment.
+18. Do not make all Antisapien bands bald.
+19. Do not make all Antisapien bands have the same cable-hair texture.
+20. Bio-cabling should reinforce signal-band identity.
+21. Bio-cabling can move, glow, dim, retract, pulse, or respond to interface states depending on band.
+22. The cabling should feel biological and technological at once.
+23. Do not make the tech tiers simple social ranks only. They are also signal-band interface capacities.
+24. Do not make Lividisapiens powerless. They have the lowest formal access but the highest potential for illegal discovery.
 
 ---
 
 ## Antisapien Common Design Mistakes to Avoid
 
 - Do not give Antisapiens pointed fantasy ears.
-- Do not use fantasy demon shorthand.
+- Do not use generic fantasy shorthand.
 - Do not remove the black iris / magenta pupil / teal tapetum eye rule.
 - Do not depict Antisapien bio-cabling as ordinary human hair.
 - Do not make all signal-bands identical except for clothing.
 - Do not make all signal-bands have the same cable-hair texture.
 - Do not make every glow pattern symmetrical; some bands require asymmetry or suppression.
 - Do not give Nullsapiens hair unless deliberately showing an anomaly, disguise, or non-canon experiment.
-- Do not make the cyberpunk aesthetic generic; it should connect to rails, signal bands, Bridge Script, memory, stealth, anti-matter containment, and bio-cabling.
+- Do not make the cyberpunk aesthetic generic; it should connect to rails, signal bands, Bridge Script, memory, stealth, anti-matter containment, bio-cabling, and technology access.
+- Do not make technology access purely decorative; it should affect how the character interacts with scenes and systems.
 
 ---
 
@@ -820,14 +939,22 @@ Antisapiens show civilization through light discipline, signal etiquette, stealt
 - A character identifies an Antisapien’s signal-band by bio-cabling before hearing their name.
 - A Nullsapien court figure can command a room without raising their voice.
 - A Nullsapien’s baldness signals sealed wireless authority.
+- Nullsapiens rule from wireless silence.
+- The highest Antisapien class controls AI and official reality.
 - A Veilsapien appears in a scene only after the characters realize the shadows have been edited.
+- A Veilsapien can alter what is seen.
 - A Veilsapien’s dark fiber strands retract during stealth.
 - An Amaranthsapien Madrigalist can read a damaged Mirror Grid sentence by listening to its harmonic failure.
+- An Amaranthsapien can alter what is experienced.
 - An Amaranthsapien’s glowing fiber tips pulse during Madrigalist song.
 - A Vaultsapien can prove that a supposedly extinct survivor line still exists.
+- A Vaultsapien may hold the official record while a Lividisapien finds the discarded contradiction.
 - A Vaultsapien’s cable bundles carry identity tags from the Last Thousand.
 - A Lividisapien can detect where World Works corrupted a Bridge Script message by sensing contradiction in the rail logic.
 - A Lividisapien’s exposed multicolored wires reveal sensitivity to contradiction and corrupted translation.
+- Lividisapiens listen to old wires, dead devices, corrupted terminals, and forbidden maintenance channels.
+- A Lividisapien may uncover truths that a Nullsapien AI system has suppressed.
+- A Nullsapien can command the system, but may not understand the broken edges where truth survives.
 - An Antisapien team can visually balance a Saurasapien team without feeling like a copied structure.
 
 ---
@@ -836,23 +963,23 @@ Antisapiens show civilization through light discipline, signal etiquette, stealt
 
 ### Comics
 
-Use glow behavior, bio-cabling, and silhouette discipline. A reader should be able to distinguish signal-bands through posture, eye-shine, markings, light response, and cable expression even before dialogue labels them.
+Use glow behavior, bio-cabling, technology access, and silhouette discipline. A reader should be able to distinguish signal-bands through posture, eye-shine, markings, light response, cable expression, and interface style even before dialogue labels them.
 
 ### 16-Bit Games
 
 Antisapien signal-bands can become readable sprite or gameplay classes:
 
-- Nullsapien: command / strategy / control unit; bald wireless authority.
-- Veilsapien: stealth / phase / evasion unit; retractable dark fiber-optic cabling.
-- Amaranthsapien: resonance / signal / dream-contact unit; glowing fiber-optic tips.
-- Vaultsapien: archive / identity / protection-support unit; organized network-cable bundles.
-- Lividisapien: contradiction / truth-detection / corrupted-data analysis unit; exposed multicolored phone-wire hair.
+- Nullsapien: AI command, system override, strategic control; bald wireless authority.
+- Veilsapien: AR stealth, perception editing, phase navigation; retractable dark fiber-optic cabling.
+- Amaranthsapien: VR puzzles, dream sequences, resonance simulation; glowing fiber-optic tips.
+- Vaultsapien: archive locks, identity systems, continuity records; organized network-cable bundles.
+- Lividisapien: hacking, phreaking, smart-tech repair, hidden truth discovery; exposed multicolored phone-wire hair.
 
 ### Tabletop Games
 
 A tabletop adaptation may use **Antisapien** as the playable ancestry/species umbrella and the five signal-band names as phenotype options.
 
-Signal-bands should guide abilities, social expectations, visual markings, bio-cabling, and narrative hooks without locking a character into a single destiny.
+Signal-bands should guide abilities, social expectations, visual markings, bio-cabling, technology access, and narrative hooks without locking a character into a single destiny.
 
 ---
 
@@ -883,6 +1010,16 @@ Signal-bands should guide abilities, social expectations, visual markings, bio-c
 23. Can Vaultsapien network bundles store identity data physically?
 24. Can Veilsapien retractable fibers survive phase movement better than other forms?
 25. What happens when a Contradiction State causes all bio-cabling to light at once?
+26. Who created the Antisapien technology access ladder?
+27. Is this ladder biological fact, political caste law, or both?
+28. Can an Antisapien legally train above their signal-band tier?
+29. What happens if a Lividisapien illegally accesses AI?
+30. What happens if a Nullsapien is forced to use exposed legacy wires?
+31. Can the Vault Mesh be trusted, or has it been rewritten?
+32. Which faction polices illegal access between tiers?
+33. Can Bridge Script terminals bypass Antisapien access tiers?
+34. Did World Works exploit these access ceilings during the Poisoned Contact?
+35. Which signal-band is most likely to break the ladder first?
 
 ---
 
