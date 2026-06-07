@@ -1,4 +1,4 @@
-# Meridian Prime Bible v0.4
+# Meridian Prime Bible v0.5
 
 > Fictional worldbuilding reference for the Meridian Prime universe.
 
@@ -463,7 +463,181 @@ Their power is the ability to keep standing after systems designed to break them
 
 ---
 
-## 23. Native Secondary Factions
+## 23. Primary Factions
+
+The primary factions define the largest political, cultural, species-level, and ideological pressures in the Meridian Prime universe. Secondary factions should be understood as subgroups, sects, dissident currents, or institutional orders within this broader faction map.
+
+### World Works Corporation
+
+**Canon Status:** CONFIRMED CANON
+
+**Primary Domain:** The Lodestar, orbital infrastructure, archives, logistics, security, public continuity, corporate governance.
+
+**Public Image:** guardian of mission survival, steward of The Lodestar, protector of continuity.
+
+**Hidden Truth:** World Works began as a cabal that used the Poisoned Contact, the Surface Insurgency, and the Auto-Coup to inherit Meridian Prime before arrival.
+
+**Core Goal:** preserve control over Meridian Prime’s official history, infrastructure, security, archives, and future development.
+
+**Core Fear:** public discovery that human pre-arrival interference helped catalyze the Catastrophic Interaction and weakened the native civilizations before colonization.
+
+**Primary Strength:** numbers, organization, logistics, orbital control, public narrative management.
+
+**Primary Weakness:** its legitimacy depends on a curated version of history.
+
+**Technology Aesthetic:** solarpunk on The Lodestar, corporate-clean surfaces masking coercive control.
+
+**Relationship to Control over Continuity:** originator and enforcer of the doctrine.
+
+**Story Uses:** central antagonist, compromised protector, archive gatekeeper, political machine, orbital ruling power.
+
+### Meridians
+
+**Canon Status:** CONFIRMED CANON
+
+**Primary Domain:** surface human civilization on Meridian Prime.
+
+**Public Image:** ordinary citizens, workers, families, local communities, civic believers in continuity.
+
+**Hidden Truth:** Meridians inherited the benefits and consequences of a pre-arrival crime most of them did not commit and do not know about.
+
+**Core Goal:** survive, build lives, protect families, maintain dignity, and make meaning beneath World Works control.
+
+**Core Fear:** social collapse, memory corruption, corporate punishment, and the possibility that their home was founded on a lie.
+
+**Primary Strength:** willpower.
+
+**Primary Weakness:** limited access to archives, degraded technology, and curated public knowledge.
+
+**Technology Aesthetic:** dieselpunk, rugged surface infrastructure, patched colonial systems, institutional decay with a working engine.
+
+**Relationship to Control over Continuity:** most Meridians use it as reassurance, resignation, blessing, warning, or social pressure.
+
+**Story Uses:** protagonists, witnesses, rebels, families, workers, investigators, believers, doubters.
+
+### Aeonolacertians
+
+**Canon Status:** CONFIRMED CANON
+
+**Primary Domain:** Matter Aeonos, hidden enclaves, ancestral machinery, memory sites, pre-human ruins, continuity systems.
+
+**Public Image:** myth, forbidden archaeology, hidden native presence, or distorted rumor depending on what World Works allows people to know.
+
+**Hidden Truth:** Aeonolacertians are a surviving native civilization whose population was reduced to roughly 1,000 by the Catastrophic Interaction.
+
+**Core Goal:** survive as a people, preserve memory, understand the truth of the catastrophe, and decide whether humanity is enemy, tool, accident, or possible ally.
+
+**Core Fear:** extinction, cultural dissolution, renewed áæbsconditian conflict, and human erasure of Aeonos history.
+
+**Primary Strength:** brute physical strength and ancient advanced technology hidden beneath primitive-steampunk aesthetics.
+
+**Primary Weakness:** low population, internal factional fracture, and incomplete trust between classes after catastrophe.
+
+**Technology Aesthetic:** primitive steampunk in appearance, extremely advanced in function.
+
+**Relationship to Control over Continuity:** they may see World Works’ doctrine as a crude human imitation of much older continuity principles.
+
+**Story Uses:** ancient allies, wounded witnesses, hidden power, moral counterweight to human colonial history, keepers of pre-human truth.
+
+### áæbsconditians
+
+**Canon Status:** CONFIRMED CANON
+
+**Primary Domain:** anti-matter àæonos, stealth networks, cyber-resonance systems, memory-signal operations, cross-world influence.
+
+**Public Image:** unknown, demonized, mythologized, or classified as impossible by human authorities.
+
+**Hidden Truth:** áæbsconditians are a surviving anti-matter civilization, commonly simplified in human records as Absconditians, whose population was also reduced to roughly 1,000 by the Catastrophic Interaction.
+
+**Core Goal:** survive, preserve áæbsconditian continuity, understand or exploit the truth of the Catastrophic Interaction, and determine how to respond to Matter Aeonos and humanity.
+
+**Core Fear:** extinction, contamination by matter-side continuity, historical falsification, and permanent loss of àæonos sovereignty.
+
+**Primary Strength:** stealth.
+
+**Primary Weakness:** low population, factional secrecy, ideological rigidity among ruling elements, and dependence on hidden influence rather than open force.
+
+**Technology Aesthetic:** cyberpunk, black glass, magenta light, teal optics, invasive interfaces, neural lattices, and anti-matter containment architecture.
+
+**Relationship to Control over Continuity:** they may see it as evidence that humans are not merely colonizers, but continuity thieves.
+
+**Story Uses:** stealth antagonists, secret allies, anti-life philosophers, hidden witnesses, memory intruders, keepers of alternate truth.
+
+### Prime Ops Authority
+
+**Canon Status:** PROVISIONAL CANON
+
+**Primary Domain:** Prime Ops Space Port, shuttle access, surface-orbit traffic, restricted transit, cargo inspection, executive movement.
+
+**Public Image:** transportation authority and security administration for the only legitimate route between Meridian Prime’s surface and The Lodestar.
+
+**Hidden Truth:** Prime Ops is a choke point where World Works can quietly control who reaches orbit, what leaves the surface, and which records or people disappear into procedure.
+
+**Core Goal:** maintain controlled access between the surface and The Lodestar.
+
+**Core Fear:** unauthorized transit, smuggled evidence, dissident infiltration, native contact incidents, and breakdown of orbital authority.
+
+**Primary Strength:** gatekeeping power.
+
+**Primary Weakness:** every gate creates smugglers, false papers, black-market routes, and compromised insiders.
+
+**Technology Aesthetic:** dieselpunk surface security blended with older shuttle systems and polished corporate orbital interfaces.
+
+**Relationship to Control over Continuity:** Prime Ops turns doctrine into checkpoints.
+
+**Story Uses:** border crossings, heists, interrogations, shuttle drama, bureaucratic menace, first trip to The Lodestar.
+
+### Traverse Loyalists
+
+**Canon Status:** PROVISIONAL CANON
+
+**Primary Domain:** hidden civic circles, old mission families, archival fragments, ceremonial memory of The Traverse.
+
+**Public Image:** traditionalists, eccentrics, historical societies, or harmless mission romantics.
+
+**Hidden Truth:** some Traverse Loyalists believe the original mission was betrayed by the cabal that became World Works.
+
+**Core Goal:** recover the original mission principles, restore the pre-corporate civic legacy of The Lodestar, and expose what was altered during the Auto-Coup.
+
+**Core Fear:** that no clean version of the original mission survives and that even Ernest Skelton’s legacy may be compromised.
+
+**Primary Strength:** inherited memory, archival obsession, old family networks, symbolic legitimacy.
+
+**Primary Weakness:** nostalgia, fragmentation, and limited power against World Works institutions.
+
+**Technology Aesthetic:** old shipboard records, analog archives, preserved uniforms, ritualized Traverse-era tools.
+
+**Relationship to Control over Continuity:** they oppose World Works’ version of continuity but may still believe continuity itself is sacred.
+
+**Story Uses:** clue givers, old conspirators, flawed mentors, archive hunters, ideological rivals to younger dissidents.
+
+### Continuity Dissidents
+
+**Canon Status:** PROVISIONAL CANON
+
+**Primary Domain:** Meridian surface communities, underground networks, banned archives, memory-corruption incidents, illegal broadcasts.
+
+**Public Image:** conspiracy theorists, criminals, cultists, destabilizers, or dangerous romantics, depending on World Works propaganda.
+
+**Hidden Truth:** many dissidents have noticed real contradictions in public history and planetary memory.
+
+**Core Goal:** expose the gap between public history and hidden history.
+
+**Core Fear:** memory erasure, social isolation, false confession, disappearance into Prime Ops procedure, and learning that the truth is worse than the lie.
+
+**Primary Strength:** persistence, improvisation, local trust, forbidden curiosity.
+
+**Primary Weakness:** factional infighting, unreliable evidence, paranoia, and infiltration.
+
+**Technology Aesthetic:** dieselpunk pirate media, patched receivers, hidden printing devices, archive contraband, improvised signal gear.
+
+**Relationship to Control over Continuity:** they treat the phrase as a cage disguised as comfort.
+
+**Story Uses:** investigators, rebels, whistleblowers, unreliable witnesses, street-level entry into the larger conspiracy.
+
+---
+
+## 24. Native Secondary Factions
 
 The Aeonolacertians and áæbsconditians are not monolithic civilizations. The Catastrophic Interaction, the Poisoned Contact, and the reduction of both populations to roughly 1,000 survivors fractured their societies into survivor factions, ideological orders, and specialist sects.
 
@@ -632,7 +806,7 @@ The Quiet Talon watches.
 
 ---
 
-## 24. Faction Strength Balance
+## 25. Faction Strength Balance
 
 Each major civilization or faction can defeat the others under the right circumstances.
 
@@ -648,7 +822,7 @@ This balance prevents any one group from being universally superior and keeps co
 
 ---
 
-## 25. Corrupted Planetary Memory
+## 26. Corrupted Planetary Memory
 
 Meridian Prime exists under the shadow of corrupted planetary memory.
 
@@ -664,7 +838,7 @@ Its answer is Control over Continuity.
 
 ---
 
-## 26. Story Engine
+## 27. Story Engine
 
 A Meridian Prime story should usually include:
 
@@ -686,7 +860,7 @@ Every truth has a cost.
 
 ---
 
-## 27. Major Themes
+## 28. Major Themes
 
 ### Inherited Memory
 
@@ -722,7 +896,7 @@ The Aeonolacertians and áæbsconditians survived catastrophe, but survival did 
 
 ---
 
-## 28. Core Open Mysteries
+## 29. Core Open Mysteries
 
 The following mysteries should remain active engines for the setting:
 
@@ -746,10 +920,13 @@ The following mysteries should remain active engines for the setting:
 18. Can The Broken Brood and The Livid Æ Revisionists form a truth alliance?
 19. What does The Aeolipile know about repairing planetary memory?
 20. What song, signal, or record are the Madrigalists trying to recover?
+21. How independent is Prime Ops Authority from World Works?
+22. Which Traverse Loyalist archive contradicts the official Auto-Coup record?
+23. Which Continuity Dissident first connects Meridian memory corruption to Aeonos history?
 
 ---
 
-## 29. Current Canon Summary
+## 30. Current Canon Summary
 
 Meridian Prime is the human name for Kepler-1649c, a planet originally reached by The Lodestar after a 200-year generational mission called Project Meridian Prime.
 
@@ -762,6 +939,8 @@ At the same time, World Works exploited the crisis to carry out the Auto-Coup ab
 In the present, World Works rules from The Lodestar, which remains active in orbit and appears from the surface as a large moving star with red blinking lights.
 
 The surface population, known as Meridians, lives under degraded dieselpunk conditions, while The Lodestar projects a solarpunk image of clean corporate order. Aeonolacertian technology appears primitive and steampunk-like while being extremely advanced. áæbsconditian technology is cyberpunk in appearance and terrifyingly sophisticated.
+
+Primary factions include World Works Corporation, Meridians, Aeonolacertians, áæbsconditians, Prime Ops Authority, Traverse Loyalists, and Continuity Dissidents.
 
 The native survivor civilizations are internally fractured. Aeonolacertian groups include The Scale Concord, The Sundering Clades, The Steam-Oracles, The Aeolipile, The Broken Brood, and The Quiet Talon. áæbsconditian groups include The Null Court, The Veilknives, The Amaranth Schola, the Madrigalists, The Last Thousand, and The Livid Æ Revisionists.
 
