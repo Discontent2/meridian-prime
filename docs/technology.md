@@ -351,6 +351,169 @@ The city is not defended from outside inward. It is defended like a body decidin
 
 ---
 
+## áæbsconditian Signal Architecture and Lattice Script
+
+**Canon Status:** CONFIRMED CANON
+
+The **Antimatter Lattice Script** is originally áæbsconditian signal-writing. It is a visual, computational, and philosophical writing system built around mirrored rails, harmonic data flow, and entanglement logic.
+
+World Works later appropriates simplified versions of the script for executive data systems, archive locks, continuity interfaces, and corporate command displays. This derivative is often stripped of its original cultural context and presented as clean corporate design.
+
+Meridian rebels, Continuity Dissidents, and street hackers then mutilate the corporate derivative into **Glitch Script** by severing the Lower Rail, creating jagged illegal strings that mock official harmony.
+
+The symbolic chain is:
+
+**áæbsconditian sacred/technical signal-writing → World Works corporate appropriation → Meridian rebel vandalism**
+
+---
+
+### Signal Bands
+
+The script is structured around rail logic.
+
+**Upper Rail**
+
+The command, authority, or executive stream. In áæbsconditian usage, this may represent active signal intent, ruling pattern, or initiating logic. In World Works derivatives, it becomes corporate command data.
+
+**Central Timeline / Entanglement Rail**
+
+The main reading axis. Sentences flow left to right along this rail. It represents synchronization, event sequence, and the shared line where active command and reflected echo are bound together.
+
+**Lower Rail**
+
+The echo, reflection, subordinate response, or street mirror. In formal áæbsconditian script, the Lower Rail does not merely duplicate the Upper Rail; it completes the signal. Removing it damages the sentence’s harmony.
+
+**Sync-Pin**
+
+A terminal or synchronization mark, often functioning like punctuation, closure, or signal lock.
+
+---
+
+### Glyph Families
+
+Common signal-band glyphs include:
+
+**Stable Bond**
+
+A linked hexagonal form used for stable connection, bonded data, or secure continuity.
+
+**Audio Barcode**
+
+A vertical strip-glyph used for encoded sound, speaker identity, or harmonic fingerprint.
+
+**High Chevron**
+
+An angular rise glyph used for elevation, command emphasis, upward signal, or authority.
+
+**Hex Node**
+
+A node-mark used for lattice junctions, decision points, or entanglement anchors.
+
+**Data Block**
+
+A dense rectangular glyph used for compressed information, sealed records, or unreadable corporate data.
+
+**Server Bracket**
+
+A bracketed container glyph used for hosted systems, archive enclosures, or machine-governed commands.
+
+Example signal band legend:
+
+```text
+======================= THE UPPER RAIL / COMMAND STREAM =======================
+[M / N]          [V / Z]           [Ae]             [Oo]            [B / P]          [T / D]
+──⬡───⬡──        ││╢   ╟││           ╱╲               ┯              ■■■■■■           ┌────┐
+  │   │          ││║   ║││          ╱  ╲             ⬡ ⬡             ██████           │ ⊏  │
+──⬡───⬡──        ││╢   ╟││         ╱    ╲             ■              ■■■■■■           └────┘
+(Stable Bond)   (Audio Barcode)  (High Chevron)   (Hex Node)       (Data Block)     (Server Bracket)
+======================= THE LOWER RAIL / REFLECTED ECHO =======================
+```
+
+---
+
+### Mirror Grid Sentence Structure
+
+A complete formal sentence uses the **Mirror Grid**: active signal above, reflected echo below, both bound to a Central Timeline / Entanglement Rail.
+
+To read a sentence, the data flows left to right along the central timeline rail. The upper stream carries command or active meaning. The lower stream mirrors, answers, complicates, or stabilizes the signal.
+
+Example phrase:
+
+**The Grid provides the pulse; your life the pulse sustains.**
+
+```text
+             ──⬡───⬡──      ╱╲      ■■■■■■      ┌────┐
+             ───│───│───────╱──╲─────██████──────│─⊏──│─────────── (Upper Rail / Executive Stream)
+──────────────[ CENTRAL TIMELINE / ENTANGLEMENT RAIL ]─────────────⧾ (Sync-Pin)
+             ───│───│───────╲──╱─────██████──────│─⊐──│─────────── (Lower Rail / Reflected Echo)
+             ──⬡───⬡──      ╲╱      ■■■■■■      └────┘
+```
+
+Different factions interpret this kind of phrase differently:
+
+- The Null Court may read it as metaphysical order.
+- The Amaranth Schola may read it as signal ecology.
+- World Works may read it as system propaganda.
+- Continuity Dissidents may read it as a confession that lives are being fed into a grid.
+
+---
+
+### World Works Appropriation
+
+World Works uses simplified Lattice Script forms in executive interfaces, archive locks, security systems, continuity dashboards, and restricted data displays.
+
+In corporate use, the Upper Rail is emphasized and the Lower Rail is visually reduced, controlled, or subordinated. This changes the meaning of the script from reciprocal entanglement to command hierarchy.
+
+World Works does not publicly acknowledge the áæbsconditian origin of the script. To most personnel, it appears to be high-grade executive design language or classified data notation.
+
+**Story Uses:** a character recognizes that World Works control systems are built from stolen áæbsconditian logic; an executive display accidentally preserves an older Lower Rail; a corporate archive lock can only be opened by reading the signal as áæbsconditian, not as World Works code.
+
+---
+
+### Glitch Script
+
+**Canon Status:** CONFIRMED CANON
+
+**Glitch Script** is a rebel, dissident, and street-hacker mutilation of World Works’ corporate Lattice derivative.
+
+Its signature act is severing or deleting the Lower Rail. This makes the data look jagged, incomplete, illegal, and hostile to official harmony.
+
+If formal Mirror Grid says meaning requires command and echo, Glitch Script says:
+
+**We refuse to mirror you.**
+
+Example Glitch Script:
+
+```text
+    ⚡︎         ╱          ││╢        ⚡︎
+──╱─╲───⬡───╱───■■■■■───││║───────╱─╲─── [Line Terminated / Illegal String]
+====================================================================================
+```
+
+**Common Uses:** hacked billboards, illegal broadcasts, dissident tags, anti-World Works graffiti, corrupted archive warnings, street punk identity marks.
+
+**Story Uses:** visual rebellion, faction signatures, cyberpunk signage, comic panels, UI corruption, secret messages hidden in broken corporate displays.
+
+---
+
+### Factional Usage
+
+**The Null Court** uses pristine, symmetrical Mirror Grid script with minimal distortion.
+
+**The Amaranth Schola** uses complex harmonic variants with additional resonance marks, dream-signals, and encoded perception layers.
+
+**Madrigalists** may animate the script so glyphs pulse, sync, invert, and sing.
+
+**The Livid Æ Revisionists** may write corrected Mirror Grids where the Lower Rail contradicts the Upper Rail instead of echoing it.
+
+**Veilknives** may use incomplete lattice fragments as dead drops, phase markers, or false walls in perception.
+
+**World Works** uses simplified corporate derivatives while concealing or misunderstanding their origin.
+
+**Continuity Dissidents** and street hackers favor Glitch Script as visible refusal.
+
+---
+
 ## Open Technology Questions
 
 1. Is the Bore universal across Aeonolacertian civilization, or did different city-states preserve variant standards?
@@ -366,3 +529,8 @@ The city is not defended from outside inward. It is defended like a body decidin
 11. Can a Mother Heart be overheated deliberately to destroy its own city rather than let it fall?
 12. Has World Works ever mistaken Vent Corridors for inefficient design rather than thermal warfare architecture?
 13. Can the blueprint tokens be read by non-Aeonolacertians, or are they also pressure-calibration marks?
+14. Which World Works system first appropriated Antimatter Lattice Script?
+15. Which áæbsconditian faction considers World Works’ Lattice derivative an act of theft or desecration?
+16. Can the Livid Æ Revisionists reconstruct hidden history by comparing Upper Rail and Lower Rail contradictions?
+17. What does it mean when a Glitch Script tag preserves part of the Lower Rail instead of deleting it entirely?
+18. Can a Madrigalist sing a Mirror Grid sentence into motion?
