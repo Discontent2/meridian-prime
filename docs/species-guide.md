@@ -14,6 +14,10 @@ This guide begins with the **Aeonolacertians**, whose visual canon is foundation
 
 **Species Type:** hybrid saurian people native to Matter Aeonos.
 
+**Formal Species / Civilization Name:** Aeonolacertian.
+
+**Common Umbrella Field Term:** Saurasapien.
+
 **Core Visual Principle:** Aeonolacertians are not simple dinosaur people. They are a crossbred saurian civilization with mostly humanoid body plans, expressive saurian features, universal tails, vivid color palettes, and morph-type traits that express across mixed populations.
 
 Aeonolacertians should look ancient, alive, intelligent, physically powerful, culturally complex, and technologically mature. Their bodies and clothing should communicate heat, pressure, motion, brass, copper, color, class-line heritage, and survivor history.
@@ -60,6 +64,12 @@ A city, enclave, or faction should show mixed Aeonolacertian populations: differ
 
 ### Naming Systems
 
+**Aeonolacertian** is the formal species and civilization name.
+
+**Saurasapien** is the common umbrella field term for Aeonolacertian morph-type people. It is most often used by Meridians, field personnel, artists, scout teams, mechanics, and game/comic adaptation notes when referring to the five recognizable `-sapien` morph-type expressions as a group.
+
+The term **Saurasapien** does not replace Aeonolacertian in formal canon. It is a practical human-facing umbrella label for the visible morph-type system.
+
 The five Aeonolacertian morph-type lines have two common human-facing naming systems.
 
 **Archival / World Works / academic labels** usually use the older `-sauroid` morphology terms. These appear in classification records, restricted dossiers, scientific notes, and official World Works analysis.
@@ -80,6 +90,7 @@ Example usage:
 
 - **World Works archive:** “Subject exhibits Tyrannisauroid-dominant morphology.”
 - **Meridian mechanic:** “That’s Tyrannosapien pressure gear. Don’t touch it unless you want your arm educated.”
+- **Field team note:** “The commission included one Saurasapien of each major field-recognized morph type.”
 - **Possible native usage:** TBD.
 
 ### Canonical Morph-Type Lines
@@ -412,6 +423,8 @@ Artists and writers should avoid making Aeonolacertians unreadable monsters. The
 14. Scale and armor painting for war, ritual, grief, and oath-status is canon.
 15. Morph types are mixed population traits associated with specialized roles, not separate species.
 16. `-sauroid` terms are archival or academic labels; `-sapien` terms are common field names.
+17. **Saurasapien** is the common umbrella field term for Aeonolacertian morph-type people.
+18. **Aeonolacertian** remains the formal species and civilization name.
 
 ---
 
@@ -428,6 +441,7 @@ Artists and writers should avoid making Aeonolacertians unreadable monsters. The
 - Do not make Heart Guard armor ordinary red metal; it is red crystal armor.
 - Do not treat morph types as rigid castes with no mixing.
 - Do not use the common `-sapien` field names as proof that Aeonolacertians are human; the terms are human-facing shorthand.
+- Do not use **Saurasapien** as a formal replacement for **Aeonolacertian** in official canon or native history.
 
 ---
 
@@ -441,6 +455,7 @@ Artists and writers should avoid making Aeonolacertians unreadable monsters. The
 - A Heart Guard reveal should feel mythic: red crystal armor glowing in 20 K’al heat.
 - An infantry steam automaton suit entering a straight Vent Corridor should feel like a boiler grew legs and chose violence.
 - A character can notice the gap between World Works archival labels and Meridian field names, revealing who learned about Aeonolacertians from files and who learned in the field.
+- An old team photograph labeled with the field term **Saurasapien** can reveal that humans once studied, worked with, or classified mixed Aeonolacertian morph-type groups.
 
 ---
 
@@ -460,9 +475,13 @@ Morph-types can become readable sprite classes:
 - Ankylosauroid / Ankylosapien: tank / engineer / shield unit
 - Ceratopsinoid / Cerasapien: guardian / civic leader / defensive support
 
+The term **Saurasapien** can be used as the umbrella species label in menus, bestiaries, field guides, sprite sheets, and collectible lore cards when the adaptation needs a compact field-facing category.
+
 ### Tabletop Games
 
 Morph-types can inform role bonuses without locking characters into roles. A Velocisapien can be a scholar. An Ankylosapien can be a diplomat. The trait-line influences silhouette and cultural expectations, not destiny.
+
+A tabletop adaptation may use **Saurasapien** as the playable ancestry/species umbrella and the five `-sapien` names as morph-type options.
 
 ---
 
@@ -485,6 +504,8 @@ Morph-types can inform role bonuses without locking characters into roles. A Vel
 15. Which morph-type is most commonly misunderstood by Meridians?
 16. What are the native Aeonolacertian names for the five morph-type lines?
 17. Which human group coined the `-sapien` field names first: Meridians, Prime Ops, Traverse Loyalists, or World Works field researchers?
+18. Who coined the umbrella field term **Saurasapien**?
+19. Do Aeonolacertians tolerate the field term **Saurasapien**, reject it, or use it pragmatically when speaking with humans?
 
 ---
 
