@@ -190,6 +190,8 @@ Hidden rooms, basement transmitters, roofline relay nests, and illegal broadcast
 
 Hidden survivor settlements, sanctuaries, or fortress-communities of the Aeonolacertians. They may be concealed by terrain, ancient technology, memory distortion, or World Works suppression.
 
+Aeonolacertian outposts around these enclaves are often spaced by the **Vent-Distance / Tlax-Xal**, the distance a standard vent can push usable heat before condensation cools back into water. A surviving enclave is therefore not just a settlement. It is a thermal network.
+
 ### Steam-Oracle Foundries
 
 **Canon Status:** PROVISIONAL CANON
@@ -209,6 +211,8 @@ Hidden survivor settlements, sanctuaries, or fortress-communities of the Aeonola
 **Story Uses:** revelation that primitive-looking technology is advanced, ritual-science scenes, memory repair, siege defense, machine awakening.
 
 **Hazards / Taboos:** touching unvented pressure systems; misreading ritual commands as superstition; entering without heat discipline; speaking during calibration.
+
+**Metrology / Boiler-Time Notes:** Foundries are built in Bore-derived standards. Pipes, rivets, valves, and pressure fittings follow fractions or multiples of the **Bore**, while major corridors and structural ribs are measured in **Reach / Xal**. Foundry labor is coordinated by the **Boiler Cycle**, with the city-wide Vent / Xis-tlatl often masking forbidden speech, secret repair work, or ritual transitions.
 
 **Siege / Soundscape Notes:** In crisis, foundry alarms may sound through tuned steam whistles in rhythmic **Xis-tl-Xis-tl** patterns. Commands can be transmitted through clicks, hisses, and glottal stops that cut through battle noise.
 
@@ -236,6 +240,8 @@ Hidden survivor settlements, sanctuaries, or fortress-communities of the Aeonola
 
 **Hazards / Taboos:** broken rhythm can rupture a stored memory; cold bodies can disrupt heat grids; unauthorized recording is forbidden.
 
+**Metrology / Boiler-Time Notes:** The Aeolipile use the **Stroke / Tzk’** for calibration timing and the **Vent / Xis-tlatl** for major pressure transitions. A failed count can desynchronize memory-pressure systems. The **Shift / Na-Tzk’** limits how long practitioners can work before returning to high heat.
+
 **Siege / Soundscape Notes:** The Aeolipile may use commands such as **K’atli-tlax tzk’!** meaning “Hold the line and maintain body heat,” literally “Lock scales for warmth.” In defensive huddles, armor plates click together in **tl-tl-tl** patterns to create conductive heat grids.
 
 **Connected Locations:** Steam-Oracle Foundries, Central Boiler Sanctums, Pressure-Memory Wells.
@@ -245,6 +251,8 @@ Hidden survivor settlements, sanctuaries, or fortress-communities of the Aeonola
 ### Pressure-Memory Wells
 
 Ancient Aeonolacertian sites where memory is stored or stabilized through pressure, geothermal resonance, bio-mechanical systems, and analog-looking machinery.
+
+Pressure-Memory Wells are often calibrated by **Stroke / Tzk’** and maintained through Bore-standard fittings. Some wells may only open or become readable during specific Boiler Cycle transitions.
 
 ### Central Boiler Sanctums
 
@@ -265,6 +273,8 @@ Ancient Aeonolacertian sites where memory is stored or stabilized through pressu
 **Story Uses:** siege climax, defense of the city-heart, moral dilemma, last stand, awakening of ancestral systems.
 
 **Hazards / Taboos:** cooling the Mother-Heart may kill more than infrastructure; enemies who breach the sanctum may collapse civic memory; defenders may be oath-bound to die before retreat.
+
+**Metrology / Boiler-Time Notes:** Central Boiler Sanctums dictate the city’s **Boiler Cycle**. Their regulators define the local **Stroke / Tzk’**, and their scheduled purges define the **Vent / Xis-tlatl**. Outlying city nodes and defensive outposts are placed at **Vent-Distance / Tlax-Xal** intervals to preserve thermal corridors. To destroy one node is to risk **Breaking the Corridor**.
 
 **Siege / Soundscape Notes:** A desperate rally cry here is **Q’at-atli na-q’at!**, translated as “Protect the Central Boiler at all costs,” literally “Blood for the Mother-Heart!” Artillery officers may command **Xisssss-tlatl q’at-xis!**, meaning “Vent the steam-guns! / Fire!” literally “Hiss-release the pressure-weapons!”
 
@@ -291,6 +301,8 @@ Ancient Aeonolacertian sites where memory is stored or stabilized through pressu
 **Story Uses:** revelation site, haunted ruin, first encounter with Aeonolacertian survivor memory, pursuit across unstable machinery.
 
 **Hazards / Taboos:** memory echoes, pressure ghosts, unstable machinery, territorial guardians, records that can overwrite false recollection.
+
+**Metrology / Boiler-Time Notes:** Broken corridors may still reveal old **Reach / Xal** spacing, while shattered pipes show Bore-derived engineering. Ruined outposts one **Vent-Distance / Tlax-Xal** apart can reveal the former shape of a thermal defense network.
 
 **Siege / Soundscape Notes:** The ruins may still contain dead alarm-whistles that occasionally vent fragments of the old **Xis-tl-Xis-tl** warning pattern. Brass armor fragments may click in wind, imitating battle huddle signals.
 
@@ -414,3 +426,6 @@ Areas where records, personal memory, geography, and public history become unsta
 18. Was the False Parley Site deliberately destroyed by World Works?
 19. Can Prime Ops remain non-anomalous forever?
 20. Which location should serve as the first major scene of the first novel, comic, or game?
+21. Which Vent-Distance corridor was first broken during the Catastrophic Interaction?
+22. Which hidden enclave still keeps perfect Boiler-Time?
+23. What happens when a Memory-Corrupted Region disrupts a Central Boiler Sanctum’s Stroke?
