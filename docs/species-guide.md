@@ -4,11 +4,11 @@
 
 This document defines the canonical visual, anatomical, cultural, and design language for the major peoples of Meridian Prime, Aeonos, and àæonos.
 
-This guide begins with the **Aeonolacertians**, whose visual canon is foundational for novels, comics, illustrations, tabletop materials, and 16-bit game design.
+This guide begins with the **Aeonolacertians** and **áæbsconditians / Absconditians**, whose visual canon is foundational for novels, comics, illustrations, tabletop materials, and 16-bit game design.
 
 ---
 
-## Aeonolacertians
+## Aeonolacertians / Saurasapiens
 
 **Canon Status:** CONFIRMED CANON
 
@@ -24,7 +24,7 @@ Aeonolacertians should look ancient, alive, intelligent, physically powerful, cu
 
 ---
 
-## Baseline Body Plan
+## Aeonolacertian Baseline Body Plan
 
 Aeonolacertians have a mostly humanoid body plan with strong saurian features.
 
@@ -54,7 +54,7 @@ Design note: avoid giving Aeonolacertians ordinary human hands or human feet wit
 
 ---
 
-## Population Structure and Morph Types
+## Aeonolacertian Population Structure and Morph Types
 
 Aeonolacertians are mixed populations with recognizable morph-type tendencies rather than rigid biological castes.
 
@@ -105,7 +105,7 @@ These are not separate species. They are trait-line expressions within one cross
 
 ---
 
-## Color and Ornamentation
+## Aeonolacertian Color and Ornamentation
 
 Aeonolacertians use vivid colors. Their class-lines are color-associated, though exact palettes vary by region, family, age, role, and ritual context.
 
@@ -146,7 +146,7 @@ War-paint is not only decoration. It can mark:
 
 ---
 
-## Clothing, Gear, and Armor
+## Aeonolacertian Clothing, Gear, and Armor
 
 Aeonolacertian fashion blends adventure utility, thermal survival, class-line expression, and advanced steampunk visual logic.
 
@@ -246,7 +246,7 @@ The Heart Guard should look like living red crystal statues heated from within.
 
 ---
 
-## Morph-Type Visual Guide
+## Saurasapien Morph-Type Visual Guide
 
 ### Velociraptoroid / Velocisapien
 
@@ -368,7 +368,7 @@ The Heart Guard should look like living red crystal statues heated from within.
 
 ---
 
-## Class-Line Color Associations
+## Saurasapien Color Associations
 
 Color associations are strong but not absolute. Individuals may show mixed coloration, regional variation, family marks, or ritual paint that overrides natural class-line colors.
 
@@ -382,7 +382,7 @@ Color associations are strong but not absolute. Individuals may show mixed color
 
 ---
 
-## Expression and Communication
+## Aeonolacertian Expression and Communication
 
 Aeonolacertian faces are expressive.
 
@@ -405,7 +405,7 @@ Artists and writers should avoid making Aeonolacertians unreadable monsters. The
 
 ---
 
-## Design Rules for Artists and Adaptations
+## Aeonolacertian Design Rules for Artists and Adaptations
 
 1. Aeonolacertians are mostly humanoid with saurian features, not humans in masks and not ordinary dinosaurs walking upright.
 2. Tails are universal.
@@ -428,7 +428,7 @@ Artists and writers should avoid making Aeonolacertians unreadable monsters. The
 
 ---
 
-## Common Design Mistakes to Avoid
+## Aeonolacertian Common Design Mistakes to Avoid
 
 - Do not depict Aeonolacertians as generic lizardfolk.
 - Do not make every individual look like the same dinosaur with different clothes.
@@ -445,7 +445,7 @@ Artists and writers should avoid making Aeonolacertians unreadable monsters. The
 
 ---
 
-## Story Uses
+## Aeonolacertian Story Uses
 
 - A Meridian protagonist learns to identify Aeonolacertian morph-types by color, posture, and gear.
 - A mixed-morph enclave shows how catastrophe blurred older class-line boundaries.
@@ -459,7 +459,7 @@ Artists and writers should avoid making Aeonolacertians unreadable monsters. The
 
 ---
 
-## Game and Comic Uses
+## Aeonolacertian Game and Comic Uses
 
 ### Comics
 
@@ -485,7 +485,7 @@ A tabletop adaptation may use **Saurasapien** as the playable ancestry/species u
 
 ---
 
-## Open Species Questions
+## Open Aeonolacertian Species Questions
 
 1. What are the canonical height ranges for each Aeonolacertian morph-type?
 2. Are eyes generally slit-pupiled, round, or lineage-dependent?
@@ -509,11 +509,287 @@ A tabletop adaptation may use **Saurasapien** as the playable ancestry/species u
 
 ---
 
+## áæbsconditians / Absconditians / Antisapiens
+
+**Canon Status:** CONFIRMED CANON
+
+**Species Type:** blue-skinned anti-matter humanoid people native to àæonos.
+
+**Formal Civilization / Species Name:** áæbsconditian.
+
+**Simplified Human / Common Name:** Absconditian.
+
+**Common Umbrella Field Term:** Antisapien.
+
+**Plural Field Term:** Antisapiens.
+
+**Core Visual Principle:** Antisapiens are áæbsconditian phenotype people whose visible differences are primarily expressed through signal behavior, glow patterning, stealth adaptation, resonance markers, identity markings, and anti-matter biology rather than body-shape ecology.
+
+Antisapiens should look elegant, unsettling, alive, intelligent, blue-skinned, cyber-resonant, and profoundly alien without becoming elves, vampires, zombies, or fantasy undead.
+
+---
+
+## Antisapien Baseline Body Plan
+
+Antisapiens are blue-skinned humanoids with anti-matter biological and cyber-resonant traits.
+
+Their bodies are generally humanoid in silhouette, but their visual identity comes from their eyes, glow behavior, signal markings, posture, stealth adaptation, lattice ornamentation, and how their presence interacts with light and perception.
+
+### Shared Anatomical and Visual Traits
+
+- Blue-skinned humanoid body plan.
+- Black irises.
+- Magenta pupils.
+- Teal tapetum lucidum, often visible as low-light eye-shine.
+- Smooth, living skin without decay or corpse-like texture.
+- No pointed ears.
+- No fantasy elf, orc, vampire, zombie, or undead visual shorthand.
+- Signal-band markings, glow asymmetries, lattice patterns, or resonance traces depending on phenotype.
+- Cyberpunk / anti-matter aesthetic language: black glass, magenta or amaranth light, teal optics, neural lattice ornamentation, stealth surfaces, and signal interfaces.
+
+Antisapiens are not dead things. Their anti-life nature is cosmological, biological, technological, and philosophical, not rotten.
+
+---
+
+## Antisapien Population Structure and Signal-Band Phenotypes
+
+Antisapien signal-bands are not separate species. They are recognizable áæbsconditian phenotype and specialization bands tied to anti-matter biology, cyber-resonance, stealth, memory, identity, and social function.
+
+Where Saurasapien morph-types are primarily readable through body-shape ecology, Antisapien bands are primarily readable through signal behavior.
+
+A trained observer might identify an Antisapien band through:
+
+- glow rhythm
+- eye-shine behavior
+- signal markings
+- skin reflectivity
+- lattice scars or ornaments
+- stealth adaptation
+- resonance posture
+- identity glyph placement
+- asymmetry or symmetry in light response
+
+### Naming Systems
+
+**áæbsconditian** is the formal species and civilization name.
+
+**Absconditian** is the simplified human/common name.
+
+**Antisapien** is the common umbrella field term for áæbsconditian phenotype people.
+
+The five Antisapien signal-band field terms are:
+
+- **Nullsapien**
+- **Veilsapien**
+- **Amaranthsapien**
+- **Vaultsapien**
+- **Lividisapien**
+
+These are human-facing field terms and should not be assumed to be native áæbsconditian names.
+
+---
+
+## Antisapien Signal-Band Visual Guide
+
+### Nullsapien
+
+**Faction Association:** The Null Court.
+
+**Role Tendencies:** command, strategy, courts, sovereignty, high governance.
+
+**Visual Language:** deep blue or blue-black skin, severe symmetry, controlled expression, black irises, magenta pupils, subtle teal tapetum, regal stillness.
+
+**Signal Behavior:** stable, low-noise, disciplined, command-weighted, almost unnervingly calm.
+
+**Design Notes:** Nullsapiens should look like sovereignty made flesh: elegant, dangerous, still, and difficult to read. Their authority should feel silent before it becomes visible.
+
+---
+
+### Veilsapien
+
+**Faction Association:** The Veilknives.
+
+**Role Tendencies:** stealth, infiltration, phase movement, covert observation.
+
+**Visual Language:** midnight-blue matte skin, low-reflective surfaces, dim teal tapetum, shadow-adaptive markings, quiet movement.
+
+**Signal Behavior:** suppressed glow, broken outlines, muted resonance, perception-skimming presence.
+
+**Design Notes:** Veilsapiens should feel visible only because they permit it. They are not shadow monsters; they are precision stealth organisms shaped by anti-matter signal discipline.
+
+---
+
+### Amaranthsapien
+
+**Faction Association:** The Amaranth Schola and Madrigalists.
+
+**Role Tendencies:** resonance science, signal theory, dream-contact, harmonic computation.
+
+**Visual Language:** blue-violet skin, amaranth/magenta signal lines, brighter teal eye-shine, lattice patterns at temples, throat, hands, or spine.
+
+**Signal Behavior:** harmonic, pulsing, layered, musical, responsive to speech, thought, and interface fields.
+
+**Design Notes:** Amaranthsapiens should feel like scholar-singers, signal mathematicians, cyber-resonance mystics, or living instruments of perception.
+
+---
+
+### Vaultsapien
+
+**Faction Association:** The Last Thousand.
+
+**Role Tendencies:** identity preservation, genealogies, records, population memory, continuity custody.
+
+**Visual Language:** stable cobalt or teal-blue skin, precise identity markings, subtle facial or hand glyphs, ceremonial record implants or memory-thread ornaments.
+
+**Signal Behavior:** archived, measured, identity-locked, ledger-stable, careful with every pulse.
+
+**Design Notes:** Vaultsapiens should feel like living archives. Their markings and ornaments may encode lineage, survivor status, vault access, or continuity responsibility.
+
+---
+
+### Lividisapien
+
+**Faction Association:** The Livid Æ Revisionists.
+
+**Role Tendencies:** contradiction reading, forbidden history, Split Signal analysis, revisionist truth-seeking.
+
+**Visual Language:** livid blue skin with pale violet undertones, irregular but beautiful signal markings, strong magenta/teal eye contrast, asymmetrical glow patterns.
+
+**Signal Behavior:** contradiction-sensitive, unstable to lies, responsive to Split Signals, irregular but meaningful.
+
+**Design Notes:** Lividisapiens should look like they can see where a story fails to synchronize. Their asymmetry should feel intentional, bruised, beautiful, and dangerous to official history.
+
+---
+
+## Antisapien Signal-Band Summary
+
+| Signal-Band Field Term | Faction Association | Primary Readability | Notes |
+|---|---|---|---|
+| Nullsapien | The Null Court | symmetry, stillness, command signal | sovereignty and strategy |
+| Veilsapien | The Veilknives | matte skin, low reflectivity, suppressed glow | stealth and phase movement |
+| Amaranthsapien | Amaranth Schola / Madrigalists | magenta signal lines, lattice glow, harmonic pulse | resonance science and dream-contact |
+| Vaultsapien | The Last Thousand | precise identity markings, record implants | continuity custody and survivor ledgers |
+| Lividisapien | Livid Æ Revisionists | asymmetrical glow, livid-blue undertones | contradiction reading and forbidden history |
+
+---
+
+## Saurasapien / Antisapien Design Balance
+
+The Saurasapien and Antisapien systems are designed to balance one another without mirroring each other too neatly.
+
+**Saurasapien lines** are primarily readable through body-shape ecology:
+
+- speed
+- power
+- signal anatomy
+- defense
+- civic guardianship
+
+**Antisapien bands** are primarily readable through signal behavior:
+
+- command stillness
+- stealth suppression
+- resonance glow
+- identity markings
+- contradiction asymmetry
+
+Saurasapiens show civilization through bodies adapted to heat, pressure, color, tool-use, and physical role.
+
+Antisapiens show civilization through light discipline, signal etiquette, stealth surfaces, memory markings, anti-matter perception, and cyber-resonant ornamentation.
+
+---
+
+## Antisapien Artist and Adaptation Rules
+
+1. Antisapiens are áæbsconditian / Absconditian phenotype people, not separate species.
+2. Antisapien is the common umbrella field term; áæbsconditian remains the formal species and civilization name.
+3. Antisapiens are blue-skinned humanoids.
+4. Their eyes have black irises, magenta pupils, and teal tapetum lucidum.
+5. They do not have pointed ears.
+6. They do not have decaying flesh.
+7. They are not elves, orcs, vampires, zombies, or fantasy undead.
+8. Their variation should come from signal behavior, glow patterning, stealth adaptation, resonance markers, identity markings, and anti-matter biology.
+9. Use cyberpunk and anti-matter aesthetics: black glass, magenta/amaranth light, teal optics, neural lattice details, signal markings, and stealth surfaces.
+10. Keep them alive, elegant, unsettling, and culturally specific.
+11. Avoid making the signal-bands simple color swaps; each band should have posture, glow behavior, markings, and social function.
+12. The Nullsapien should not look like a generic monarch; the Veilsapien should not look like a generic assassin; the Amaranthsapien should not look like a fantasy mage; the Vaultsapien should not look like a librarian costume; the Lividisapien should not look random or broken without pattern.
+
+---
+
+## Antisapien Common Design Mistakes to Avoid
+
+- Do not give Antisapiens pointed elf ears.
+- Do not make them undead, rotting, corpse-like, or zombie-like.
+- Do not make them vampires with blue skin.
+- Do not use fantasy demon shorthand.
+- Do not remove the black iris / magenta pupil / teal tapetum eye rule.
+- Do not make all signal-bands identical except for clothing.
+- Do not make every glow pattern symmetrical; some bands require asymmetry or suppression.
+- Do not treat anti-life as decay.
+- Do not make the cyberpunk aesthetic generic; it should connect to rails, signal bands, Bridge Script, memory, stealth, and anti-matter containment.
+
+---
+
+## Antisapien Story Uses
+
+- A Meridian character learns that Antisapiens are not monsters from rumor, but a complex surviving civilization with signal-band phenotypes.
+- A Nullsapien court figure can command a room without raising their voice.
+- A Veilsapien appears in a scene only after the characters realize the shadows have been edited.
+- An Amaranthsapien Madrigalist can read a damaged Mirror Grid sentence by listening to its harmonic failure.
+- A Vaultsapien can prove that a supposedly extinct survivor line still exists.
+- A Lividisapien can detect where World Works corrupted a Bridge Script message by sensing contradiction in the rail logic.
+- An Antisapien team can visually balance a Saurasapien team without feeling like a copied structure.
+
+---
+
+## Antisapien Game and Comic Uses
+
+### Comics
+
+Use glow behavior and silhouette discipline. A reader should be able to distinguish signal-bands through posture, eye-shine, markings, and light response even before dialogue labels them.
+
+### 16-Bit Games
+
+Antisapien signal-bands can become readable sprite or gameplay classes:
+
+- Nullsapien: command / strategy / control unit
+- Veilsapien: stealth / phase / evasion unit
+- Amaranthsapien: resonance / signal / dream-contact unit
+- Vaultsapien: archive / identity / protection-support unit
+- Lividisapien: contradiction / truth-detection / corrupted-data analysis unit
+
+### Tabletop Games
+
+A tabletop adaptation may use **Antisapien** as the playable ancestry/species umbrella and the five signal-band names as phenotype options.
+
+Signal-bands should guide abilities, social expectations, visual markings, and narrative hooks without locking a character into a single destiny.
+
+---
+
+## Open Antisapien Species Questions
+
+1. Who coined the umbrella field term **Antisapien**?
+2. Do áæbsconditians tolerate the field term Antisapien, reject it, or use it pragmatically when speaking with humans?
+3. What are the native áæbsconditian names for the five signal-band phenotypes?
+4. Are signal-bands hereditary, trained, socially assigned, biologically emergent, or some combination?
+5. Can an Antisapien shift signal-band expression over a lifetime?
+6. How do the Last Thousand record signal-band inheritance?
+7. Can World Works accurately identify signal-bands, or does it misclassify them through simplified data models?
+8. Which signal-band is most likely to collaborate with Meridians first?
+9. Which signal-band is most feared by Aeonolacertians, and is that fear justified?
+10. What does Antisapien mourning look like in signal behavior?
+11. How do signal-bands appear in childhood before full social specialization?
+12. Can Bridge Script terminals identify Antisapien signal-bands?
+13. Do Lividisapiens naturally resist corrupted translation, or have they learned to detect it through forbidden practice?
+14. What happens when a Veilsapien tries to suppress a glow pattern during a Contradiction State?
+15. What signal-band pattern proves that pre-catastrophe harmony was real?
+
+---
+
 ## Future Species Sections
 
 Future versions of this guide should add:
 
 - Meridians
-- áæbsconditians / Absconditians
 - Human Lodestar elites
 - Any hybrid, altered, or anomalous forms connected to memory corruption
