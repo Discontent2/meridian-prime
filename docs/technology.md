@@ -225,6 +225,132 @@ Time is pressure in motion.
 
 ---
 
+## Aeonolacertian Thermal Fortress Architecture
+
+Aeonolacertian military architecture is built around heat preservation, pressure control, and body-temperature logistics. A fortified city is not merely defended by walls. It is defended by thermal circulation.
+
+Every layer of the city answers one question: **can Aeonolacertian bodies remain warm enough to work, fight, remember, and survive?**
+
+---
+
+### K’al Heat Index
+
+**Canon Status:** CONFIRMED CANON
+
+**Aeonolacertian Concept:** thermal vitality index.
+
+**Human Approximation:** not a direct temperature scale; K’al measures usable environmental heat relative to Aeonolacertian metabolic function.
+
+**K’al** is the official Aeonolacertian heat index used to describe the metabolic usefulness of an environment. It is not simply air temperature. It accounts for radiant heat, humidity, steam saturation, thermal conductivity, armor circulation, body state, and species-specific biological activity.
+
+A space at **10 K’al** supports sustained civilian activity, work, education, domestic life, and ordinary movement.
+
+A space at **20 K’al** induces a hyper-metabolic combat state in trained defenders, dramatically increasing speed, aggression, and muscular output for short periods. This state is dangerous and cannot be sustained indefinitely.
+
+Low K’al conditions cause lethargy, cognitive slowing, weakened reflexes, social withdrawal, and eventually death.
+
+**Story Uses:** heat becomes visible as power, privilege, danger, and tactical resource; a room’s K’al rating can turn a scene from safe to lethal without a single weapon being drawn.
+
+**Open Questions:** Do different Aeonolacertian classes tolerate K’al differently? Can World Works measure K’al accurately, or only approximate it with human thermal instruments?
+
+---
+
+### Zone 3: The Vent Corridors
+
+**Canon Status:** PROVISIONAL CANON
+
+**Location Type:** outer defensive arteries, thermal corridors, military choke-line network.
+
+The **Vent Corridors** are the outermost defensive corridors of an Aeonolacertian fortified city. They are designed around the **Vent-Distance / Tlax-Xal**.
+
+Every corridor is deliberately narrow, long, and perfectly straight. To humans, this may look like bad defensive planning. To Aeonolacertians, it is a barrel, a vein, and a heat channel at once.
+
+Heavy brass-armored saurian infantry can lock their shields and bodies together to create a thermal wall, preserving group heat while blocking enemy advance. Automated pressure-cannons mounted at the ends of long tunnels can fire down the straight line with maximum aerodynamic efficiency.
+
+An enemy entering a Vent Corridor is not entering a hallway. It is entering a barrel.
+
+**Story Uses:** shield-wall battles, pressure-cannon ambushes, desperate retreats, heat corridor sabotage, level design for games and comics.
+
+**Hazards / Taboos:** breaking formation can bleed heat; ruptured vents can turn the corridor into a scalding kill-line; damaged outposts can sever the thermal network.
+
+---
+
+### Zone 2: The Radiators
+
+**Canon Status:** PROVISIONAL CANON
+
+**Location Type:** living commons, residential heat sector, civilian thermal zone.
+
+The **Radiators** are the residential and civic-labor sectors of an Aeonolacertian city. They contain living quarters, hydroponic algae farms, engineering academies, communal heat halls, repair shrines, and ordinary domestic corridors.
+
+They are dominated by massive exposed radiator coils that maintain a constant **10 K’al** environment so the civilian population can remain active.
+
+If a sub-boiler in these zones is compromised, sectional thermal drop-gates slam shut. These heavy iron doors seal off freezing, breached, or contaminated sectors, preserving the heat of adjacent blocks even if the compromised zone is sacrificed.
+
+The Radiators are where continuity becomes domestic: food, work, study, memory, and warmth braided into daily life.
+
+**Story Uses:** civilian stakes, evacuation drama, forced sacrifice of a breached block, hidden classrooms, algae-farm sabotage, family scenes inside a thermal machine.
+
+**Hazards / Taboos:** drop-gates may save the city while condemning trapped civilians; low K’al pockets can become silent death zones; radiator sabotage is treated as civic murder.
+
+---
+
+### Zone 1: The Mother Heart
+
+**Canon Status:** PROVISIONAL CANON
+
+**Location Type:** core bunker, geothermal engine sanctum, calculating-array fortress, final retreat.
+
+The **Mother Heart** is the deepest and most fortified layer of an Aeonolacertian city. It contains the primary geothermal tapping engines, calculating arrays, pressure-memory systems, central regulators, and the most sacred boiler infrastructure.
+
+It is often surrounded by a literal moat of boiling water and thick non-conductive stone walls. The moat prevents direct breach, while the walls hold heat inward and keep destabilizing thermal loss away from the core.
+
+During a final retreat, internal steam-conduits can heat the Mother Heart to an aggressive **20 K’al**. This triggers a hyper-metabolic combat state in elite defenders such as the **Heart Guard**, allowing maximum reptilian speed and ferocity during a last stand.
+
+This power carries a cost. The Heart Guard can win minutes of history and pay for them with bodies that may never fully recover.
+
+**Story Uses:** last stand, royal or civic guard reveal, moral dilemma, ancient engine awakening, protagonist trapped in a room becoming too hot for humans to survive.
+
+**Hazards / Taboos:** 20 K’al can kill or incapacitate non-Aeonolacertians; overheating the Mother Heart can damage calculating arrays; a breached Mother Heart may collapse civic memory as well as power.
+
+---
+
+### Blueprint Legend / Brass Schematic Tokens
+
+Aeonolacertian architects, Steam-Oracles, and military engineers use etched brass schematics whose symbols dictate construction logic and defensive deployment.
+
+**⚙ The Gear Token**
+
+Indicates a mechanical choke-point or heavy blast door that can be dropped through remote pressure switches. Gear Tokens mark where the city can close its own bones.
+
+**⇥ The Valve Token**
+
+Marks a high-pressure line that defenders can deliberately rupture to flood a corridor with scalding steam if the position is overrun. Rupturing a Valve Token may save a sector but damage heat circulation.
+
+**▼ The Rivet Point**
+
+Marks a reinforced bunker position where heavy tripod-mounted pressure guns, or **Q’at-xis**, have dedicated pre-routed steam lines. These weapons do not run out of ammunition in the human sense, but they can lose effectiveness if pressure falls or the boiler network is damaged.
+
+**Story Uses:** in-world maps, comic panel symbols, tabletop RPG tactical maps, video game icons, infiltration puzzles, siege planning scenes.
+
+---
+
+### Tactical Doctrine
+
+Aeonolacertian fortress tactics assume that architecture, heat, and military formation are inseparable.
+
+- The Vent Corridors slow and channel attackers.
+- The Radiators preserve civilian life and thermal continuity.
+- The Mother Heart concentrates final defense, memory, power, and command.
+- The Gear Token closes movement.
+- The Valve Token turns pressure into area denial.
+- The Rivet Point turns corridors into firing lanes.
+- The K’al rating determines whether a room is refuge, workplace, battlefield, or death chamber.
+
+The city is not defended from outside inward. It is defended like a body deciding which limb can be lost so the heart can keep beating.
+
+---
+
 ## Open Technology Questions
 
 1. Is the Bore universal across Aeonolacertian civilization, or did different city-states preserve variant standards?
@@ -235,3 +361,8 @@ Time is pressure in motion.
 6. Can Vent-Distance corridors be restored after being broken?
 7. Do the Aeolipile use Boiler-Time for memory restoration rituals?
 8. What happens when áæbsconditian resonance systems interfere with the Boiler Cycle?
+9. Do different Aeonolacertian classes tolerate K’al differently?
+10. Which city first developed the three-zone thermal fortress model?
+11. Can a Mother Heart be overheated deliberately to destroy its own city rather than let it fall?
+12. Has World Works ever mistaken Vent Corridors for inefficient design rather than thermal warfare architecture?
+13. Can the blueprint tokens be read by non-Aeonolacertians, or are they also pressure-calibration marks?
