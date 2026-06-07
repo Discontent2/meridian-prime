@@ -523,9 +523,9 @@ A tabletop adaptation may use **Saurasapien** as the playable ancestry/species u
 
 **Plural Field Term:** Antisapiens.
 
-**Core Visual Principle:** Antisapiens are áæbsconditian phenotype people whose visible differences are primarily expressed through signal behavior, glow patterning, stealth adaptation, resonance markers, identity markings, and anti-matter biology rather than body-shape ecology.
+**Core Visual Principle:** Antisapiens are áæbsconditian phenotype people whose visible differences are primarily expressed through signal behavior, glow patterning, stealth adaptation, resonance markers, identity markings, bio-cabling, and anti-matter biology rather than body-shape ecology.
 
-Antisapiens should look elegant, unsettling, alive, intelligent, blue-skinned, cyber-resonant, and profoundly alien without becoming elves, vampires, zombies, or fantasy undead.
+Antisapiens should look elegant, unsettling, alive, intelligent, blue-skinned, cyber-resonant, and profoundly alien without becoming generic fantasy creatures.
 
 ---
 
@@ -533,7 +533,7 @@ Antisapiens should look elegant, unsettling, alive, intelligent, blue-skinned, c
 
 Antisapiens are blue-skinned humanoids with anti-matter biological and cyber-resonant traits.
 
-Their bodies are generally humanoid in silhouette, but their visual identity comes from their eyes, glow behavior, signal markings, posture, stealth adaptation, lattice ornamentation, and how their presence interacts with light and perception.
+Their bodies are generally humanoid in silhouette, but their visual identity comes from their eyes, glow behavior, signal markings, posture, stealth adaptation, lattice ornamentation, bio-cabling, and how their presence interacts with light and perception.
 
 ### Shared Anatomical and Visual Traits
 
@@ -541,19 +541,86 @@ Their bodies are generally humanoid in silhouette, but their visual identity com
 - Black irises.
 - Magenta pupils.
 - Teal tapetum lucidum, often visible as low-light eye-shine.
-- Smooth, living skin without decay or corpse-like texture.
-- No pointed ears.
-- No fantasy elf, orc, vampire, zombie, or undead visual shorthand.
-- Signal-band markings, glow asymmetries, lattice patterns, or resonance traces depending on phenotype.
+- Smooth, living skin.
+- Rounded or humanlike ears rather than pointed fantasy ears.
+- Signal-band markings, glow asymmetries, lattice patterns, bio-cabling, or resonance traces depending on phenotype.
 - Cyberpunk / anti-matter aesthetic language: black glass, magenta or amaranth light, teal optics, neural lattice ornamentation, stealth surfaces, and signal interfaces.
 
-Antisapiens are not dead things. Their anti-life nature is cosmological, biological, technological, and philosophical, not rotten.
+Antisapiens are living anti-matter people. Their anti-life nature is cosmological, biological, technological, and philosophical, not a horror-creature shortcut.
+
+---
+
+## Antisapien Bio-Cabling / Hair
+
+Antisapien “hair” is not ordinary mammalian hair. It is **bio-cabling**: a living signal-organ expression tied to anti-matter biology, cyber-resonance, signal-band phenotype, identity, and social function.
+
+**Antisapien bio-cabling varies by signal-band. It may be absent, hidden, luminous, bundled, or exposed depending on phenotype.**
+
+### Nullsapien Bio-Cabling
+
+**Expression:** absent or fully internalized.
+
+**Visual:** bald, smooth scalp, severe symmetry.
+
+**Meaning:** wireless signal control, sealed sovereignty, disciplined command.
+
+**Rule:** Nullsapiens should generally be bald because they represent wireless technology and contained signal authority.
+
+### Veilsapien Bio-Cabling
+
+**Expression:** retractable dark fiber optics.
+
+**Visual:** matte-black or midnight-blue strands with minimal reflectivity, able to flatten, retract, dim, or vanish into the silhouette.
+
+**Meaning:** stealth, suppressed signal, covert observation, phase discipline.
+
+**Rule:** from a distance, Veilsapien cabling may make them appear almost bald until light catches the strands.
+
+### Amaranthsapien Bio-Cabling
+
+**Expression:** luminous fiber optics with glowing tips.
+
+**Visual:** magenta, amaranth, violet, teal, or electric-blue fiber-optic strands, often braided, looped, or arranged in harmonic patterns.
+
+**Meaning:** resonance science, signal theory, dream-contact, harmonic computation, Madrigalist practice.
+
+**Rule:** glowing tips may brighten during song, signal reading, dream-contact, or interface work.
+
+### Vaultsapien Bio-Cabling
+
+**Expression:** organized network-cable bundles.
+
+**Visual:** thicker, orderly, jacketed cable-like strands in cobalt, teal, graphite, silver-gray, or muted magenta accents, often bound with identity clasps, memory tags, or record ornaments.
+
+**Meaning:** identity preservation, genealogies, survivor ledgers, continuity custody, archival discipline.
+
+**Rule:** avoid making this look like literal modern office ethernet cable; it should feel like an elegant in-world ceremonial network-cable analog.
+
+### Lividisapien Bio-Cabling
+
+**Expression:** exposed multicolored phone-wire hair.
+
+**Visual:** visible internal cable-like strands in magenta, teal, yellow, orange, violet, pale blue, white, and other signal colors.
+
+**Meaning:** contradiction reading, forbidden history, Split Signal analysis, revisionist truth-seeking.
+
+**Rule:** Lividisapien cabling may look tangled, frayed, or asymmetrical, but it should still feel meaningful and beautiful rather than random.
+
+### Bio-Cabling Design Balance
+
+- **Nullsapien** = wireless / internal signal.
+- **Veilsapien** = retractable dark fiber optics / hidden signal.
+- **Amaranthsapien** = glowing fiber optics / harmonic signal.
+- **Vaultsapien** = network-cable bundles / archived signal.
+- **Lividisapien** = exposed phone wires / contradictory signal.
+
+Bio-cabling can move, glow, dim, retract, pulse, or respond to interface states depending on band. It should feel biological and technological at once.
 
 ---
 
 ## Antisapien Population Structure and Signal-Band Phenotypes
 
-Antisapien signal-bands are not separate species. They are recognizable áæbsconditian phenotype and specialization bands tied to anti-matter biology, cyber-resonance, stealth, memory, identity, and social function.
+Antisapien signal-bands are not separate species. They are recognizable áæbsconditian phenotype and specialization bands tied to anti-matter biology, cyber-resonance, stealth, memory, identity, bio-cabling, and social function.
 
 Where Saurasapien morph-types are primarily readable through body-shape ecology, Antisapien bands are primarily readable through signal behavior.
 
@@ -562,6 +629,7 @@ A trained observer might identify an Antisapien band through:
 - glow rhythm
 - eye-shine behavior
 - signal markings
+- bio-cabling expression
 - skin reflectivity
 - lattice scars or ornaments
 - stealth adaptation
@@ -597,7 +665,9 @@ These are human-facing field terms and should not be assumed to be native áæbs
 
 **Role Tendencies:** command, strategy, courts, sovereignty, high governance.
 
-**Visual Language:** deep blue or blue-black skin, severe symmetry, controlled expression, black irises, magenta pupils, subtle teal tapetum, regal stillness.
+**Visual Language:** deep blue or blue-black skin, severe symmetry, controlled expression, black irises, magenta pupils, subtle teal tapetum, regal stillness, bald smooth scalp.
+
+**Bio-Cabling:** absent or fully internalized; Nullsapiens generally appear bald because they represent wireless signal control and contained authority.
 
 **Signal Behavior:** stable, low-noise, disciplined, command-weighted, almost unnervingly calm.
 
@@ -613,9 +683,11 @@ These are human-facing field terms and should not be assumed to be native áæbs
 
 **Visual Language:** midnight-blue matte skin, low-reflective surfaces, dim teal tapetum, shadow-adaptive markings, quiet movement.
 
+**Bio-Cabling:** retractable dark fiber optics; matte-black or midnight-blue strands with minimal reflectivity that can flatten, retract, dim, or vanish into the silhouette.
+
 **Signal Behavior:** suppressed glow, broken outlines, muted resonance, perception-skimming presence.
 
-**Design Notes:** Veilsapiens should feel visible only because they permit it. They are not shadow monsters; they are precision stealth organisms shaped by anti-matter signal discipline.
+**Design Notes:** Veilsapiens should feel visible only because they permit it. Their cabling may make them look almost bald from a distance until light catches the strands. They are precision stealth organisms shaped by anti-matter signal discipline.
 
 ---
 
@@ -627,9 +699,11 @@ These are human-facing field terms and should not be assumed to be native áæbs
 
 **Visual Language:** blue-violet skin, amaranth/magenta signal lines, brighter teal eye-shine, lattice patterns at temples, throat, hands, or spine.
 
+**Bio-Cabling:** luminous fiber optics with glowing tips; magenta, amaranth, violet, teal, or electric-blue strands arranged in braids, loops, or harmonic patterns.
+
 **Signal Behavior:** harmonic, pulsing, layered, musical, responsive to speech, thought, and interface fields.
 
-**Design Notes:** Amaranthsapiens should feel like scholar-singers, signal mathematicians, cyber-resonance mystics, or living instruments of perception.
+**Design Notes:** Amaranthsapiens should feel like scholar-singers, signal mathematicians, cyber-resonance mystics, or living instruments of perception. Their glowing cable-tips may brighten during song, signal reading, dream-contact, or interface work.
 
 ---
 
@@ -641,9 +715,11 @@ These are human-facing field terms and should not be assumed to be native áæbs
 
 **Visual Language:** stable cobalt or teal-blue skin, precise identity markings, subtle facial or hand glyphs, ceremonial record implants or memory-thread ornaments.
 
+**Bio-Cabling:** organized network-cable bundles; thicker, orderly, jacketed strands in cobalt, teal, graphite, silver-gray, or muted magenta accents, often bound with identity clasps, memory tags, or record ornaments.
+
 **Signal Behavior:** archived, measured, identity-locked, ledger-stable, careful with every pulse.
 
-**Design Notes:** Vaultsapiens should feel like living archives. Their markings and ornaments may encode lineage, survivor status, vault access, or continuity responsibility.
+**Design Notes:** Vaultsapiens should feel like living archives. Their cabling should look like an elegant in-world ceremonial network-cable analog, not literal modern office ethernet cable. Their markings, ornaments, and cable bundles may encode lineage, survivor status, vault access, or continuity responsibility.
 
 ---
 
@@ -655,21 +731,23 @@ These are human-facing field terms and should not be assumed to be native áæbs
 
 **Visual Language:** livid blue skin with pale violet undertones, irregular but beautiful signal markings, strong magenta/teal eye contrast, asymmetrical glow patterns.
 
+**Bio-Cabling:** exposed multicolored phone-wire hair; visible internal cable-like strands in magenta, teal, yellow, orange, violet, pale blue, white, and other signal colors.
+
 **Signal Behavior:** contradiction-sensitive, unstable to lies, responsive to Split Signals, irregular but meaningful.
 
-**Design Notes:** Lividisapiens should look like they can see where a story fails to synchronize. Their asymmetry should feel intentional, bruised, beautiful, and dangerous to official history.
+**Design Notes:** Lividisapiens should look like they can see where a story fails to synchronize. Their cabling may look tangled, frayed, or asymmetrical, but it should feel meaningful and beautiful rather than random.
 
 ---
 
 ## Antisapien Signal-Band Summary
 
-| Signal-Band Field Term | Faction Association | Primary Readability | Notes |
-|---|---|---|---|
-| Nullsapien | The Null Court | symmetry, stillness, command signal | sovereignty and strategy |
-| Veilsapien | The Veilknives | matte skin, low reflectivity, suppressed glow | stealth and phase movement |
-| Amaranthsapien | Amaranth Schola / Madrigalists | magenta signal lines, lattice glow, harmonic pulse | resonance science and dream-contact |
-| Vaultsapien | The Last Thousand | precise identity markings, record implants | continuity custody and survivor ledgers |
-| Lividisapien | Livid Æ Revisionists | asymmetrical glow, livid-blue undertones | contradiction reading and forbidden history |
+| Signal-Band Field Term | Faction Association | Primary Readability | Bio-Cabling / Hair | Notes |
+|---|---|---|---|---|
+| Nullsapien | The Null Court | symmetry, stillness, command signal | bald / internalized | sovereignty and wireless authority |
+| Veilsapien | The Veilknives | matte skin, low reflectivity, suppressed glow | retractable dark fiber optics | stealth and phase movement |
+| Amaranthsapien | Amaranth Schola / Madrigalists | magenta signal lines, lattice glow, harmonic pulse | glowing fiber optics with luminous tips | resonance science and dream-contact |
+| Vaultsapien | The Last Thousand | precise identity markings, record implants | organized network-cable bundles | continuity custody and survivor ledgers |
+| Lividisapien | Livid Æ Revisionists | asymmetrical glow, livid-blue undertones | exposed multicolored phone wires | contradiction reading and forbidden history |
 
 ---
 
@@ -692,10 +770,11 @@ The Saurasapien and Antisapien systems are designed to balance one another witho
 - resonance glow
 - identity markings
 - contradiction asymmetry
+- bio-cabling expression
 
 Saurasapiens show civilization through bodies adapted to heat, pressure, color, tool-use, and physical role.
 
-Antisapiens show civilization through light discipline, signal etiquette, stealth surfaces, memory markings, anti-matter perception, and cyber-resonant ornamentation.
+Antisapiens show civilization through light discipline, signal etiquette, stealth surfaces, memory markings, anti-matter perception, bio-cabling, and cyber-resonant ornamentation.
 
 ---
 
@@ -705,39 +784,50 @@ Antisapiens show civilization through light discipline, signal etiquette, stealt
 2. Antisapien is the common umbrella field term; áæbsconditian remains the formal species and civilization name.
 3. Antisapiens are blue-skinned humanoids.
 4. Their eyes have black irises, magenta pupils, and teal tapetum lucidum.
-5. They do not have pointed ears.
-6. They do not have decaying flesh.
-7. They are not elves, orcs, vampires, zombies, or fantasy undead.
-8. Their variation should come from signal behavior, glow patterning, stealth adaptation, resonance markers, identity markings, and anti-matter biology.
-9. Use cyberpunk and anti-matter aesthetics: black glass, magenta/amaranth light, teal optics, neural lattice details, signal markings, and stealth surfaces.
-10. Keep them alive, elegant, unsettling, and culturally specific.
-11. Avoid making the signal-bands simple color swaps; each band should have posture, glow behavior, markings, and social function.
-12. The Nullsapien should not look like a generic monarch; the Veilsapien should not look like a generic assassin; the Amaranthsapien should not look like a fantasy mage; the Vaultsapien should not look like a librarian costume; the Lividisapien should not look random or broken without pattern.
+5. They have rounded or humanlike ears rather than pointed fantasy ears.
+6. Their variation should come from signal behavior, glow patterning, stealth adaptation, resonance markers, identity markings, bio-cabling, and anti-matter biology.
+7. Use cyberpunk and anti-matter aesthetics: black glass, magenta/amaranth light, teal optics, neural lattice details, signal markings, bio-cabling, and stealth surfaces.
+8. Keep them alive, elegant, unsettling, and culturally specific.
+9. Avoid making the signal-bands simple color swaps; each band should have posture, glow behavior, markings, bio-cabling expression, and social function.
+10. Do not depict Antisapien bio-cabling as ordinary human hair.
+11. Do not give Nullsapiens hair unless deliberately showing an anomaly, disguise, or non-canon experiment.
+12. Do not make all Antisapien bands bald.
+13. Do not make all Antisapien bands have the same cable-hair texture.
+14. Bio-cabling should reinforce signal-band identity.
+15. Bio-cabling can move, glow, dim, retract, pulse, or respond to interface states depending on band.
+16. The cabling should feel biological and technological at once.
+17. The Nullsapien should not look like a generic monarch; the Veilsapien should not look like a generic assassin; the Amaranthsapien should not look like a fantasy mage; the Vaultsapien should not look like a librarian costume; the Lividisapien should not look random or broken without pattern.
 
 ---
 
 ## Antisapien Common Design Mistakes to Avoid
 
-- Do not give Antisapiens pointed elf ears.
-- Do not make them undead, rotting, corpse-like, or zombie-like.
-- Do not make them vampires with blue skin.
+- Do not give Antisapiens pointed fantasy ears.
 - Do not use fantasy demon shorthand.
 - Do not remove the black iris / magenta pupil / teal tapetum eye rule.
+- Do not depict Antisapien bio-cabling as ordinary human hair.
 - Do not make all signal-bands identical except for clothing.
+- Do not make all signal-bands have the same cable-hair texture.
 - Do not make every glow pattern symmetrical; some bands require asymmetry or suppression.
-- Do not treat anti-life as decay.
-- Do not make the cyberpunk aesthetic generic; it should connect to rails, signal bands, Bridge Script, memory, stealth, and anti-matter containment.
+- Do not give Nullsapiens hair unless deliberately showing an anomaly, disguise, or non-canon experiment.
+- Do not make the cyberpunk aesthetic generic; it should connect to rails, signal bands, Bridge Script, memory, stealth, anti-matter containment, and bio-cabling.
 
 ---
 
 ## Antisapien Story Uses
 
 - A Meridian character learns that Antisapiens are not monsters from rumor, but a complex surviving civilization with signal-band phenotypes.
+- A character identifies an Antisapien’s signal-band by bio-cabling before hearing their name.
 - A Nullsapien court figure can command a room without raising their voice.
+- A Nullsapien’s baldness signals sealed wireless authority.
 - A Veilsapien appears in a scene only after the characters realize the shadows have been edited.
+- A Veilsapien’s dark fiber strands retract during stealth.
 - An Amaranthsapien Madrigalist can read a damaged Mirror Grid sentence by listening to its harmonic failure.
+- An Amaranthsapien’s glowing fiber tips pulse during Madrigalist song.
 - A Vaultsapien can prove that a supposedly extinct survivor line still exists.
+- A Vaultsapien’s cable bundles carry identity tags from the Last Thousand.
 - A Lividisapien can detect where World Works corrupted a Bridge Script message by sensing contradiction in the rail logic.
+- A Lividisapien’s exposed multicolored wires reveal sensitivity to contradiction and corrupted translation.
 - An Antisapien team can visually balance a Saurasapien team without feeling like a copied structure.
 
 ---
@@ -746,23 +836,23 @@ Antisapiens show civilization through light discipline, signal etiquette, stealt
 
 ### Comics
 
-Use glow behavior and silhouette discipline. A reader should be able to distinguish signal-bands through posture, eye-shine, markings, and light response even before dialogue labels them.
+Use glow behavior, bio-cabling, and silhouette discipline. A reader should be able to distinguish signal-bands through posture, eye-shine, markings, light response, and cable expression even before dialogue labels them.
 
 ### 16-Bit Games
 
 Antisapien signal-bands can become readable sprite or gameplay classes:
 
-- Nullsapien: command / strategy / control unit
-- Veilsapien: stealth / phase / evasion unit
-- Amaranthsapien: resonance / signal / dream-contact unit
-- Vaultsapien: archive / identity / protection-support unit
-- Lividisapien: contradiction / truth-detection / corrupted-data analysis unit
+- Nullsapien: command / strategy / control unit; bald wireless authority.
+- Veilsapien: stealth / phase / evasion unit; retractable dark fiber-optic cabling.
+- Amaranthsapien: resonance / signal / dream-contact unit; glowing fiber-optic tips.
+- Vaultsapien: archive / identity / protection-support unit; organized network-cable bundles.
+- Lividisapien: contradiction / truth-detection / corrupted-data analysis unit; exposed multicolored phone-wire hair.
 
 ### Tabletop Games
 
 A tabletop adaptation may use **Antisapien** as the playable ancestry/species umbrella and the five signal-band names as phenotype options.
 
-Signal-bands should guide abilities, social expectations, visual markings, and narrative hooks without locking a character into a single destiny.
+Signal-bands should guide abilities, social expectations, visual markings, bio-cabling, and narrative hooks without locking a character into a single destiny.
 
 ---
 
@@ -783,6 +873,16 @@ Signal-bands should guide abilities, social expectations, visual markings, and n
 13. Do Lividisapiens naturally resist corrupted translation, or have they learned to detect it through forbidden practice?
 14. What happens when a Veilsapien tries to suppress a glow pattern during a Contradiction State?
 15. What signal-band pattern proves that pre-catastrophe harmony was real?
+16. Can Antisapien bio-cabling be severed, disrupted, restored, or regrown?
+17. Is bio-cabling hereditary, trained, ritualized, or biologically emergent?
+18. Can signal-band shifts alter bio-cabling over time?
+19. Do World Works scanners misread Antisapien bio-cabling as cybernetic implants?
+20. Are Lividisapien exposed wires considered shameful, sacred, dangerous, or beautiful within áæbsconditian society?
+21. Do Nullsapiens ever wear ceremonial false cabling, or would that be taboo?
+22. Can Amaranthsapien glowing tips interface directly with Bridge Script terminals?
+23. Can Vaultsapien network bundles store identity data physically?
+24. Can Veilsapien retractable fibers survive phase movement better than other forms?
+25. What happens when a Contradiction State causes all bio-cabling to light at once?
 
 ---
 
