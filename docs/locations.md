@@ -264,23 +264,25 @@ Pressure-Memory Wells are often calibrated by **Stroke / Tzk’** and maintained
 
 **Public Description:** Unknown or misunderstood by humans as primitive power rooms or religious boiler shrines.
 
-**Hidden Truth:** A Central Boiler Sanctum may function as a city’s Mother-Heart: power source, thermal commons, continuity stabilizer, memory organ, and civic sacred center.
+**Hidden Truth:** A Central Boiler Sanctum may function as a city’s Mother-Heart: power source, thermal commons, continuity stabilizer, memory organ, and civic sacred center. Most fortified sanctums sit within a three-zone thermal fortress system: Zone 3 Vent Corridors, Zone 2 Radiators, and Zone 1 Mother Heart.
 
-**Visual Aesthetic:** enormous vertical boiler-hearts, brass arteries, heat pools, scale-marked walls, steam-lit defensive bridges, armored hatchways, glowing pressure cores.
+**Visual Aesthetic:** enormous vertical boiler-hearts, brass arteries, heat pools, scale-marked walls, steam-lit defensive bridges, armored hatchways, glowing pressure cores, radiator coils, straight defensive tunnels, boiling moats, etched brass schematics.
 
-**Primary Function:** provide heat, power, memory pressure, and symbolic unity for Aeonolacertian cities.
+**Primary Function:** provide heat, power, memory pressure, symbolic unity, and final defensive command for Aeonolacertian cities.
 
-**Story Uses:** siege climax, defense of the city-heart, moral dilemma, last stand, awakening of ancestral systems.
+**Story Uses:** siege climax, defense of the city-heart, moral dilemma, last stand, awakening of ancestral systems, map-driven infiltration through Gear Tokens, Valve Tokens, and Rivet Points.
 
-**Hazards / Taboos:** cooling the Mother-Heart may kill more than infrastructure; enemies who breach the sanctum may collapse civic memory; defenders may be oath-bound to die before retreat.
+**Hazards / Taboos:** cooling the Mother-Heart may kill more than infrastructure; enemies who breach the sanctum may collapse civic memory; defenders may be oath-bound to die before retreat; 20 K’al heat can incapacitate or kill non-Aeonolacertians.
 
 **Metrology / Boiler-Time Notes:** Central Boiler Sanctums dictate the city’s **Boiler Cycle**. Their regulators define the local **Stroke / Tzk’**, and their scheduled purges define the **Vent / Xis-tlatl**. Outlying city nodes and defensive outposts are placed at **Vent-Distance / Tlax-Xal** intervals to preserve thermal corridors. To destroy one node is to risk **Breaking the Corridor**.
+
+**Thermal Fortress Notes:** The Vent Corridors are narrow, long, straight defensive arteries designed around **Tlax-Xal** and pressure-cannon firing lines. The Radiators maintain civilian sectors, algae farms, and academies at **10 K’al**. The Mother Heart can be heated to **20 K’al** during a final retreat, triggering a dangerous hyper-metabolic combat state in elite defenders such as the Heart Guard. Brass schematics may mark **⚙ Gear Tokens** for blast doors, **⇥ Valve Tokens** for rupturable steam lines, and **▼ Rivet Points** for reinforced **Q’at-xis** pressure-gun bunkers.
 
 **Siege / Soundscape Notes:** A desperate rally cry here is **Q’at-atli na-q’at!**, translated as “Protect the Central Boiler at all costs,” literally “Blood for the Mother-Heart!” Artillery officers may command **Xisssss-tlatl q’at-xis!**, meaning “Vent the steam-guns! / Fire!” literally “Hiss-release the pressure-weapons!”
 
 **Connected Locations:** Steam-Oracle Foundries, The Aeolipile Pressure Chambers, Ruins of the Sundering of Scales.
 
-**Open Questions:** Which Central Boiler Sanctum fell during the Catastrophic Interaction, and which one still runs?
+**Open Questions:** Which Central Boiler Sanctum fell during the Catastrophic Interaction, and which one still runs? Which sanctum preserved its Heart Guard? Which brass schematic contains the first readable proof of the three-zone defense doctrine?
 
 ### Ruins of the Sundering of Scales
 
@@ -429,3 +431,6 @@ Areas where records, personal memory, geography, and public history become unsta
 21. Which Vent-Distance corridor was first broken during the Catastrophic Interaction?
 22. Which hidden enclave still keeps perfect Boiler-Time?
 23. What happens when a Memory-Corrupted Region disrupts a Central Boiler Sanctum’s Stroke?
+24. Which Heart Guard unit last fought at 20 K’al?
+25. Which thermal drop-gate sacrificed a Radiator block and became a civic trauma?
+26. Which brass schematic first teaches a Meridian character to read Gear Tokens, Valve Tokens, and Rivet Points?
