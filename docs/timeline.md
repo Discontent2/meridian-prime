@@ -1,5 +1,7 @@
 # Meridian Prime Timeline
 
+> Fictional worldbuilding reference for the Meridian Prime universe.
+
 **Dating convention:** This timeline uses **A0** as the arrival of **The Lodestar** at Meridian Prime / Kepler-1649c. Dates before arrival are marked **A-**. Dates after arrival are marked **A+**.
 
 This document is a living continuity skeleton. It records confirmed canon, provisional sequence logic, and open timeline questions for future novels, comics, games, and reference material.
@@ -26,42 +28,56 @@ This document is a living continuity skeleton. It records confirmed canon, provi
   - Ceratopsinoid
 - Their technology appears primitive and steampunk-like, but is actually extremely advanced.
 
-### Rise of the Absconditians
+### Rise of the áæbsconditians
 
-- The **Absconditians** emerge as the native civilization of anti-matter àæonos.
+- The **áæbsconditians**, commonly simplified in human records as **Absconditians**, emerge as the native civilization of anti-matter àæonos.
 - They are blue-skinned humanoids with black irises, magenta pupils, and teal tapetum lucidum.
-- Absconditians are not elves, orcs, zombies, or undead. They are their own anti-matter civilization.
+- They are not elves, orcs, zombies, or undead. They are their own anti-matter civilization.
 - Their technology is cyberpunk in aesthetic and extremely advanced.
+- The word **áæbsconditia** is difficult for human speech and is often approximated as **AIB-skon-DISH-ee-uh**.
 
-### Pre-Catastrophe Civilizational Development
+### Pre-Contact Civilizational Development
 
-- Aeonolacertians and Absconditians develop independently but remain bound by the entanglement between Aeonos and àæonos.
+- Aeonolacertians and áæbsconditians develop independently but remain bound by the entanglement between Aeonos and àæonos.
 - The exact nature of contact, awareness, conflict, trade, observation, or contamination between the two worlds remains undefined.
-- Both civilizations reach heights of technology and culture before the catastrophe.
+- Both civilizations reach heights of technology and culture before human interference.
 
 ---
 
 ## The Catastrophic Interaction
 
-### Unknown Pre-Human Date: The Cross-World Catastrophe
+### A-30: The Poisoned Contact Begins
 
-- At some point before The Lodestar arrives, the Aeonolacertians and Absconditians experience a catastrophic interaction.
-- The event devastates both civilizations equally.
+- Approximately 30 years before The Lodestar arrives, select humans aboard or connected to The Lodestar make covert contact with both civilizations.
+- The Aeonolacertians of Aeonos and the áæbsconditians of àæonos receive misleading or distorted information about one another.
+- This covert interference is later known as **The Poisoned Contact**.
+- A diplomatic deception within the Poisoned Contact may be known as **The False Parley**.
+
+### A-30: The Surface Insurgency
+
+- The Poisoned Contact intensifies fear, mistrust, and escalation between Aeonos and àæonos.
+- Human records describe the resulting crisis as a **Surface Insurgency** connected to Meridian Prime’s surface.
+- The deeper truth is that the Surface Insurgency is an engineered native-world crisis involving Aeonolacertian factions, áæbsconditian operations, cross-world resonance, and manipulated perceptions of imminent threat.
+
+### A-30: The Cross-World Rupture
+
+- The Surface Insurgency catalyzes the **Catastrophic Interaction** between Matter Aeonos and anti-matter àæonos.
+- Both civilizations are devastated equally.
 - Both populations are reduced to approximately **1,000 survivors each**.
 
 ### Possible Names for the Event
 
 - **The Thousandfold Rupture**: mythic or cross-cultural term emphasizing the survivor count.
-- **The Pre-Contact Anomaly**: possible World Works or human technical designation.
+- **The Pre-Contact Anomaly**: possible World Works or human technical designation that hides human culpability.
 - **The Sundering of Scales**: possible Aeonolacertian term.
-- **The Failed Unmaking**: possible Absconditian term.
+- **The Failed Unmaking**: possible áæbsconditian term.
 
 ### Consequences
 
 - Aeonolacertians become a diminished survivor civilization on Matter Aeonos.
-- Absconditians become a diminished survivor civilization on anti-matter àæonos.
-- The catastrophe may damage planetary memory, continuity, history, or reality stability.
-- Humans will later arrive on a world already scarred by this event.
+- áæbsconditians become a diminished survivor civilization on anti-matter àæonos.
+- The catastrophe damages planetary memory, continuity, history, or reality stability.
+- Humans later arrive on a world already scarred by a catastrophe select humans helped create.
 
 ---
 
@@ -124,21 +140,23 @@ This document is a living continuity skeleton. It records confirmed canon, provi
 ### A-30: Emergence of the World Works Cabal
 
 - Approximately 30 years before arrival, the hidden cabal that will become **World Works Corporation** begins active operations.
-- The cabal uses subversion, conspiracy, and destabilization to position itself to inherit the colony’s future.
+- The cabal uses subversion, conspiracy, false diplomacy, and destabilization to position itself to inherit the colony’s future.
+- Its hidden doctrine may be known as **The Inheritance Protocol**.
 
-### Late Traverse Destabilization
+### A-30: Two-Front Operation
 
-- World Works operates on two connected fronts:
-  1. A mutinous insurgency connected to the planetary surface.
-  2. An auto-coup inside The Lodestar’s existing command structure.
+World Works operates on two connected fronts:
 
-### The Surface Insurgency
+1. **The Poisoned Contact**: covert human interference in the relationship between Aeonos and àæonos.
+2. **The Auto-Coup**: the conversion of mission authority aboard The Lodestar into controlled authority.
 
-- A mutinous insurgency emerges or is manufactured in connection with Meridian Prime’s surface.
-- Whether the insurgency is real, fake, provoked, or corrupted remains an open question.
-- The insurgency helps justify emergency measures aboard The Lodestar.
+### A-30: The Surface Insurgency as Catalyst
 
-### The Auto-Coup
+- The Surface Insurgency provides the crisis atmosphere needed to justify emergency powers aboard The Lodestar.
+- This crisis also catalyzes the Catastrophic Interaction between the Aeonolacertians and the áæbsconditians.
+- The same event-chain weakens both native civilizations and strengthens World Works internally.
+
+### A-30: The Auto-Coup
 
 - Elements within legitimate mission authority seize expanded emergency powers.
 - Parts of the colonial order are suspended, rewritten, or redirected.
@@ -165,6 +183,7 @@ This document is a living continuity skeleton. It records confirmed canon, provi
 - The Lodestar reaches Kepler-1649c after the 200-year Traverse.
 - By this point, the human population largely knows the destination as **Meridian Prime**.
 - The project name becomes the human name for the planet.
+- The arriving colony enters a world whose native civilizations have already been reduced to survivor populations.
 
 ### First Human Establishment on Meridian Prime
 
@@ -194,19 +213,20 @@ This document is a living continuity skeleton. It records confirmed canon, provi
 - **Control over Continuity** becomes a common public saying.
 - Among ordinary Meridians, it means: **Everything will work out the way it is supposed to.**
 - To World Works, it means the active management of history, memory, governance, archives, education, perception, and public belief.
+- Hidden beneath the creed is the need to protect a founding lie.
 
 ### Technological Divergence
 
 - Surface human technology degrades into a dieselpunk condition.
 - The Lodestar and its inhabitants exploit a solarpunk aesthetic to project harmony, purity, and legitimacy.
 - Aeonolacertian technology remains primitive-steampunk in appearance but extremely advanced in function.
-- Absconditian technology remains cyberpunk in aesthetic and extremely advanced.
+- áæbsconditian technology remains cyberpunk in aesthetic and extremely advanced.
 
 ### Faction Strength Balance
 
 - World Works has the strongest military power in numbers.
 - Aeonolacertians are strongest in brute strength.
-- Absconditians are strongest in stealth.
+- áæbsconditians are strongest in stealth.
 - Meridians are strongest in willpower.
 
 ---
@@ -228,14 +248,14 @@ This document is a living continuity skeleton. It records confirmed canon, provi
 
 ### The Hidden Older War
 
-- Aeonolacertians remain tied to Matter Aeonos and the aftermath of the catastrophe.
-- Absconditians remain tied to anti-matter àæonos and the aftermath of the catastrophe.
-- The consequences of the catastrophic interaction continue to shape planetary memory, continuity, and conflict.
+- Aeonolacertians remain tied to Matter Aeonos and the aftermath of the Catastrophic Interaction.
+- áæbsconditians remain tied to anti-matter àæonos and the aftermath of the Catastrophic Interaction.
+- The consequences of the Catastrophic Interaction continue to shape planetary memory, continuity, and conflict.
 
 ### The Civic Lie
 
 - The public knows the official story of Meridian Prime.
-- The deeper truth of World Works, The Auto-Coup, the surface insurgency, Aeonos, àæonos, and the catastrophic interaction remains dangerous.
+- The deeper truth of World Works, The Poisoned Contact, The False Parley, The Auto-Coup, the Surface Insurgency, Aeonos, àæonos, and the Catastrophic Interaction remains dangerous.
 - The central present-day tension is whether continuity can survive truth.
 
 ---
@@ -243,22 +263,27 @@ This document is a living continuity skeleton. It records confirmed canon, provi
 ## Open Timeline Questions
 
 1. When did the Aeonolacertian civilization first arise on Aeonos?
-2. When did the Absconditian civilization first arise on àæonos?
-3. Did Aeonolacertians and Absconditians know of each other before the catastrophic interaction?
-4. Was the catastrophic interaction an accident, a war, an experiment, a ritual, or something else?
-5. How long before The Lodestar’s arrival did the catastrophic interaction occur?
-6. What exactly did Ernest Skelton know before The Lodestar launched?
-7. Did The Lodestar detect Aeonos / àæonos anomalies before arrival?
-8. How did World Works learn enough to begin its conspiracy 30 years before arrival?
-9. Was the surface insurgency real, manufactured, provoked, or corrupted?
-10. Who performed the Auto-Coup, and which Traverse Leader was in power when it happened?
-11. What was the first official act of World Works after arrival?
-12. When did The Lodestar formally become World Works corporate headquarters?
-13. When did Prime Ops Space Port become the primary authorized link between surface and orbit?
-14. How many years after arrival is the present-day story set?
-15. How much of the original Lodestar archive remains intact?
-16. What event most clearly marks the start of the Corporate Meridian Era?
-17. When did the public saying “Control over Continuity” become common speech?
-18. What is the earliest known public contradiction in Meridian planetary memory?
-19. When did Meridians first encounter evidence of Aeonolacertians?
-20. When did Meridians first encounter evidence of Absconditians?
+2. When did the áæbsconditian civilization first arise on àæonos?
+3. Did Aeonolacertians and áæbsconditians know of each other before human interference?
+4. Was there already tension between Aeonos and àæonos before the Poisoned Contact?
+5. Which humans first established contact with the Aeonolacertians?
+6. Which humans first established contact with the áæbsconditians?
+7. Who authorized the Poisoned Contact?
+8. Was the False Parley ordered by World Works, a precursor cabal, or a faction inside mission authority?
+9. What exact distortions were given to each civilization?
+10. What exactly happened during the Thousandfold Rupture?
+11. What exactly did Ernest Skelton know before The Lodestar launched?
+12. Did The Lodestar detect Aeonos / àæonos anomalies before arrival?
+13. How did World Works learn enough to begin its conspiracy 30 years before arrival?
+14. Which Traverse Leader was in power during the Auto-Coup?
+15. Did any human faction oppose the Inheritance Protocol before arrival?
+16. What was the first official act of World Works after arrival?
+17. When did The Lodestar formally become World Works corporate headquarters?
+18. When did Prime Ops Space Port become the primary authorized link between surface and orbit?
+19. How many years after arrival is the present-day story set?
+20. How much of the original Lodestar archive remains intact?
+21. What event most clearly marks the start of the Corporate Meridian Era?
+22. When did the public saying “Control over Continuity” become common speech?
+23. What is the earliest known public contradiction in Meridian planetary memory?
+24. When did Meridians first encounter evidence of Aeonolacertians?
+25. When did Meridians first encounter evidence of áæbsconditians?
