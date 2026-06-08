@@ -16,9 +16,9 @@ This document defines the canonical visual, anatomical, cultural, and design lan
 
 **Common Umbrella Field Term:** Saurasapien.
 
-**Core Visual Principle:** Aeonolacertians are a crossbred saurian civilization with mostly humanoid body plans, expressive saurian features, universal tails, vivid color palettes, and morph-type traits that express across mixed populations. They are not simple dinosaur people, generic lizardfolk, or humans wearing reptile masks.
+**Core Visual Principle:** Aeonolacertians are a crossbred saurian civilization with mostly humanoid body plans, expressive saurian features, universal tails, vivid color palettes, morph-type traits that express across mixed populations, and pressure-rhythm class aesthetics rooted in heat culture and boiler civilization. They are not simple dinosaur people, generic lizardfolk, or humans wearing reptile masks.
 
-Aeonolacertians should look ancient, alive, intelligent, physically powerful, culturally complex, and technologically mature. Their bodies and clothing should communicate heat, pressure, motion, brass, copper, color, class-line heritage, and survivor history.
+Aeonolacertians should look ancient, alive, intelligent, physically powerful, culturally complex, and technologically mature. Their bodies and clothing should communicate heat, pressure, motion, brass, copper, color, class-line heritage, survivor history, and communal rhythm.
 
 ---
 
@@ -50,9 +50,9 @@ Design note: avoid giving Aeonolacertians ordinary human hands or feet with scal
 
 ## Aeonolacertian Population Structure and Morph Types
 
-Aeonolacertians are mixed populations with recognizable morph-type tendencies rather than rigid biological castes. Morph types often correlate with specialized roles, inherited family traditions, military functions, ritual duties, and cultural expectations, but individuals may cross boundaries. After the Catastrophic Interaction, survival pressures have blurred some older distinctions.
+Aeonolacertians are mixed populations with recognizable morph-type tendencies rather than rigid biological castes. Morph types often correlate with specialized roles, inherited family traditions, military functions, ritual duties, class-line movement, and cultural expectations, but individuals may cross boundaries. After the Catastrophic Interaction, survival pressures have blurred some older distinctions.
 
-A city, enclave, or faction should show mixed Aeonolacertian populations: different morph-types living, working, arguing, fighting, raising young, and maintaining machinery together.
+A city, enclave, or faction should show mixed Aeonolacertian populations: different morph-types living, working, arguing, fighting, raising young, keeping rhythm, and maintaining machinery together.
 
 ### Naming Systems
 
@@ -64,7 +64,7 @@ The term **Saurasapien** does not replace Aeonolacertian in formal canon. It is 
 
 | Archival Morph Label | Common Field Name | Typical Usage |
 |---|---|---|
-| Velociraptoroid | Velocisapien | speed, scouting, rapid movement |
+| Velociraptoroid | Velocisapien | pressure-running, courier rhythm, heat-route scouting |
 | Tyrannisauroid | Tyrannosapien | command, heavy war, force projection |
 | Bajadasauroid | Bajadrasapien | signal, ritual science, resonance |
 | Ankylosauroid | Ankylosapien | defense, engineering, endurance |
@@ -75,12 +75,190 @@ Example usage:
 - **World Works archive:** “Subject exhibits Tyrannisauroid-dominant morphology.”
 - **Meridian mechanic:** “That’s Tyrannosapien pressure gear. Don’t touch it unless you want your arm educated.”
 - **Field team note:** “The commission included one Saurasapien of each major field-recognized morph type.”
+- **Velocisapien street note:** “Pressure-runners marked the hot route in checkerboard paint before the third Vent.”
+
+---
+
+## Aeonolacertian Pressure-Rhythm Aesthetic Logic
+
+Each Saurasapien morph-type has an associated musical genre logic. This does not mean every individual literally performs or belongs to that music scene. Instead, the genre acts as a visual, cultural, tonal, environmental, and movement-design anchor for artists, writers, game designers, and adaptation teams.
+
+**Aeonolacertian pressure-rhythm aesthetics are readable through body-shape ecology, heat culture, boiler rhythm, class-line movement, ritual pressure, and communal sound.**
+
+Larger balance:
+
+- **Saurasapiens** = body-shape ecology + pressure rhythm.
+- **Antisapiens** = signal-band phenotype + genre-coded signal aesthetics.
+- **Meridians** = colony-function class culture + work/district music.
+
+### Aeonolacertian Genre Map
+
+| Saurasapien Line | Genre Logic | Design Meaning |
+|---|---|---|
+| Velocisapien / Velociraptoroid | 2-tone ska / boiler ska / pressure-skank | street speed, courier rhythm, mixed-population identity, protest movement, offbeat survival |
+| Tyrannosapien / Tyrannisauroid | doom metal / ceremonial war brass | command, mass, heat, red crystal authority, battlefield ceremony |
+| Bajadrasapien / Bajadasauroid | psychedelic prog / steam-oracle drone | resonance, spines, signal ritual, strange diplomacy, pressure memory |
+| Ankylosapien / Ankylosauroid | sludge metal / foundry percussion | defense, shield-lock, endurance, infrastructure, boiler labor |
+| Cerasapien / Ceratopsinoid | civic brass / folk procession / funeral march | law, family, guardianship, ceremony, communal memory |
+
+Poetic balance:
+
+- **Velocisapiens** run the offbeat.
+- **Tyrannosapiens** carry the thunder.
+- **Bajadrasapiens** hear the pressure.
+- **Ankylosapiens** hold the downstroke.
+- **Cerasapiens** keep the procession.
+
+### Velocisapien / Velociraptoroid Re-Classification Refinement
+
+Velocisapiens should not be treated only as fast scouts or tactical runners. Their canon role now expands into a street-level, working-class, mixed-population, courier, protest, and pressure-route class aesthetic.
+
+Velocisapien role tendencies include:
+
+- pressure-runners
+- message couriers
+- pickets
+- tunnel guides
+- heat-route scouts
+- rooftop scouts
+- rapid-response skirmishers
+- protest messengers
+- memory-runners
+- pipe-runners
+- route drummers
+- signal-flag carriers
+- settlement runners in mixed Aeonolacertian populations
+
+**Velocisapiens are not merely fast because they are predator-coded. They are fast because their cities, tunnels, class-lines, and survival roles made speed into street culture.**
+
+Velocisapiens balance with Meridian and Antisapien underclass / counterculture classes without copying them:
+
+| People | Class / Band | Genre | Underclass Function |
+|---|---|---|---|
+| Antisapien | Lividisapien | Punk | contradiction, counter-system truth, exposed wires |
+| Meridian | Ghostwaver | Post-punk / pirate radio dub / signal collage | forbidden broadcasts, rumor, memory smuggling |
+| Aeonolacertian | Velocisapien | 2-tone ska / boiler ska / pressure-skank | courier movement, street scouting, protest rhythm |
+
+Tri-species balance line:
+
+- **Lividisapiens expose the lie.**
+- **Ghostwavers broadcast the lie.**
+- **Velocisapiens outrun the lie.**
+
+### Velocisapien = 2-Tone Ska / Boiler Ska / Pressure-Skank
+
+Velocisapiens are associated with **2-tone ska** aesthetics, adapted into Aeonolacertian boiler culture as **boiler ska** or **pressure-skank**.
+
+Visual and tonal logic:
+
+- street speed
+- offbeat motion
+- courier rhythm
+- checkerboard contrast
+- brass punctuation
+- working-class route culture
+- mixed-population identity
+- protest movement
+- fast footwork
+- claw-tap timing
+- heat-route survival
+- joy sharpened into resistance
+
+Velocisapiens should feel like pipe-runners, boiler couriers, rooftop scouts, tunnel guides, picket-line messengers, and pressure-dancers who know every hot route through the city.
+
+Design meaning: 2-tone ska reinforces Velocisapien speed, mixed-population life, street-level survival, protest rhythm, and social agility.
+
+### Tyrannosapien = Doom Metal / Ceremonial War Brass
+
+Tyrannosapiens are associated with **doom metal** and **ceremonial war brass**.
+
+Visual and tonal logic:
+
+- mass
+- command
+- heat
+- dread
+- slow force
+- deep chest rhythm
+- red crystal authority
+- battlefield ceremony
+- boiler-lit silhouettes
+- heavy war paint
+- final-stand presence
+
+Tyrannosapiens should feel like command pressure made flesh. Their rhythm is thunder, not frenzy.
+
+Design meaning: doom metal and ceremonial war brass reinforce Tyrannosapien power, leadership, territorial defense, Heart Guard candidacy, and heavy command presence.
+
+### Bajadrasapien = Psychedelic Prog / Steam-Oracle Drone
+
+Bajadrasapiens are associated with **psychedelic prog** and **steam-oracle drone**.
+
+Visual and tonal logic:
+
+- resonance
+- pressure memory
+- spines as instruments
+- complex signal patterns
+- strange diplomacy
+- environmental listening
+- ritual science
+- copper-ringed quills
+- oracle posture
+- slow harmonic perception
+
+Bajadrasapiens should feel like living pressure antennae who can hear a city remembering through its pipes.
+
+Design meaning: psychedelic prog and steam-oracle drone reinforce Bajadrasapien elegance, signal communication, ritual science, diplomacy, and pressure resonance.
+
+### Ankylosapien = Sludge Metal / Foundry Percussion
+
+Ankylosapiens are associated with **sludge metal** and **foundry percussion**.
+
+Visual and tonal logic:
+
+- impact
+- endurance
+- boiler labor
+- slow heaviness
+- shield-lock rhythm
+- infrastructure
+- fortress-building
+- hammer-on-plate sound
+- braced stance
+- stubborn survival
+
+Ankylosapiens should feel like fortifications that learned to breathe.
+
+Design meaning: sludge metal and foundry percussion reinforce Ankylosapien defense, engineering, endurance, infrastructure, shield-lock formations, and heavy work culture.
+
+### Cerasapien = Civic Brass / Folk Procession / Funeral March
+
+Cerasapiens are associated with **civic brass**, **folk procession**, and **funeral march**.
+
+Visual and tonal logic:
+
+- law
+- family
+- elders
+- guardianship
+- public ceremony
+- frill display
+- horn-call identity
+- communal memory
+- agricultural dignity
+- mourning procession
+- council rhythm
+
+Cerasapiens should feel like the community walking together through grief, law, and survival.
+
+Design meaning: civic brass, folk procession, and funeral march reinforce Cerasapien civic order, elder councils, family structures, ceremonial guardianship, agriculture, public memory, and communal discipline.
 
 ---
 
 ## Aeonolacertian Color, Ornamentation, Clothing, and Armor
 
-Aeonolacertians use vivid colors. Their class-lines are color-associated, though exact palettes vary by region, family, age, role, and ritual context. Scale color, feather coloration, quill dye, armor paint, copper ornament, and ritual markings can all signal role, faction, ancestry, grief, readiness for war, or oath-status.
+Aeonolacertians use vivid colors. Their class-lines are color-associated, though exact palettes vary by region, family, age, role, and ritual context. Scale color, feather coloration, quill dye, armor paint, copper ornament, rhythm markings, and ritual markings can all signal role, faction, ancestry, grief, readiness for war, route duty, or oath-status.
 
 ### Material Palette
 
@@ -94,12 +272,14 @@ Aeonolacertians use vivid colors. Their class-lines are color-associated, though
 - red crystal for elite Heart Guard armor
 - steam-darkened cloth
 - field gear and adventure wear
+- checkerboard route cloth for Velocisapien pressure-runners
+- brass whistles, pressure-horns, and ritual percussion plates
 
 ### Scale and Armor Painting
 
-Aeonolacertians paint scales, armor, crests, frills, and quills for war, mourning, ritual, memory rites, class-line ceremonies, siege defense, and faction identity.
+Aeonolacertians paint scales, armor, crests, frills, and quills for war, mourning, ritual, memory rites, class-line ceremonies, siege defense, faction identity, protest affiliation, route marking, and pressure-rhythm signaling.
 
-Paint may mark heat-readiness, unit identity, oath of defense, mourning for the Thousandfold Rupture, Central Boiler sanctum duty, Bellows Rite participation, or Heart Guard final-stand status.
+Paint may mark heat-readiness, unit identity, oath of defense, mourning for the Thousandfold Rupture, Central Boiler sanctum duty, Bellows Rite participation, Heart Guard final-stand status, safe heat-routes, or underclass pressure-runner affiliation.
 
 ### Civilian Clothing
 
@@ -127,13 +307,19 @@ Heart Guard armor is red crystal armor. It is elite, sacred, dangerous, and buil
 
 ### Velociraptoroid / Velocisapien
 
-**Role Tendencies:** scouts, messengers, tactical intelligence, rapid-strike defense, infiltration, memory-runners.
+**Role Tendencies:** pressure-runners, message couriers, pickets, tunnel guides, heat-route scouts, rooftop scouts, rapid-response skirmishers, protest messengers, memory-runners, pipe-runners, route drummers, signal-flag carriers, settlement runners in mixed Aeonolacertian populations, tactical intelligence, and rapid-strike defense.
 
 **Body Shape:** lean, agile, narrow-waisted, quick-limbed, light but strong.
 
-**Visual Notes:** narrow saurian skull, alert eyes, sharp expressive brows, longer fingers/toes, curved claws, flexible balancing tail, common feathers/quills along forearms, head crest, tail ridge, neck, or shoulders.
+**Visual Notes:** narrow saurian skull, alert eyes, sharp expressive brows, longer fingers/toes, curved claws, flexible balancing tail, common feathers/quills along forearms, head crest, tail ridge, neck, or shoulders. Velocisapiens may display 2-tone ska / boiler-ska visual cues, especially in street, courier, protest, mixed-settlement, and pressure-route contexts.
 
-**Color Association:** vivid greens, teals, amber striping, sharp contrast patterns, speed-markings, scout dyes.
+**Pressure-Rhythm Aesthetic:** 2-tone ska / boiler ska / pressure-skank. Their speed should feel social, urban, rhythmic, and pressure-civic as much as biological.
+
+**Common Visual Cues:** checkerboard scale paint or cloth strips, black/white/teal/amber contrast markings, cropped jackets over light harnesses, brass whistles, messenger straps, heat-route badges, quill crests styled like sharp street fashion, fast boots or claw-wraps, portable signal flags, small pressure-horns, route charms, protest markings on goggles, shoulder plates, or courier bags, compact pressure packs, and light gear designed for sudden movement through pipe corridors and thermal routes.
+
+**Color Association:** vivid greens, teals, amber, black/white checkerboard accents, high-contrast striping, speed-markings, scout dyes, and route paint.
+
+**Design Notes:** Do not make Velocisapiens look like generic ninjas, sleek assassins, or only animalistic raptors. They are not merely fast because they are predator-coded. They are fast because their cities, tunnels, class-lines, and survival roles made speed into street culture.
 
 ---
 
@@ -144,6 +330,8 @@ Heart Guard armor is red crystal armor. It is elite, sacred, dangerous, and buil
 **Body Shape:** large, powerful, deep-chested, thick-necked, heavy-jawed, imposing.
 
 **Visual Notes:** broad skull, strong brow, deep jaw, robust four-finger hands and four-toed feet, thick stabilizing tail, heavy crest-like or mane-like quill/feather expression.
+
+**Pressure-Rhythm Aesthetic:** doom metal / ceremonial war brass. Tyrannosapiens should feel like command pressure made flesh: thunder, slow force, and final-stand presence rather than frenzy.
 
 **Color Association:** reds, deep oranges, black striping, iron-dark markings, heat-associated war colors.
 
@@ -157,6 +345,8 @@ Heart Guard armor is red crystal armor. It is elite, sacred, dangerous, and buil
 
 **Visual Notes:** elongated facial structure, expressive eyes, graceful crests/spines, long expressive tail, quills along crest, spine, neck, tail, or shoulders, often ornamented with copper rings or ritual paint.
 
+**Pressure-Rhythm Aesthetic:** psychedelic prog / steam-oracle drone. Bajadrasapiens should feel like living pressure antennae who can hear a city remembering through its pipes.
+
 **Color Association:** blues, violets, copper-greens, oxidized copper tones, signal-bright accents.
 
 ---
@@ -168,6 +358,8 @@ Heart Guard armor is red crystal armor. It is elite, sacred, dangerous, and buil
 **Body Shape:** broad, sturdy, low-centered, heavily built, armored-looking even without armor.
 
 **Visual Notes:** reinforced skull shapes, heavy brows, broad hands/feet, thick tail that may show club-like traits, bristle-like quills or feathers between osteoderms and armor plates.
+
+**Pressure-Rhythm Aesthetic:** sludge metal / foundry percussion. Ankylosapiens should feel like fortifications that learned to breathe.
 
 **Color Association:** ochre, rust, bronze, dark green, slate, blackened copper, defensive markings.
 
@@ -181,13 +373,15 @@ Heart Guard armor is red crystal armor. It is elite, sacred, dangerous, and buil
 
 **Visual Notes:** horned or frilled facial structure, stable four-finger hands and four-toed feet, strong tail, frills often painted or ornamented, feathers/quills along frill edges, neck, shoulders, or tail.
 
+**Pressure-Rhythm Aesthetic:** civic brass / folk procession / funeral march. Cerasapiens should feel like the community walking together through grief, law, and survival.
+
 **Color Association:** golds, creams, deep greens, red-browns, white ritual markings, civic color bands.
 
 ---
 
 ## Aeonolacertian Expression and Design Rules
 
-Aeonolacertians are emotionally readable through eye shape, brow plates, jaw angle, vestigial lip movement, nostril flare, crest lift, frill angle, quill bristling, tail position, claw tapping, throat rumble, posture, and heat-state.
+Aeonolacertians are emotionally readable through eye shape, brow plates, jaw angle, vestigial lip movement, nostril flare, crest lift, frill angle, quill bristling, tail position, claw tapping, throat rumble, posture, heat-state, and pressure-rhythm behavior.
 
 ### Artist and Adaptation Rules
 
@@ -204,11 +398,74 @@ Aeonolacertians are emotionally readable through eye shape, brow plates, jaw ang
 11. Aeolipile dress like steampunk explorer-engineers.
 12. Infantry wear steam automaton suits.
 13. Heart Guard wear red crystal armor.
-14. Scale and armor painting for war, ritual, grief, and oath-status is canon.
+14. Scale and armor painting for war, ritual, grief, route duty, protest affiliation, and oath-status is canon.
 15. Morph types are mixed population traits associated with specialized roles, not separate species.
 16. `-sauroid` terms are archival or academic labels; `-sapien` terms are common field names.
 17. **Saurasapien** is the common umbrella field term for Aeonolacertian morph-type people.
 18. **Aeonolacertian** remains the formal species and civilization name.
+19. Aeonolacertian music-genre logic should feel thermal, percussive, bodily, communal, and pressure-driven.
+20. Do not treat the genres as surface costumes only. They should influence movement, ritual, posture, gear, environments, and class-line behavior.
+21. Saurasapien genre logic should emerge from heat, boiler-time, pressure infrastructure, body-shape ecology, and city survival.
+22. Velocisapien 2-tone ska cues should not erase their saurian anatomy or make them simply human punks in scales.
+23. Velocisapiens may share underclass and counterculture energy with Lividisapiens and Ghostwavers, but their identity remains Aeonolacertian, heat-route, and body-ecology based.
+24. Tyrannosapien doom/war brass aesthetics should emphasize command weight rather than simple aggression.
+25. Bajadrasapien prog/drone aesthetics should emphasize ritual intelligence and pressure resonance rather than random psychedelia.
+26. Ankylosapien sludge/foundry aesthetics should emphasize defense, endurance, labor, and infrastructure rather than clumsiness.
+27. Cerasapien civic brass/procession aesthetics should emphasize community, law, family, and memory rather than generic nobility.
+
+---
+
+## Aeonolacertian Common Design Mistakes to Avoid
+
+- Do not make Velocisapiens only sleek raptor assassins.
+- Do not reduce Velocisapien speed to predator biology alone.
+- Do not apply punk aesthetics to Velocisapiens directly; their underclass rhythm is 2-tone ska / boiler ska, distinct from Lividisapien punk.
+- Do not make Tyrannosapiens mindless metal brutes.
+- Do not make Bajadrasapiens generic psychedelic mystics with no pressure-science grounding.
+- Do not make Ankylosapiens slow fools; their heaviness is engineered endurance.
+- Do not make Cerasapiens generic fantasy elders; their procession logic is civic, familial, legal, and memorial.
+- Do not erase the four-finger / four-toe rule.
+- Do not remove tails.
+- Do not flatten the five morph-types into color swaps or simple RPG classes.
+
+---
+
+## Aeonolacertian Story Uses
+
+- A Velocisapien courier crosses a Vent-Distance route using offbeat claw-tap timing known only to pressure-runners.
+- A Velocisapien protest line uses checkerboard flags and brass whistles to confuse World Works observers.
+- A Ghostwaver broadcast, Lividisapien signal breach, and Velocisapien courier route can form a tri-species underclass information chain.
+- A Tyrannosapien commander’s arrival is heard first as slow brass through the steam.
+- A Bajadrasapien Steam-Oracle interprets pipe resonance as a form of ancestral prog-like pressure memory.
+- An Ankylosapien engineering crew keeps shield-lock rhythm by hammering foundry beats into corridor plates.
+- A Cerasapien council procession uses brass, horn calls, and funeral rhythm to remember the Sundering of Scales.
+- A human mistakes Velocisapien checkerboard markings for fashion until they realize each pattern marks route, heat-risk, and protest affiliation.
+- A mixed-morph settlement uses different pressure-rhythms to coordinate evacuation during a thermal breach.
+- A Heart Guard entrance can contrast Tyrannosapien war-brass with Ankylosapien foundry percussion under the same siege.
+
+---
+
+## Aeonolacertian Game and Comic Uses
+
+### Comics
+
+Saurasapien morph-types should be readable through silhouette, rhythm, posture, gear, and environment. A reader should recognize whether a character belongs to street routes, war command, pressure resonance, foundry defense, or civic procession before dialogue explains it.
+
+### 16-Bit Games
+
+Saurasapien morph-types can become readable gameplay and sound-design classes:
+
+- Velocisapien: fast movement, route-running, courier missions, offbeat rhythm mechanics, checkerboard visual cues, brass whistle alerts.
+- Tyrannosapien: heavy command units, war-brass entrance cues, red crystal armor reveals, slow thunder combat pacing.
+- Bajadrasapien: resonance puzzles, pipe-memory interpretation, drone soundscapes, spine/quill signal visuals.
+- Ankylosapien: shield-lock mechanics, foundry rhythm minigames, fortification repair, sludge-heavy movement timing.
+- Cerasapien: civic defense, council scenes, procession mechanics, family-law quests, funeral march motifs.
+
+### Tabletop Games
+
+A tabletop adaptation may use **Saurasapien** as the playable ancestry/species umbrella and the five `-sapien` names as morph-type options.
+
+Pressure-rhythm aesthetics should provide movement cues, social roles, ceremony, gear style, sound motifs, and story hooks without locking characters into destiny.
 
 ---
 
@@ -224,6 +481,16 @@ Aeonolacertians are emotionally readable through eye shape, brow plates, jaw ang
 8. Are there rare hybrid expressions that visibly combine morph-types?
 9. What are the native Aeonolacertian names for the five morph-type lines?
 10. Do Aeonolacertians tolerate the field term **Saurasapien**, reject it, or use it pragmatically when speaking with humans?
+11. Is boiler ska an old Aeonolacertian tradition, a post-catastrophe invention, or a contact-era fusion?
+12. Did Velocisapien pressure-runners create checkerboard route markings before or after contact with humans?
+13. Are Velocisapien offbeat claw-tap rhythms used as coded communication in tunnel warfare?
+14. Do World Works observers misread Velocisapien 2-tone markings as mere fashion?
+15. Which Aeonolacertian faction most embraces boiler ska: The Broken Brood, Quiet Talon, Scale Concord, or younger mixed enclaves?
+16. Are Tyrannosapien war-brass traditions tied to Heart Guard recruitment?
+17. Do Bajadrasapien spines resonate audibly during steam-oracle drone ceremonies?
+18. Are Ankylosapien foundry rhythms standardized across city fortresses?
+19. Do Cerasapien funeral processions preserve pre-catastrophe law codes?
+20. Which Saurasapien morph-type is most likely to collaborate musically or culturally with Ghostwavers and Lividisapiens?
 
 ---
 
@@ -649,6 +916,7 @@ The Saurasapien and Antisapien systems are designed to balance one another witho
 
 Updated visual balance:
 
+- **Velocisapien** = 2-tone pressure-runner underclass rhythm, checkerboard route culture, offbeat survival.
 - **Nullsapien** = ambient sovereignty, bald wireless authority, severe stillness.
 - **Veilsapien** = underground hip hop stealth, hoodie/mask traversal gear, rugged streetwise field face.
 - **Amaranthsapien** = dungeonsynth resonance, VR visor, luminous fiberoptic hair, white ritual face paint, black visor-drip makeup.
@@ -836,9 +1104,9 @@ Meridians should never feel like “regular humans standing between cooler alien
 
 Meridian classes balance the other peoples without copying them.
 
-- **Saurasapiens** = body-shape ecology.
-- **Antisapiens** = signal-band phenotype.
-- **Meridians** = colony-function class culture.
+- **Saurasapiens** = body-shape ecology + pressure rhythm.
+- **Antisapiens** = signal-band phenotype + genre-coded signal aesthetics.
+- **Meridians** = colony-function class culture + work/district music.
 
 Meridian class identity is readable through clothing, tools, workplace habits, district slang, body posture, education track, music, smell, grime, polish, and proximity to official truth.
 
