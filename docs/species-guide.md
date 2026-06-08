@@ -818,10 +818,230 @@ Ritual makeup can be used as a visual state marker: dream-contact, archive testi
 
 ---
 
+## Meridians
+
+**Canon Status:** CONFIRMED CANON
+
+**Species Type:** human-descended colony population of Meridian Prime.
+
+**Formal Name:** Meridians.
+
+**Core Visual Principle:** Meridians are humans shaped by corporate colony infrastructure, restricted education, occupational tracking, district culture, and generations of living under World Works control. Their five balancing classes are **not biological castes**. They are colony-function class cultures: social, occupational, infrastructural, educational, and aesthetic formations.
+
+Meridians should never feel like “regular humans standing between cooler aliens.” Their strength is work-culture identity. They carry the marks of the systems that trained, employed, sorted, and lied to them.
+
+---
+
+## Meridian Class Culture Logic
+
+Meridian classes balance the other peoples without copying them.
+
+- **Saurasapiens** = body-shape ecology.
+- **Antisapiens** = signal-band phenotype.
+- **Meridians** = colony-function class culture.
+
+Meridian class identity is readable through clothing, tools, workplace habits, district slang, body posture, education track, music, smell, grime, polish, and proximity to official truth.
+
+Each Meridian class has a music-genre logic. This does not mean every individual literally performs or likes that music. The genre acts as a visual, cultural, tonal, environmental, and movement-design anchor.
+
+---
+
+## Meridian Class-Culture Music Logic
+
+### Continuants = Civic Synthpop / Corporate Hymn
+
+**Core Function:** official memory, education, records, civic compliance, public ceremony, curriculum control, clerical administration, and approved timeline maintenance.
+
+**Genre Logic:** civic synthpop / corporate hymn.
+
+**Design Meaning:** approved memory, polished surfaces, cheerful control, public order, institutional melody, and suspiciously clean optimism.
+
+**Visual Language:** pressed uniforms, clean badges, lanyards, pale corporate colors, soft gray/blue/white palettes, clipboard tablets, school-hall speakers, anthem posters, perfectly timed clapping, careful handwriting, and polite fear.
+
+**Sound Meaning:** “The timeline is safe. Please sing along.”
+
+**Story Function:** Continuants keep the official story intact. Some genuinely believe order protects everyone. Others know the truth and keep smiling anyway.
+
+---
+
+### Primehands = Heavy Metal / Work Chant
+
+**Core Function:** spaceport labor, heavy equipment operators, shuttle-yard crews, cargo haulers, crane pilots, rig drivers, pressure-door crews, fuel-line crews, launchpad welders, restricted transport labor, and physical colony logistics.
+
+**Genre Logic:** heavy metal / work chant.
+
+**Design Meaning:** launchpad thunder, loader rigs, pressure, muscle, mass, shouted cadence, crew solidarity, and machinery moving under strain.
+
+**Visual Language:** hazard orange, black rubberized coats, loader exo-braces, thick gloves, hard helmets, forearm controls, grease-striped faces, restricted-zone badges, heavy boots, crane silhouettes, and launch lights.
+
+**Sound Meaning:** “Move it or get crushed.”
+
+**Story Function:** Primehands move the colony’s body. They know what lands, what launches, what gets hidden in cargo, and what never makes it onto official ledgers.
+
+---
+
+### Dieselwrights = Blues Rock / Rockabilly / Greasepunk
+
+**Core Function:** mechanics, machinists, welders, boiler-techs, street engineers, scavenger-fabricators, vehicle builders, power-grid tinkerers, and back-alley inventors of the Diesel Districts.
+
+**Genre Logic:** blues rock / rockabilly / greasepunk.
+
+**Design Meaning:** repair culture, oil, engines, fabrication, swagger, stubborn survival, heartbreak, garage shrines, and machines that barely run but refuse to die.
+
+**Visual Language:** patched coveralls, oil-dark coats, tool belts, welding goggles, brass repairs, dieselpunk prosthetics, cigarette-burned cuffs, hand-painted machine saints, engine grease, and workshop jewelry made from spare parts.
+
+**Sound Meaning:** “If it runs, it remembers.”
+
+**Story Function:** Dieselwrights keep the city breathing. They are allergic to nonsense because machinery punishes lies immediately. A Continuant can fake a report. A Dieselwright cannot fake a working engine.
+
+---
+
+### Scarwalkers = Desert Rock / Outlaw Country / Weird Western
+
+**Core Function:** field scouts, route mappers, anomaly-edge surveyors, drivers, ruin guides, perimeter workers, weather readers, catastrophe-zone trackers, and people who know the places World Works prefers to leave unnamed.
+
+**Genre Logic:** desert rock / outlaw country / weird western.
+
+**Design Meaning:** field routes, anomaly edges, dust, maps, hard truth, dangerous roads, sunburned solitude, half-haunted landscapes, and survival past the official map.
+
+**Visual Language:** dustcoats, respirator scarves, survey goggles, map tubes, signal flares, field knives, patched boots, portable anomaly meters, sun-cracked gear, road charms, warning flags, and long shadows in broken light.
+
+**Sound Meaning:** “The map ends because someone wanted it to.”
+
+**Story Function:** Scarwalkers test the map. They are not formal rebels by default, but they see too much. They are the colony’s nervous system at the edge of the wound.
+
+---
+
+### Ghostwavers = Post-Punk / Pirate Radio Dub / Signal Collage
+
+**Core Function:** pirate-radio kids, dissident signal keepers, illegal archivists, street journalists, rumor-carriers, zine printers, signal den operators, broadcast poets, conspiracy cartographers, memory smugglers, and forbidden-frequency listeners.
+
+**Genre Logic:** post-punk / pirate radio dub / signal collage.
+
+**Design Meaning:** dissident broadcasts, static, rumor, forbidden memory, paranoia, angular style, echo, signal manipulation, collage-thinking, and haunted civic memory.
+
+**Visual Language:** old headphones, antenna jewelry, patched jackets, portable receivers, cassette relics, signal tattoos, cheap neon, static-burned screens, walls of flyers, illegal receivers, stickered terminals, and street-layered clothing.
+
+**Sound Meaning:** “Static is where the dead facts breathe.”
+
+**Story Function:** Ghostwavers broadcast the forbidden remix. They are human, so they do not have signal-band biology, but culturally they are the Meridians most likely to understand that information has a pulse.
+
+---
+
+## Meridian Class-Culture Summary
+
+| Meridian Class | Core Function | Genre Logic | Design Meaning |
+|---|---|---|---|
+| Continuants | official memory, education, compliance | civic synthpop / corporate hymn | approved memory, polished control, cheerful order |
+| Primehands | spaceport labor, HEO, logistics | heavy metal / work chant | mass, muscle, launchpad thunder, labor cadence |
+| Dieselwrights | machinery, repair, fabrication | blues rock / rockabilly / greasepunk | engine survival, oil, swagger, stubborn repair |
+| Scarwalkers | field routes, anomalies, survey | desert rock / outlaw country / weird western | dust, maps, perimeter truth, haunted roads |
+| Ghostwavers | pirate signal, rumor, dissident media | post-punk / pirate radio dub / signal collage | static, forbidden memory, street broadcast, signal ghosts |
+
+---
+
+## Meridian Design Balance
+
+- **Continuants** keep the official song.
+- **Primehands** keep the beat of labor.
+- **Dieselwrights** keep the engine groove.
+- **Scarwalkers** carry the road ballad.
+- **Ghostwavers** broadcast the forbidden remix.
+
+Class-culture balance:
+
+- **Continuants** = official memory.
+- **Primehands** = colony logistics.
+- **Dieselwrights** = machine survival.
+- **Scarwalkers** = field truth.
+- **Ghostwavers** = forbidden signal.
+
+Meridian class cultures should feel human, social, and infrastructural. They are shaped by work and control, not by morphology or anti-matter signal biology.
+
+---
+
+## Meridian Artist and Adaptation Rules
+
+1. Meridians are humans, not morph-types and not signal-band phenotypes.
+2. Meridian classes are colony-function class cultures, not separate species.
+3. Class culture should be readable through clothing, tools, posture, workplace setting, district cues, and music-genre logic.
+4. Do not make the five Meridian classes simple RPG jobs only. They are social worlds.
+5. Do not make Continuants villains by default. Some are true believers, some are cowards, some are trapped, and some are quietly brave.
+6. Do not make Primehands only muscle. They understand logistics, restricted zones, and physical truth.
+7. Do not make Dieselwrights only comic mechanics. They are the city’s survival intelligence.
+8. Do not make Scarwalkers generic cowboys. Their weird western flavor should be filtered through anomaly survey, corporate map suppression, and Meridian field survival.
+9. Do not make Ghostwavers identical to Lividisapiens. Ghostwavers are human signal culture; Lividisapiens are Antisapien signal-band biology.
+10. Music-genre logic should influence scene rhythm, costuming, props, environments, slang, and class posture.
+11. A character may subvert or mix class-culture aesthetics, but the default class visual language should remain recognizable.
+
+---
+
+## Meridian Story Uses
+
+- A Continuant repeats the official timeline in public, then secretly corrects a child’s forbidden question in pencil.
+- A Primehand recognizes an erased cargo event because the launchpad scars do not match the manifest.
+- A Dieselwright fixes a machine World Works claimed never existed.
+- A Scarwalker returns from beyond the approved map with dust on their boots and a route nobody should know.
+- A Ghostwaver splices three banned transmissions into a song that makes a whole district remember the same missing night.
+- A Continuant hears a Ghostwaver broadcast and realizes the anthem they teach has a missing verse.
+- A Primehand and Dieselwright argue over whether a broken shuttle door was sabotage, fatigue, or deliberate corporate design.
+- A Scarwalker trusts a map less than a cracked mile marker.
+- A Ghostwaver and Lividisapien may understand one another culturally, but one is a human broadcaster and the other is a living contradiction-sensitive signal organism.
+
+---
+
+## Meridian Game and Comic Uses
+
+### Comics
+
+Meridian classes should be readable through silhouette and setting. A reader should be able to tell whether a character comes from an education hall, shuttle yard, Diesel District garage, anomaly route, or signal den before dialogue names the class.
+
+### 16-Bit Games
+
+Meridian class cultures can become readable human role styles:
+
+- Continuant: records, persuasion, civic access, official doors, compliance checks, corporate hymn sound cues.
+- Primehand: heavy lifting, vehicles, cargo puzzles, shuttle-yard access, work chant rhythm, launchpad hazards.
+- Dieselwright: repair, fabrication, engine puzzles, machine improvisation, blues rock/rockabilly groove.
+- Scarwalker: route finding, anomaly navigation, map recovery, field hazards, desert rock/outlaw country ambience.
+- Ghostwaver: signal clues, rumor maps, broadcast puzzles, memory fragments, post-punk/dub/static collage sound design.
+
+### Tabletop Games
+
+A tabletop adaptation may use the five Meridian class cultures as backgrounds, factions, occupations, or starting communities rather than biological ancestry options.
+
+Class cultures should provide social access, tools, contacts, dialect, music cues, and worldview, not destiny.
+
+---
+
+## Open Meridian Species and Class-Culture Questions
+
+1. Did World Works officially create the five class cultures, or did they emerge around corporate tracks and districts?
+2. Are Continuants recruited, born into families, or selected through school performance?
+3. Are Primehands unionized, company-owned, or something stranger after generations of restricted-zone labor?
+4. What is the relationship between Primehands and HEO certification?
+5. Do Dieselwrights have guilds, garage families, machine shrines, or black-market apprenticeship chains?
+6. Do Scarwalkers work officially for survey authorities, or are most of them semi-legal route people?
+7. Are Ghostwavers a class, subculture, dissident network, or all three depending on district?
+8. Which Meridian class is most likely to encounter Aeonolacertians first?
+9. Which Meridian class is most likely to collaborate with Antisapiens first?
+10. Which class does World Works trust most, and which class does it fear most?
+11. Can a Meridian move between class cultures, or do education halls and job assignments make that difficult?
+12. What does inter-class marriage, friendship, or rivalry look like in Meridian Capital City?
+13. What class-culture music is officially approved, tolerated, censored, or banned?
+14. Do Ghostwavers preserve older Earth music, or are their genres purely Meridian-born descendants?
+15. Does each class have a district, or do all five exist across every major Meridian settlement?
+16. What happens when a Continuant becomes a Ghostwaver?
+17. What happens when a Primehand sees a manifest that proves Poisoned Contact?
+18. What does a Scarwalker map look like compared to a Continuant map?
+19. What is the most famous Dieselwright machine saint?
+20. What Meridian class does the main protagonist come from?
+
+---
+
 ## Future Species Sections
 
 Future versions of this guide should add:
 
-- Meridians
 - Human Lodestar elites
 - Any hybrid, altered, or anomalous forms connected to memory corruption
