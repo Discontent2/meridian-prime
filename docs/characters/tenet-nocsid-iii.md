@@ -49,7 +49,9 @@ Tenet’s current main-story placement is:
 
 **MITE II**
 
-Tenet is recognized in the field as a Traverse operator and **HEO-IC by designation only**, but he is not on Prime Ops payroll.
+Tenet is an **NCI MITE II HEO-IC / field lead by contract designation**, not an official Prime Ops Lead.
+
+He is recognized in the field as a Traverse operator and HEO-IC by designation, but he is not on Prime Ops payroll.
 
 He works for:
 
@@ -68,7 +70,9 @@ MITE II is an NCI-run mission using NCI crew and equipment.
 
 MITE II allows private contractors, making it more flexible, deniable, and concealable than SpITE or WWISSaRD operations.
 
-MITE II’s public-facing mission is some form of private survey or route work. Its deeper function is tied to the hidden formation near the Claw and the search for a concealable route connected to Horus Skelton’s interests.
+NCI leased proposed route access for surveying and proofing. Horus Skelton approved the lease in his capacity as **World Works Director of Traverse Operations**.
+
+MITE II’s public-facing mission is private survey / route-proofing work. Its deeper function is tied to the hidden formation near the Claw and the search for a concealable route connected to Horus Skelton’s interests.
 
 ---
 
@@ -86,6 +90,14 @@ NCI modifies older Traverse tractors and Mods for “Special” Missions.
 NCI is a family-rooted private Traverse contractor with old machines, field credibility, deep Traverse Ops knowledge, private loyalties, and records Prime Ops never fully controlled.
 
 NCI should feel capable, deniable, practical, and family-haunted.
+
+---
+
+## Private Contractor Naming and Numbering
+
+Private contractors working under approved Traverse leases can choose their own internal naming and numbering conventions for tractors, Mods, tools, and mission equipment, as long as Prime Ops lease paperwork and safety requirements can still identify assets when required.
+
+This allows NCI to preserve older machine names, legacy names, private numbering customs, and “Special” Mission designations that do not perfectly match standard Prime Ops conventions.
 
 ---
 
@@ -191,7 +203,11 @@ During The Last Traverse:
 
 Rob Holliday is dead after The Last Traverse.
 
-Rob’s death should be treated with emotional gravity, but the exact medical, personal, or hidden cause of death may remain open unless later canon specifies it.
+True cause of death:
+
+**Horus Skelton had Rob Holliday poisoned through an assassin covertly working for Horus while employed at NCI.**
+
+The public-facing cause of Rob’s death may remain obscured, softened, or misreported inside the story.
 
 For expanded legacy canon, see `docs/legacy/the-last-traverse.md`.
 
@@ -259,19 +275,20 @@ The House Ten Built contains:
 - family history
 - hidden or not-yet-revealed secrets
 
-The cabin has secrets relevant to the larger Meridian Prime story.
+The cabin has secrets relevant to the larger Meridian Prime story, but those secrets are **not yet revealed**.
 
-The exact secrets remain open for future development, but possible categories include:
+The exact secrets remain open for future development.
 
-- old route records
-- hidden NCI survey data
-- maps connected to the Core
-- early Traverse records
-- records of Tenet I, Rob, and Horus
-- evidence of the old rupture
-- information about the hidden route to Àænos / àæonos
-- evidence related to the Chrono-Loom
-- clues that later recontextualize MITE II
+---
+
+## Aeonos / Àæonos Terminology
+
+Canon distinction:
+
+- **Aeonos** = Aeonolacertian-named home world
+- **Àæonos** = Àæbsconditian-named home world
+
+Use these spellings carefully. Do not collapse Aeonos and Àæonos into one interchangeable term unless a specific character is confused, translating poorly, or intentionally obscuring the distinction.
 
 ---
 
@@ -301,15 +318,17 @@ Do not treat Horus as a random corporate antagonist. Horus was once part of the 
 
 Horus Skelton is Mark Skelton’s father.
 
-Horus has been the corporate Traverse Ops boss, or equivalent senior corporate authority, for decades.
+Horus has been the **World Works Director of Traverse Operations** for decades.
 
 Horus was once close to Tenet I and Rob Holliday.
 
-Later, Horus becomes associated with corporate control, hidden agendas, and the buried truth connected to the Core, the Claw, and the possible route to Àænos / àæonos.
+Later, Horus becomes associated with corporate control, hidden agendas, and the buried truth connected to the Core, the Claw, and the possible route to Aeonos / Àæonos.
 
 Story function:
 
 Horus is not merely a villain from outside Tenet’s world. He is part of Tenet’s inherited history. His betrayal, compromise, or obsession should feel personal because he was once one of the men in the photograph.
+
+Horus covertly had Rob Holliday poisoned through an assassin working inside NCI.
 
 ---
 
@@ -361,7 +380,7 @@ The Chrono-Loom should be treated as a poetic, visual, and possibly scientific p
 
 Open future question:
 
-Does the Chrono-Loom merely show atmospheric / crystal refraction, or can it reveal old routes, hidden structures, erased settlements, the Core, or traces of the route to Àænos / àæonos?
+Does the Chrono-Loom merely show atmospheric / crystal refraction, or can it reveal old routes, hidden structures, erased settlements, the Core, or traces of the route to Aeonos / Àæonos?
 
 ---
 
@@ -373,7 +392,7 @@ There, Tenet saw evidence that Tenet I, Rob Holliday, and Horus Skelton were onc
 
 Rob gave Tenet Tenet I’s pistol and left him with the burden of time, choice, and unfinished family history.
 
-Rob died after The Last Traverse.
+Rob died after The Last Traverse, poisoned on Horus Skelton’s orders through an assassin embedded in NCI.
 
 Later, Tenet joins NCI’s MITE II private survey mission, thinking he is taking honest contractor work.
 
@@ -394,9 +413,10 @@ Tenet’s MITE II role connects:
 - Horus Skelton’s corporate power
 - Mark Skelton’s private concealment
 - the hidden formation near the Claw
-- the possible traversable route to Àænos / àæonos
+- the possible traversable route to Aeonos / Àæonos
 - the secrets stored at The House Ten Built
 - Rob’s final gift and warning
+- Horus’s covert murder of Rob through an assassin inside NCI
 
 Tenet accepts MITE II because he wants honest work.
 
@@ -415,7 +435,7 @@ Tenet Nocsid III should function as a bridge between:
 - Rob Holliday’s legacy
 - Tenet I’s unfinished history
 - the Core / gateway mystery
-- the hidden route to Àænos / àæonos
+- the hidden route to Aeonos / Àæonos
 - the truth buried beneath official Meridian Prime records
 
 Core protagonist sentence:
@@ -446,9 +466,11 @@ Core protagonist sentence:
 - Do not treat Rob Holliday as comic relief only.
 - Do not make The Last Traverse irrelevant to the main plot.
 - Do not make Horus Skelton a random corporate villain with no personal history.
-- Do not reveal all secrets of The House Ten Built too early.
+- Do not reveal the secrets of The House Ten Built until story timing requires it.
 - Do not treat Grandfather Ten’s pistol as merely a weapon.
 - Do not make the Chrono-Loom only decorative if later story uses can connect it to memory, history, routes, or hidden truth.
+- Do not confuse Aeonos and Àæonos.
+- Do not portray Tenet as an official Prime Ops Lead during MITE II. He is NCI MITE II HEO-IC / field lead by contract designation.
 
 ---
 
@@ -474,3 +496,6 @@ Core protagonist sentence:
 18. How does Tenet first realize MITE II is not honest work?
 19. How does The Last Traverse emotionally prepare Tenet for the MITE II truth?
 20. Can the Chrono-Loom reveal something Tenet missed during Rob’s final trip?
+21. Who is the assassin Horus embedded inside NCI?
+22. When does Tenet learn Rob was poisoned?
+23. What did Horus fear Rob would reveal?
