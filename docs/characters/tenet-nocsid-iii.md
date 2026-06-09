@@ -203,13 +203,41 @@ During The Last Traverse:
 
 Rob Holliday is dead after The Last Traverse.
 
-True cause of death:
-
-**Horus Skelton had Rob Holliday poisoned through an assassin covertly working for Horus while employed at NCI.**
-
-The public-facing cause of Rob’s death may remain obscured, softened, or misreported inside the story.
+Rob’s death is not a single poisoning incident. It is a route: old friendship, betrayal, suspicion, poisoning, preparation, refusal, and a final move made before Horus could stop him.
 
 For expanded legacy canon, see `docs/legacy/the-last-traverse.md`.
+
+---
+
+## Tenet’s Understanding of Rob’s Death
+
+At the start of MITE II, Tenet does not yet know the full truth of Rob’s death.
+
+He may believe Rob died of **Crystalpnomia** or another softened official diagnosis.
+
+Tenet carries:
+
+- grief
+- Grandfather Ten’s pistol
+- unresolved questions
+- the memory of The Last Traverse
+- a sense that Rob knew more than he said
+
+The later discovery that Rob was poisoned should reframe:
+
+- The Last Traverse
+- the pistol handoff
+- The House Ten Built
+- Horus Skelton
+- NCI
+- the hidden formation near the Claw
+- Tenet’s belief in honest work
+
+Rob’s death should not be used merely as backstory motivation.
+
+It is a map.
+
+The MITE II story should gradually teach Tenet how to read it.
 
 ---
 
@@ -245,6 +273,23 @@ Personality canon:
 - carries grief and regret beneath humor
 - understands the old Traverse world better than most living people
 
+Rob is:
+
+- not an omniscient secret-master
+- not merely a comic-relief old superintendent
+- a man of judgment
+- trusted by Tenet I
+- trusted by crews
+- the person Tenet I chose because people believed Rob
+- suspicious enough to know the official diagnosis is wrong
+- humble enough not to assume he has the whole answer
+- brave enough to move the future before he dies
+- stubborn enough to refuse Horus at the end
+
+Rob’s final resistance is not violence.
+
+It is timing, judgment, refusal, and trust.
+
 Rob’s final word in The Last Traverse is:
 
 **“Bullshit.”**
@@ -264,6 +309,8 @@ This should remain a signature Rob line.
 - emotionally central to Tenet’s family history
 - a memory site for old Traverse Ops, NCI, and the pre-rupture friendship between Tenet I, Rob Holliday, and Horus Skelton
 - a place that contains secrets
+- a final confrontation stage
+- Rob’s chosen end point
 
 The House Ten Built contains:
 
@@ -322,13 +369,19 @@ Horus has been the **World Works Director of Traverse Operations** for decades.
 
 Horus was once close to Tenet I and Rob Holliday.
 
+Horus is not evil because he enjoys villainy.
+
+His deepest wound begins when Tenet I chooses Rob as primary partner because Rob has judgment and trust.
+
+Horus’s later obsession with the Core grows out of resentment, ambition, exclusion, and his belief that he was denied what should have been his.
+
+Horus’s tragedy is that he interprets trust as ownership and exclusion as theft.
+
 Later, Horus becomes associated with corporate control, hidden agendas, and the buried truth connected to the Core, the Claw, and the possible route to Aeonos / Àæonos.
 
 Story function:
 
 Horus is not merely a villain from outside Tenet’s world. He is part of Tenet’s inherited history. His betrayal, compromise, or obsession should feel personal because he was once one of the men in the photograph.
-
-Horus covertly had Rob Holliday poisoned through an assassin working inside NCI.
 
 ---
 
@@ -349,6 +402,11 @@ Canon meaning:
 - a symbol that Tenet still has time
 - a physical link between Tenet, Tenet I, Rob, and the old rupture
 - a responsibility Tenet does not fully understand when he receives it
+- a trust marker
+- a key
+- a test
+- a transfer of route authority
+- proof that Rob has moved something important beyond Horus’s reach
 
 Rob gives it to Tenet because:
 
@@ -392,7 +450,7 @@ There, Tenet saw evidence that Tenet I, Rob Holliday, and Horus Skelton were onc
 
 Rob gave Tenet Tenet I’s pistol and left him with the burden of time, choice, and unfinished family history.
 
-Rob died after The Last Traverse, poisoned on Horus Skelton’s orders through an assassin embedded in NCI.
+Rob died after The Last Traverse, but his death was not a single poisoning incident. It was a route: old friendship, betrayal, suspicion, poisoning, preparation, refusal, and a final move made before Horus could stop him.
 
 Later, Tenet joins NCI’s MITE II private survey mission, thinking he is taking honest contractor work.
 
@@ -416,7 +474,7 @@ Tenet’s MITE II role connects:
 - the possible traversable route to Aeonos / Àæonos
 - the secrets stored at The House Ten Built
 - Rob’s final gift and warning
-- Horus’s covert murder of Rob through an assassin inside NCI
+- the hidden truth of Rob’s death-chain
 
 Tenet accepts MITE II because he wants honest work.
 
@@ -464,6 +522,16 @@ Core protagonist sentence:
 - Do not detach Tenet from NCI family legacy.
 - Do not make Red Umbrielor an ordinary unnamed tractor.
 - Do not treat Rob Holliday as comic relief only.
+- Do not reduce Rob’s death to a simple assassination.
+- Do not reveal the full poisoning truth too early unless deliberately restructuring the plot.
+- Do not make Rob omniscient.
+- Do not make Horus’s motive cartoonish.
+- Do not make Crystalpnomia obviously fake to everyone.
+- Do not make Chrono-Floquet Distillate a real-world technical poison.
+- Do not make the assassin more important than the death-chain.
+- Do not make The Last Traverse mere nostalgia.
+- Do not make Rob staying behind passive surrender.
+- Do not make Tenet immediately understand what Rob did.
 - Do not make The Last Traverse irrelevant to the main plot.
 - Do not make Horus Skelton a random corporate villain with no personal history.
 - Do not reveal the secrets of The House Ten Built until story timing requires it.
@@ -496,6 +564,23 @@ Core protagonist sentence:
 18. How does Tenet first realize MITE II is not honest work?
 19. How does The Last Traverse emotionally prepare Tenet for the MITE II truth?
 20. Can the Chrono-Loom reveal something Tenet missed during Rob’s final trip?
-21. Who is the assassin Horus embedded inside NCI?
-22. When does Tenet learn Rob was poisoned?
-23. What did Horus fear Rob would reveal?
+21. Who is the assassin Horus placed inside NCI?
+22. Did the assassin administer Chrono-Floquet Distillate directly, arrange exposure, or manipulate field medicine?
+23. Does the assassin appear on MITE II?
+24. What did Rob know that made Horus decide poisoning was necessary?
+25. What did Horus discover that pulled him back toward the Core?
+26. What was the final argument between Rob and Horus?
+27. Did Horus come to The House Ten Built alone?
+28. Did Rob die during the confrontation, shortly after it, or after Horus left?
+29. Who recovered Rob’s body?
+30. Who cremated Rob?
+31. Where are Rob’s ashes kept?
+32. What does Tenet believe Rob died of at the start of MITE II?
+33. When does Tenet first suspect Rob was murdered?
+34. What evidence points from Crystalpnomia to Chrono-Floquet Distillate poisoning?
+35. What did Rob move out of Horus’s reach before Tenet left?
+36. Is the pistol a literal key, symbolic key, or both?
+37. Does The House Ten Built still contain decoy secrets meant for Horus?
+38. Did Rob leave a message Tenet cannot understand until after seeing the hidden formation near the Claw?
+39. Did Grandfather Ten anticipate Horus’s betrayal decades earlier?
+40. What does Horus think Rob took from him?
