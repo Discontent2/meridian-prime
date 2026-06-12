@@ -4,11 +4,13 @@
 
 **Canon Status:** MAIN CANON INDEX, EXPANDABLE
 
+---
+
 ## Purpose
 
-This file helps keep major location canon discoverable without bloating species, story, traverse, visual-development, or legacy documents.
+This index points to major location and geography files in the Meridian Prime canon repo.
 
-Location files should centralize geography, sovereignty, political status, visual identity, story potential, and guardrails for each major place.
+Keep detailed location lore in focused files. Use this index for discovery, short summaries, and cross-reference routing.
 
 ---
 
@@ -18,7 +20,7 @@ Location files should centralize geography, sovereignty, political status, visua
 
 File:
 
-- [`docs/locations/anticlinal-craton.md`](./anticlinal-craton.md)
+`docs/locations/anticlinal-craton.md`
 
 Canon status:
 
@@ -26,54 +28,39 @@ Canon status:
 
 Summary:
 
-The **Anticlinal Craton** is a culturally known but officially distorted, massive partially exposed geode island-continent on Meridian Prime. It is a sovereign Aeonolacertian homeland / refuge zone, surrounded by the Endorheic Shard Sea, entered through four abandoned World Works tunnel-borer gates, and centered around the Inner Anticline and the Thunder Egg / Stone Heart.
+The **Anticlinal Craton** is a major Meridian Prime world-expansion location: a culturally known but officially distorted, massive partially exposed geode island-continent and sovereign Aeonolacertian homeland / refuge zone on Meridian Prime.
 
-Key canon principle:
+Key canon anchors:
+
+- also known through the official Meridian translation **World Maw**
+- common Meridian field name: **the Maw**
+- surrounded by the **Endorheic Shard Sea**
+- politically sovereign under Aeonolacertian control
+- four abandoned World Works tunnel-borer machines function as controlled gates
+- contains the **Inner Anticline**
+- contains the **Thunder Egg / Stone Heart**
+- contains **Geodeums**, including the **Red Glass Geodeum**
+- supports side-story expansion through Mechanized Gladiatorial Combat, Craton politics, trade, fauna, and sacred geography
+
+Book One guardrail:
+
+The Anticlinal Craton exists during the Book One timeframe, but it does not explain or directly connect to Tenet Nocsid III's MITE II novella arc unless later canon explicitly develops that connection.
+
+Canon principle:
 
 **The Craton proves Meridian Prime has other stories. It does not have to explain Tenet's story.**
-
-Primary use:
-
-- Aeonolacertian sovereignty and refuge canon
-- World Works failed breach history
-- Geodeum and Red Glass Geodeum expansion canon
-- Mechanized Gladiatorial Combat expansion zone
-- Craton fauna and hydrocrystal / geode-aquifer theory
-- multimedia side-story development
-
-Guardrail:
-
-Do not use the Anticlinal Craton to explain Book One, Rob Holliday's death-chain, MITE II's hidden formation, the Core, gateway mechanics, or The House Ten Built unless later canon explicitly approves that connection.
 
 ---
 
 ## Future Location Files To Consider
 
+Potential future focused location files:
+
 - `docs/locations/prime-ops.md`
 - `docs/locations/spire.md`
 - `docs/locations/the-claw.md`
 - `docs/locations/the-house-ten-built.md`
-- `docs/locations/aeonos.md`
-- `docs/locations/aaeonos.md`
 - `docs/locations/world-works-sites.md`
-- `docs/locations/wwissard-camp-1.md`
+- `docs/locations/wwissard-camps.md`
 
----
-
-## Location File Guidelines
-
-When adding a major location file, include where useful:
-
-- canon status
-- location summary
-- official names and field names
-- cultural or political ownership
-- access rules
-- visual identity
-- story function
-- relationships to existing canon files
-- multimedia potential
-- guardrails / common mistakes to avoid
-- open questions
-
-Location files should keep major geography canon centralized and easy to cross-reference.
+These should only be created when enough canon exists to justify focused files.
