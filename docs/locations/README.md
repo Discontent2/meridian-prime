@@ -88,6 +88,40 @@ Canon principle:
 
 ---
 
+### Dry Port
+
+File:
+
+`docs/locations/dry-port.md`
+
+Canon status:
+
+**MAIN CANON, PROTECTED MYSTERY / EXPANDABLE**
+
+Summary:
+
+The **Dry Port** is a protected mystery and World Works strategic motive: a suspected escarpment-side matter-contact site that could, if real and usable, challenge Hydropolis' control over legitimate Àæonos-origin visitation.
+
+Key canon anchors:
+
+- Hydropolis controls the only known safe, stable, legitimate matter-side port for true Àæonos-origin visitation
+- World Works cannot seize Hydropolis, so it is hunting for a second port
+- the Dry Port is not publicly proven to exist yet
+- possible interpretations include a buried docking scar, old receiving platform, conjugate alignment structure, failed contact site, false positive, or dead port infrastructure
+- associated with human escarpment-side terrain rather than Hydropolis or the Anticlinal Craton
+- may sharpen the hidden motive behind over-authorized route-proofing and MITE II secrecy
+- does not replace Hydropolis and does not confirm the Book One hidden formation as the Dry Port
+
+Book One guardrail:
+
+World Works may believe the Claw-region hidden formation is evidence of an independent escarpment-side contact site, but this remains protected suspicion rather than confirmed truth unless later canon explicitly develops it.
+
+Canon principle:
+
+**The Dry Port is the thing World Works wants more than permission: an escarpment-side threshold to Àæonos that, if real, would let them challenge Hydropolis' control over contact itself.**
+
+---
+
 ## Civilization-Space Triangle
 
 The three current major civilization spaces should contrast cleanly:
@@ -97,6 +131,18 @@ The three current major civilization spaces should contrast cleanly:
 | Human Meridian settlement | Meridians / humans | crystal desert escarpment continent | dieselpunk settlement machine |
 | Anticlinal Craton | Aeonolacertians / Saurasapiens | jungle geode island-continent | sacred pressure stronghold |
 | Hydropolis | Antisapiens / áæbsconditian phenotype people | wet/dry hydrocrystal basin | cyberpunk signal redoubt |
+
+---
+
+## Contact-Port Tension
+
+Hydropolis currently controls legitimate Àæonos-origin visitation through Conjugate Contact Frame infrastructure, law, medicine, repair, translation, and treaty culture.
+
+World Works' search for the Dry Port introduces a protected geopolitical fuse:
+
+**Hydropolis controls visitation. World Works wants independent contact access.**
+
+This tension should deepen Meridian Prime geopolitics without prematurely solving the Core, gateway mechanics, or Book One mysteries.
 
 ---
 
