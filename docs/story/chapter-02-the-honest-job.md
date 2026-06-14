@@ -328,6 +328,26 @@ Ildi attaches to or rides with the module during Traverse to monitor:
 - module health
 - buried or half-awake systems
 
+### Restricted Character Canon
+
+Ildi Vey is canonized elsewhere as a **Conjugate Chimera** under restricted / hidden character canon.
+
+This should not be revealed in Chapter 2 unless the novella structure is deliberately revised.
+
+Reader-facing Chapter 2 read:
+
+Ildi is brilliant, suspicious, technically grounded, and unusually good at reading old signal behavior.
+
+Hidden truth:
+
+Ildi’s signal truth has teeth under the skin.
+
+Cross-references:
+
+- `docs/characters/ildi-vey.md`
+- `docs/cosmology/conjugate-chimeras.md`
+- `docs/cosmology/conjugate-contact-frames.md`
+
 ### Story Function
 
 Ildi represents **signal truth**.
@@ -352,6 +372,8 @@ Possible first impression line:
 ### Guardrail
 
 Do not make Ildi mystical. Her weirdness should be technical, signal-based, and grounded in Antisapien / underclass exposed-wire logic.
+
+Her Conjugate Chimera status may explain why some signals affect her physically, but it should not replace her training, skill, suspicion, or personhood.
 
 ---
 
@@ -395,85 +417,6 @@ Together, they give the reader three practical ways to understand that MITE II i
 - the Core’s full function
 - gateway mechanics
 - full Aeonos / Àæonos cosmology
+- Ildi Vey’s Conjugate Chimera nature
 
 ---
-
-## Possible Chapter 2 Structure
-
-1. Red Umbrielor and the MITE II Mod train leave the NCI yard.
-2. Tenet settles into command rhythm.
-3. Rudy Calder checks or complains about machine / Mod behavior.
-4. Kavo “Forest” Rill is introduced through route awareness, GPR prep, or terrain reading.
-5. Ildi Vey is introduced through module-attached systems monitoring.
-6. The official mission is restated in practical terms.
-7. Ildi detects an old signal / ghost handshake where the route packet says there is no active or legacy infrastructure.
-8. Tenet realizes the job is not only over-authorized but also oddly shaped in the field.
-9. Chapter ends with MITE II committed farther into the route.
-
----
-
-## Possible First Wrongness Options
-
-Most of these remain options for supporting texture, but the primary first additional wrongness is now locked as Ildi’s ghost-handshake detection.
-
-Locked first additional wrongness:
-
-- **Ildi detects old signal noise or a ghost handshake where the route data says infrastructure should be dead or absent.**
-
-Supporting wrongness options that may appear later or as secondary texture:
-
-- Rudy notices the equipment load includes repair capacity beyond ordinary survey needs.
-- Forest notices the route timing requires a Mountaineer earlier than the official packet implies.
-- The redundant reefer support line is too specific for the public mission.
-- The comms plan is unusually quiet or restricted for a harmless survey.
-- The route destination label, **Proposed Extension Corridor**, is too vague to be operationally honest.
-
----
-
-## Chapter 2 Design Notes
-
-Every crew introduction should reveal work first, personality second, backstory later.
-
-The crew should not enter like a list. They should enter through pressure:
-
-- Rudy through machine behavior or equipment disagreement
-- Forest through route shape, timing, GPR prep, or terrain instinct
-- Ildi through module systems, comm silence, or old-route signal behavior
-
-Tenet should remain active. The crew can notice things, but Tenet must interpret, decide, prioritize, or command.
-
-Chapter 2 should make the MITE II mission feel plausible enough that the first additional wrongness feels unsettling rather than obvious.
-
----
-
-## Common Mistakes to Avoid
-
-- Do not introduce too many crew members at once.
-- Do not turn Rudy into generic comic relief.
-- Do not turn Forest into a generic raptor scout or ninja.
-- Do not make Ildi mystical instead of technical.
-- Do not reveal the hidden formation too early.
-- Do not make Tenet passive while the crew notices everything.
-- Do not over-explain species, class, or genre aesthetics in Chapter 2.
-- Do not forget that every crew introduction should reveal work first, personality second, backstory later.
-- Do not let the ghost handshake reveal the hidden formation, the Core, or gateway mechanics yet.
-
----
-
-## Open Questions
-
-1. What is Rudy Calder’s relationship with Red Umbrielor?
-2. Did Rudy know Rob Holliday well?
-3. Does Rudy trust Lindy?
-4. Does Forest prefer being called Forest, Kavo, or does it depend who is speaking?
-5. What did Forest see during his first season that earned him the nickname?
-6. How close is Forest to Mark Skelton?
-7. Does Forest know Horus personally?
-8. What exact Antisapien subtype is Ildi Vey?
-9. How does Ildi physically attach to or interface with the module?
-10. What does Ildi’s ghost handshake sound, look, or feel like on her instruments?
-11. Which crew member first openly questions the job packet?
-12. Does Chapter 2 remain mostly in motion, or does it include a stop/check before leaving NCI-controlled territory?
-13. What does Tenet decide after Ildi reports the ghost handshake?
-14. Does Tenet call Lindy about the ghost handshake, or does he hold the information inside MITE II first?
-15. What is the final image of Chapter 2?
