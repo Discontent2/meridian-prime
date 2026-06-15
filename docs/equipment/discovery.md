@@ -28,10 +28,15 @@ Clean distinction:
 
 | Vehicle / System | Primary Association | Function |
 |---|---|---|
-| **Red Umbrielor** | Tenet Nocsid III | lead Traverse tractor / command vehicle |
-| **Discovery** | Rudy Calder | mechanic / field-repair support rig |
+| **409** | Ildi Vey / Kavo "Forest" Rill | lead sensor / terrain-reading tractor |
+| **289 Red Umbrielor** | Tenet Nocsid III | command / life-support tractor |
+| **287 Discovery** | Rudy Calder | mechanic / field-repair support rig |
 | **MADS** | Red Umbrielor | onboard diagnostic / alert system |
 | **MD-8** | fuel logistics | Meridian Distillate 8 fuel |
+
+Cross-reference:
+
+- `docs/equipment/mite-ii-convoy-structure.md`
 
 ---
 
@@ -53,7 +58,7 @@ Rudy may know Red Umbrielor almost as well as Tenet does, but Discovery is his o
 
 Canon line:
 
-**Tenet drives Red Umbrielor. Rudy drives Discovery. The argument between them is called maintenance.**
+**409 reads the route. Tenet drives Red Umbrielor. Rudy drives Discovery. The argument between them is called maintenance.**
 
 ---
 
@@ -85,7 +90,7 @@ In Chapter 2, Rudy should enter from Discovery, not from a generic mechanic Mod.
 
 Preferred entrance mode:
 
-Rudy comes over comms from Discovery while driving / operating the support rig, complaining that Red Umbrielor's defrost is not broken, it is **“protesting management.”**
+Rudy comes over comms from Discovery while driving / operating the support rig, complaining that Red Umbrielor's defrost is not broken, it is **"protesting management."**
 
 Correct drafting direction:
 
@@ -96,6 +101,10 @@ Avoid:
 > Rudy appears from the mechanic Mod.
 
 If a mechanic Mod exists in the MITE II train, Discovery may coordinate with it, tow it, support it, or carry related repair capacity, but Rudy's character anchor is Discovery.
+
+Important choreography note:
+
+Discovery is not the lead vehicle. **409** leads the moving Traverse as the sensor tractor. Red Umbrielor follows as command / life-support tractor. Discovery follows as repair / storage / sustainment tractor.
 
 ---
 
@@ -116,6 +125,7 @@ Possible Rudy logic:
 ## Guardrails
 
 - Do not make Discovery a duplicate of Red Umbrielor.
+- Do not make Discovery the front sensor vehicle.
 - Do not make Rudy merely a passenger in a mechanic Mod unless a specific scene requires him to leave Discovery temporarily.
 - Do not make Discovery sleek, magical, or implausibly clean.
 - Do not over-spec Discovery before story needs require it.
@@ -126,6 +136,7 @@ Possible Rudy logic:
 
 ## Cross-References
 
+- `docs/equipment/mite-ii-convoy-structure.md`
 - `docs/story/chapter-02-the-honest-job.md`
 - `docs/equipment/README.md`
 - `docs/equipment/red-umbrielor-systems.md`
