@@ -21,6 +21,7 @@ Chapter 2 should introduce the mission in motion after Chapter 1’s departure. 
 Chapter 2 should establish:
 
 - Red Umbrielor leaving the NCI yard / entering travel rhythm
+- Discovery moving with MITE II as Rudy Calder’s mechanic / field-repair support rig
 - the MITE II Mod train settling into movement
 - Tenet’s command style
 - the official “honest” survey mission
@@ -46,7 +47,7 @@ The first three MITE II crew anchors should appear in this order:
 This order follows the natural escalation from Chapter 1:
 
 - Chapter 1 ends with Red Umbrielor moving.
-- Chapter 2 begins with machine and Mod-train rhythm.
+- Chapter 2 begins with machine, support-rig, and Mod-train rhythm.
 - The story then widens from machinery to terrain.
 - The first deeper wrongness enters through signal.
 
@@ -54,15 +55,23 @@ This order follows the natural escalation from Chapter 1:
 
 Rudy Calder appears first because Chapter 1 ends with Red Umbrielor rolling.
 
-He should enter through Red Umbrielor, the Mod train, the turkey roaster, or a practical machinery complaint.
+He should enter through **Discovery**, the MITE II support movement, Red Umbrielor’s defrost, the turkey roaster, Mod couplings, or a practical machinery complaint.
 
 Preferred entrance mode:
 
-Rudy comes over comms or appears from the mechanic Mod, complaining that Red Umbrielor’s defrost is not broken, it is “protesting management.”
+Rudy comes over comms from **Discovery**, his mechanic / field-repair support rig, complaining that Red Umbrielor’s defrost is not broken, it is “protesting management.”
 
 Chapter 2 function:
 
 Rudy keeps the story grounded in machinery before the route and signal weirdness widen the field.
+
+Discovery note:
+
+Rudy is not simply riding in a generic mechanic Mod. He is the operator / driver of **Discovery**. If a mechanic Mod exists in the MITE II train, Discovery may coordinate with it or carry related repair capacity, but Rudy’s character anchor is Discovery.
+
+Cross-reference:
+
+- `docs/equipment/discovery.md`
 
 ### Forest Second: Terrain Truth
 
@@ -118,7 +127,7 @@ Tenet should not be passive while Rudy, Forest, and Ildi notice problems.
 
 His Chapter 2 function is to:
 
-- hear Rudy’s machine read
+- hear Rudy’s machine read from Discovery
 - weigh Forest’s terrain read
 - evaluate Ildi’s signal read
 - compare all three against the packet
@@ -157,7 +166,7 @@ Canon name:
 
 Role:
 
-**Lead mechanic / field repair / Red Umbrielor whisperer**
+**Lead mechanic / field repair / Discovery operator / Red Umbrielor whisperer**
 
 People / culture:
 
@@ -172,6 +181,14 @@ Core vibe:
 Cheerful fatalist, grease saint, laughs at things that should worry people.
 
 Rudy knows Red Umbrielor’s bad habits almost as well as Tenet does. He can hear a pump lie from three tractors away.
+
+Rudy drives **Discovery**, his mechanic / field-repair support rig, during MITE II operations.
+
+Discovery gives machine truth its own wheels.
+
+Cross-reference:
+
+- `docs/equipment/discovery.md`
 
 ### Story Function
 
@@ -192,11 +209,14 @@ Possible first impression line:
 - superstitious about machines, not people
 - names problems before people are ready to hear them
 - useful for explaining equipment through action, not exposition
+- operates Discovery as his field-repair / mechanic support rig
 - can comment on the turkey roaster, Mod couplings, redundant reefer support, and whether the MITE II load makes sense
 
 ### Guardrail
 
 Do not make Rudy a generic comic mechanic. His humor should come from competence and fatalism.
+
+Do not introduce Rudy as merely riding in a generic mechanic Mod unless a specific scene later requires him to leave Discovery temporarily.
 
 ---
 
@@ -403,6 +423,7 @@ Together, they give the reader three practical ways to understand that MITE II i
 - Tenet has a real crew, not just a machine.
 - The mission looks legal and workable.
 - The crew contains expertise across machine, terrain, and signal systems.
+- Rudy drives Discovery as the MITE II mechanic / field-repair support rig.
 - Horus’s approval still feels wrong.
 - The first additional wrongness appears through practical crew expertise.
 - Ildi detects a ghost handshake from infrastructure that should not exist along the proposed extension corridor.
@@ -418,5 +439,3 @@ Together, they give the reader three practical ways to understand that MITE II i
 - gateway mechanics
 - full Aeonos / Àæonos cosmology
 - Ildi Vey’s Conjugate Chimera nature
-
----
