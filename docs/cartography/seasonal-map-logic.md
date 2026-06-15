@@ -16,6 +16,12 @@ Core principle:
 
 **A map on Meridian Prime is not a picture of land. It is an argument about what can still be survived.**
 
+For the current route-adjacency skeleton, seasonal access matrix, and jurisdiction matrix, use:
+
+- `docs/cartography/planetary-route-topology.md`
+
+Seasonal maps should follow the topology skeleton unless intentionally marked local, false, sacred, black-market, witness-based, liability-shadow, or protected-mystery.
+
 ---
 
 ## Central Map Rule
@@ -43,6 +49,10 @@ They should show:
 Canon line:
 
 **The official map is where authority says the road should be. The route map is where survival says the road actually is.**
+
+Topology alignment:
+
+**The official map is where authority says the road should be. The route topology is where survival says the world actually connects.**
 
 ---
 
@@ -417,6 +427,31 @@ May emphasize:
 
 ---
 
+## Route Topology Alignment
+
+Seasonal maps should work with the route-topology skeleton unless they are clearly marked as a distorted map tradition.
+
+Valid reasons to diverge from topology include:
+
+- local field correction
+- sacred no-map practice
+- black-market evasion
+- deliberate corporate liability language
+- witness testimony
+- protected mystery uncertainty
+- seasonal transformation not yet fully mapped
+- false or forged map tradition
+
+Canon principle:
+
+**A map can disagree with topology, but it should know why it is disagreeing.**
+
+Cross-reference:
+
+- `docs/cartography/planetary-route-topology.md`
+
+---
+
 ## Common Mistakes to Avoid
 
 - Do not make maps neutral.
@@ -434,6 +469,7 @@ May emphasize:
 
 ## Cross-References
 
+- `docs/cartography/planetary-route-topology.md`
 - `docs/ecology/seasonal-ecology-principles.md`
 - `docs/ecology/meridian-prime-ecology-anchor-index.md`
 - `docs/culture/food-culture-and-sovereignty.md`
