@@ -14,7 +14,7 @@ Keep detailed location lore in focused files. Use this index for discovery, shor
 
 ---
 
-## Major Locations
+## Major Civilization Spaces
 
 ### Anticlinal Craton
 
@@ -40,6 +40,7 @@ Key canon anchors:
 - contains the **Inner Anticline**
 - contains the **Thunder Egg / Stone Heart**
 - contains **Geodeums**, including the **Red Glass Geodeum**
+- bordered / approached through the **Blackstep Province** during wet-season shore logic
 - supports side-story expansion through Mechanized Gladiatorial Combat, Craton politics, trade, fauna, and sacred geography
 
 Book One guardrail:
@@ -88,6 +89,117 @@ Canon principle:
 
 ---
 
+### Human Escarpment Settlement Sphere
+
+Canon status:
+
+**MAIN CANON, EXPANDABLE**
+
+Summary:
+
+The human Meridian settlement sphere is no longer just a company yard with weather. It is a layered settlement civilization built from Prime Ops logistics, World Works dependency, NCI / contractor route labor, the Bought Nation's political wound, the Prime Plateau's logistics hinge, and descent routes toward the Dry Circuit / Mirror Basin.
+
+Key files:
+
+- `docs/politics/the-bought-nation.md`
+- `docs/locations/prime-plateau.md`
+- `docs/locations/charterhold.md`
+- `docs/locations/ledger-falls.md`
+
+Core principle:
+
+**Human Meridian settlement is a dieselpunk survival machine built inside contracts that remember people only when they can be counted.**
+
+---
+
+## Major Regions / Landforms
+
+### Prime Plateau
+
+File:
+
+`docs/locations/prime-plateau.md`
+
+Canon status:
+
+**MAIN CANON, EXPANDABLE**
+
+Summary:
+
+The **Prime Plateau** is the mid-elevation staging shelf and contested logistics hinge between Prime Ops / high escarpment territory and the lower Dry Circuit / Mirror Basin routes.
+
+Key canon anchors:
+
+- lies between Prime Ops and lower basin routes
+- connected to a major canyon / descent system currently represented by **The Great Cut** / **Cataract Ladder** candidate names
+- provides convoy staging, brake cooling, refuel, repair, shelter, cargo transfer, clearance, and descent decision pressure
+- contains or borders cloud rainforest, conservation disputes, local settlements, contractor yards, and World Works survey interests
+- hosts Charterhold and Ledger Falls as major human-side settlement anchors
+
+Canon principle:
+
+**The Prime Plateau is where the Dry Circuit stops being a map idea and becomes a decision people can regret.**
+
+---
+
+### Blackstep Province
+
+File:
+
+`docs/locations/blackstep-province.md`
+
+Canon status:
+
+**MAIN CANON, EXPANDABLE**
+
+Summary:
+
+The **Blackstep Province** is the volcanic basalt apron, partial ring, or broken Large Igneous Province associated with the Anticlinal Craton. During dry season it reads as black stepped land; during wet season it becomes the Craton's docking reef, sacred border, and wet-season threshold system.
+
+Key canon anchors:
+
+- also called the **Craton Basalt Apron** in scientific / academic language
+- possible sacred / poetic names include **Maw Apron**, **Obsidian Steps**, and **Thunder Basalts**
+- prevents the Craton from feeling like a geode mountain that magically becomes an island without shore logic
+- wet-season approach occurs through controlled basalt landings, sacred water gates, no-anchor zones, and ritual waiting waters
+- World Works may label it **Igneous Access Terrace Zone** because it wants access language where the Craton insists on threshold law
+
+Canon principle:
+
+**The Craton does not become accessible when the water rises. It changes the form of refusal.**
+
+---
+
+### Eschar Slough
+
+File:
+
+`docs/locations/eschar-slough.md`
+
+Canon status:
+
+**MAIN CANON, EXPANDABLE / PROTECTED LOCATION**
+
+Summary:
+
+The **Eschar Slough** is a hidden seasonal archipelago / scabland-slough homeland of the Free Scabs. It appears as dead scabland during dry season and becomes hostile island-and-channel pirate country during wet season.
+
+Key canon anchors:
+
+- internal Free Scab homeland name: **The Free Slough**
+- outsider / Traverse slang: **The Scab Keys**
+- hidden headquarters: **The Scab Cathedral**
+- central market / council / harbor floor: **The Throat**
+- wet-season pirate harbor: **Blackwake Harbor**
+- dry-season approach maze: **The Bone Channels**
+- Free Scabs are dry-season bandits and wet-season pirates because the Slough changes state with the planet
+
+Canon principle:
+
+**The Eschar Slough is where the basin sheds its skin and the Free Scabs crawl out from underneath.**
+
+---
+
 ### Dry Port
 
 File:
@@ -122,14 +234,75 @@ Canon principle:
 
 ---
 
+## Major Settlements
+
+### Charterhold
+
+File:
+
+`docs/locations/charterhold.md`
+
+Canon status:
+
+**MAIN CANON, EXPANDABLE**
+
+Summary:
+
+**Charterhold** is the political and logistical heart of the Bought Nation on or near the Prime Plateau: a staging capital of charter halls, brake yards, descent gantries, NCI repair houses, fog shelters, Prime Ops clearance offices, Reclaimer murals, and World Works administrative blocks.
+
+Key canon anchors:
+
+- capital / staging city of the Bought Nation
+- city and choke point
+- **The Charter Hall** preserves migrant settlement promises and broken compact documents
+- **The Yard** is Traverse / NCI repair and staging culture
+- **Remembrance Yard** memorializes forgotten migrants and route dead
+- **The Fog Gates** turn capital politics into road decisions
+- **Reclaimer Row** is activist / protest / charter-law space
+- World Works may label it **Charterhold Settlement Administrative Node** to avoid treating it as a true capital
+
+Canon principle:
+
+**Charterhold is not grand because it owns the land. It is grand because people built a capital out of promises someone else tried to turn into receipts.**
+
+---
+
+### Ledger Falls
+
+File:
+
+`docs/locations/ledger-falls.md`
+
+Canon status:
+
+**MAIN CANON, EXPANDABLE**
+
+Summary:
+
+**Ledger Falls** is a Prime Plateau border logging town and working edge of the Bought Nation, where cloud rainforest, conservation boundaries, logging economy, cataract geography, World Works permits, and Bought Nation labor politics collide.
+
+Key canon anchors:
+
+- core line: **Ledger Falls is where the forest becomes cargo**
+- major features include **The Falls**, **The Mill Steps**, **Permit Row**, **The Hauler Yard**, **The Green Line**, **Worker Stilts**, and **The Numbered Grove**
+- The Green Line is a disputed boundary between legal logging, conservation, local rights, World Works stabilization claims, and Reclaimer no-cut zones
+- Hydropolis may monitor the area as a **Cloud Attenuation Disturbance Zone**
+- Craton observers may call it **Where Roots Are Counted Wrongly**
+
+Canon principle:
+
+**Ledger Falls is where The Bought Nation learns the cruel arithmetic of its world: a forest can be protected, leased, sacred, necessary, and stolen at the same time.**
+
+---
+
 ## Civilization-Space Triangle
 
 The three current major civilization spaces should contrast cleanly:
 
 | Civilization Space | Primary People | Core Geography | Core Feel |
 |---|---|---|---|
-| Human Meridian settlement | Meridians / humans | crystal desert escarpment continent | dieselpunk settlement machine |
-| Anticlinal Craton | Aeonolacertians / Saurasapiens | jungle geode island-continent | sacred pressure stronghold |
+| Human Meridian settlement | Meridians / humans / Bought Nation | crystal desert escarpment, Prime Plateau, Dry Circuit routes | dieselpunk settlement machine with contract wounds |
+| Anticlinal Craton | Aeonolacertians / Saurasapiens | jungle geode island-continent, Blackstep Province | sacred pressure stronghold |
 | Hydropolis | Antisapiens / áæbsconditian phenotype people | wet/dry hydrocrystal basin | cyberpunk signal redoubt |
 
 ---
@@ -157,5 +330,7 @@ Potential future focused location files:
 - `docs/locations/world-works-sites.md`
 - `docs/locations/wwissard-camps.md`
 - `docs/locations/mirror-basin.md`
+- `docs/locations/the-scab-cathedral.md`
+- `docs/locations/the-great-cut.md`
 
 These should only be created when enough canon exists to justify focused files.
