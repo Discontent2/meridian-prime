@@ -12,6 +12,14 @@ This index points to focused politics files in the Meridian Prime canon repo.
 
 Keep detailed faction lore in focused files. Use this index for discovery, short summaries, and cross-reference routing.
 
+For route-adjacent political authority, threshold control, and jurisdiction matrices, use:
+
+- `docs/cartography/planetary-route-topology.md`
+
+Canon jurisdiction principle:
+
+**Every route is also a jurisdictional argument.**
+
 ---
 
 ## Major Political Factions / Polities
@@ -124,8 +132,21 @@ Do not make the Free Scabs cartoon villains or secret heroes. Their freedom has 
 
 ---
 
+## Jurisdiction Cross-Reference
+
+For how these factions interact with major thresholds, routes, seasonal access, and contested authority, see the jurisdiction matrix in:
+
+- `docs/cartography/planetary-route-topology.md`
+
+Current political topology principle:
+
+**Every major power controls a crossing. Every crossing creates politics.**
+
+---
+
 ## Cross-References
 
+- `docs/cartography/planetary-route-topology.md`
 - `docs/locations/prime-plateau.md`
 - `docs/locations/charterhold.md`
 - `docs/locations/ledger-falls.md`
