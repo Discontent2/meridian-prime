@@ -16,6 +16,28 @@ Keep detailed equipment lore in focused files.
 
 ## Current Equipment Files
 
+### MITE II Convoy Structure
+
+File:
+
+`docs/equipment/mite-ii-convoy-structure.md`
+
+Summary:
+
+Promotes **409** into main-project **planning canon** for Book One MITE II vehicle choreography.
+
+Core travel structure:
+
+- **409** = lead sensor / terrain-reading tractor; Ildi drives; Forest rides rear cab; pulls nothing
+- **289 Red Umbrielor** = Tenet's command / life-support tractor
+- **287 Discovery** = Rudy Calder's repair / storage / sustainment tractor
+
+Core principle:
+
+**409 reads the route. Red Umbrielor commands the work. Discovery keeps the work alive when the route starts lying.**
+
+---
+
 ### Discovery
 
 File:
@@ -60,8 +82,9 @@ Core principle:
 
 | Vehicle / System | Primary Association | Function |
 |---|---|---|
-| **Red Umbrielor** | Tenet Nocsid III | lead Traverse tractor / command vehicle |
-| **Discovery** | Rudy Calder | mechanic / field-repair support rig |
+| **409** | Ildi Vey / Kavo "Forest" Rill | lead sensor / terrain-reading tractor; pulls nothing |
+| **289 Red Umbrielor** | Tenet Nocsid III | command / life-support tractor |
+| **287 Discovery** | Rudy Calder | repair / storage / sustainment tractor |
 | **MADS** | Red Umbrielor | onboard diagnostic / alert system |
 | **MD-8** | fuel logistics | Meridian Distillate 8 fuel |
 
@@ -72,6 +95,7 @@ Core principle:
 Potential future focused equipment files:
 
 - `docs/equipment/red-umbrielor.md`
+- `docs/equipment/409-lead-sensor-tractor.md`
 - `docs/equipment/mod-trains.md`
 - `docs/equipment/traverse-tractors.md`
 - `docs/equipment/md-8-fuel.md`
