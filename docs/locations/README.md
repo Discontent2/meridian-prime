@@ -12,6 +12,14 @@ This index points to major location and geography files in the Meridian Prime ca
 
 Keep detailed location lore in focused files. Use this index for discovery, short summaries, and cross-reference routing.
 
+For the current planetary route-adjacency skeleton, seasonal access logic, and jurisdiction matrices, see:
+
+- `docs/cartography/planetary-route-topology.md`
+
+Canon routing principle:
+
+**Meridian Prime is not a collection of cool places. It is a seasonal threshold world.**
+
 ---
 
 ## Major Civilization Spaces
@@ -105,6 +113,7 @@ Key files:
 - `docs/locations/prime-plateau.md`
 - `docs/locations/charterhold.md`
 - `docs/locations/ledger-falls.md`
+- `docs/cartography/planetary-route-topology.md`
 
 Core principle:
 
@@ -316,6 +325,18 @@ World Works' search for the Dry Port introduces a protected geopolitical fuse:
 **Hydropolis controls visitation. World Works wants independent contact access.**
 
 This tension should deepen Meridian Prime geopolitics without prematurely solving the Core, gateway mechanics, or Book One mysteries.
+
+---
+
+## Route Topology Cross-Reference
+
+For route adjacency, seasonal transformation, threshold control, and jurisdiction review, use:
+
+- `docs/cartography/planetary-route-topology.md`
+
+Current topology principle:
+
+**A route is never only distance. It is season, machine strain, jurisdiction, permission, memory, and risk.**
 
 ---
 
