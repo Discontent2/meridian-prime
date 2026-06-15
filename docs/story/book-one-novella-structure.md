@@ -62,11 +62,25 @@ Reader-facing final feeling:
 
 ---
 
+## Equipment Naming Note
+
+**MADS** is Red Umbrielor’s onboard diagnostic / alert system.
+
+**MD-8** is **Meridian Distillate 8** fuel.
+
+Do not use MD-8 as the computer, diagnostic voice, or alert system.
+
+Cross-reference:
+
+- `docs/equipment/red-umbrielor-systems.md`
+
+---
+
 ## Compressed Reveal Ladder
 
 The existing reveal ladder remains valid, but the novella compresses it into nine chapters:
 
-1. **Work** enters through Red Umbrielor, MD-8, NCI, and MITE II.
+1. **Work** enters through Red Umbrielor, MADS, MD-8 fuel, NCI, and MITE II.
 2. **Grief** enters through Rob’s absence, the pistol, and Tenet’s restraint.
 3. **Wrongness** enters first through Horus’s approval stamp.
 4. **Terrain** enters through route behavior, GPR prep, pressure ridges, rollers, and the Claw’s shadow.
@@ -92,7 +106,8 @@ Start with work, machine, grief, family, and the first wrong detail.
 
 Core events:
 
-- Tenet stands beside Red Umbrielor before dawn, waiting for the MD-8 system to stop complaining.
+- Tenet stands beside Red Umbrielor before dawn, waiting for MADS to stop complaining.
+- MD-8 fuel handling / procedure may appear as part of the NCI yard and Red Umbrielor’s field reality.
 - Red Umbrielor’s defrost is dead, so Tenet uses the turkey roaster.
 - The under-seat compartment and Grandfather Ten’s pistol appear quietly.
 - Rob’s absence is felt through the empty passenger seat.
@@ -106,6 +121,8 @@ Reader learns:
 
 - Tenet is experienced, practical, and grief-marked.
 - Red Umbrielor matters.
+- MADS is Red Umbrielor’s diagnostic / alert system.
+- MD-8 is Meridian Distillate 8 fuel.
 - NCI is family-rooted and field-capable.
 - Lindy is sharp, bruised, and tied to the job’s first wrongness.
 - MITE II looks legal.
@@ -262,18 +279,17 @@ Make the formation impossible by proving something used it.
 Core events:
 
 - MITE II detects, reaches, or gets visual access to the hidden formation near the Claw.
-- The formation is out of view of The Path and hidden by rollers / pressure ridges / no-fly-zone logic.
-- Its growth pattern and timing are wrong.
+- Formation is out of view of The Path and hidden by rollers / pressure ridges / no-fly-zone logic.
+- Growth pattern and timing are wrong.
 - A crew member finds footprints near or within the formation.
-- The crew debates whether the footprints are contamination, distortion, human, Meridian, Saurasapien, Antisapien, old, fresh, or impossible.
-- Tenet understands that footprints change the risk category.
+- Crew debates whether footprints are contamination, distortion, human, Meridian, Saurasapien, Antisapien, old, fresh, or impossible.
+- Tenet recognizes footprints change the risk category.
 
 Reader learns:
 
 - The formation is not just geology.
-- Something or someone used it.
-- MITE II is standing at the edge of a truth the official map cannot hold.
-- Someone wanted NCI to reach this before Prime Ops or Science understood it.
+- Something used it.
+- Evidence has crossed from route wrongness into impossible presence.
 
 Tenet choice:
 
@@ -281,7 +297,7 @@ Preserve evidence rather than allowing it to be filed as harmless survey noise.
 
 Exit feeling:
 
-**Who walked through a place that should not exist?**
+**The formation is not just geology. Something used it.**
 
 ---
 
@@ -289,27 +305,26 @@ Exit feeling:
 
 Primary function:
 
-Make the MITE II mystery echo The Last Traverse and shift Rob’s death from grief to evidence.
+Turn Rob’s death from private grief into route evidence.
 
 Core events:
 
 - A detail near the formation echoes something Rob said, did, or withheld during The Last Traverse.
 - Grandfather Ten’s pistol becomes newly significant through symbol, mechanism, inscription, memory trigger, or route association.
 - Tenet remembers Rob’s reason for choosing him: because Tenet still had time.
-- The House Ten Built begins to feel connected to MITE II, not merely Tenet’s grief.
-- Crystalpnomia may be named as Rob’s accepted diagnosis, but the full poisoning truth remains hidden.
+- The House Ten Built begins to feel connected to MITE II.
+- Crystalpnomia may be named as Rob’s accepted diagnosis.
 - Tenet begins to suspect Rob’s final trip was preparation, not nostalgia.
 
 Reader learns:
 
-- Rob’s death was not just backstory.
-- The Last Traverse may have been a final operational move.
-- Tenet is beginning to read Rob’s route backward.
-- Rob may have moved something beyond Horus’s reach.
+- Rob’s death may not have been only illness, age, or bad luck.
+- The Last Traverse was not merely farewell.
+- Rob may have left Tenet a route-shaped problem.
 
 Tenet choice:
 
-Stop treating his grief as private baggage and begin treating it as evidence.
+Stop treating grief as private baggage and begin treating it as evidence.
 
 Exit feeling:
 
@@ -321,12 +336,12 @@ Exit feeling:
 
 Primary function:
 
-Bring the physical route, Rob route, and Horus route together without solving the entire cosmology.
+Pay off the field mystery by proving the formation is a doorway / route clue without solving the whole mythology.
 
 Core events:
 
 - MITE II proves the formation is connected to an old route, buried infrastructure, gateway-adjacent system, or Core-adjacent mystery.
-- The ghost handshake, footprints, and formation line up enough to prove the packet lied for a reason.
+- Ghost handshake, footprints, and formation align enough to prove the packet lied for a reason.
 - Aeonos / Àæonos may become relevant through naming, signal response, ruin marks, footprints, or route language, but only enough to force the distinction.
 - Horus’s approval and Mark Skelton’s delayed reporting become part of the same chain.
 - Physical danger at or near the formation drives the climax.
@@ -334,9 +349,9 @@ Core events:
 
 Reader learns:
 
-- The hidden formation may be a door, route, or surface symptom of the larger Core / gateway mystery.
-- Horus is using legal authority to create a private route toward hidden truth.
-- Rob’s Last Traverse, the pistol, and the formation are beginning to rhyme.
+- The land is not hiding a secret. It has opened a door.
+- Horus’s approval and Mark’s delayed reporting belong in the same pressure system.
+- Tenet’s job is no longer salvageable as ordinary work.
 
 Tenet choice:
 
@@ -352,182 +367,29 @@ Exit feeling:
 
 Primary function:
 
-Resolve the novella’s immediate mission truth while opening the larger saga.
+End the novella by resolving the immediate route crisis while opening the larger saga.
 
 Core events:
 
 - Tenet decides what to report, what to conceal, and what to carry forward.
-- The crew survives the immediate route crisis, but the job cannot be considered honest anymore.
-- Lindy may receive a partial truth, a coded report, or a silence she understands.
+- Crew survives the immediate route crisis.
+- MITE II cannot be considered honest work anymore.
+- Lindy may receive a partial truth, coded report, or silence she understands.
 - Horus loses an easy move but not the game.
 - Mark’s role remains complicated.
-- The assassin inside NCI remains unidentified or only faintly suggested.
-- The full Core / Aeonos / Àæonos truth remains unresolved.
-- Tenet carries forward the pistol, data, coordinates, sample, map, or memory differently than he did on page 1.
+- Assassin inside NCI remains unidentified or only faintly suggested.
+- Tenet carries forward the pistol, data, coordinates, sample, map, or memory differently than page 1.
 
 Reader learns:
 
-- MITE II was not honest work.
-- Horus’s approval mattered.
-- The route packet lied.
-- The ghost handshake was real.
-- The hidden formation is a route / doorway clue.
-- Rob’s Last Traverse was preparation.
-- Tenet chooses the dangerous truth-route.
+- Tenet has not found the truth.
+- He has found the route to it.
+- The Book One ending points outward rather than closing the Meridian Prime mystery.
 
-Ending line of meaning:
+Tenet choice:
 
-**Tenet did not find the truth. He found the route to it.**
+Choose what to report officially, what to conceal from Horus / Prime Ops / NCI channels, and what to carry forward personally.
 
 Exit feeling:
 
-**The novella closes a mission and opens a world.**
-
----
-
-## What the Novella Must Resolve
-
-The novella should resolve:
-
-- MITE II was not honest work.
-- The packet lied.
-- Horus’s approval mattered.
-- The ghost handshake was real.
-- The hidden formation is a route / doorway clue.
-- Rob’s Last Traverse was preparation, not nostalgia.
-- Tenet chooses the dangerous route toward truth.
-
-These are the required payoffs for Book One as a novella.
-
----
-
-## What the Novella Should Leave Unresolved
-
-The novella should not fully resolve:
-
-- the full Core mystery
-- the assassin inside NCI
-- the complete truth of Rob’s poisoning
-- the full Aeonos / Àæonos stakes
-- the secrets of The House Ten Built
-- Horus’s entire plan
-- Mark Skelton’s final loyalty or guilt
-- the exact identity and origin of whoever made the footprints
-
-These unresolved elements are sequel fuel, not failures.
-
-Reader should end knowing enough to be scared, not enough to be safe.
-
----
-
-## Compression Notes from Existing Sequence Map
-
-The 10-sequence map compresses into this 9-chapter novella shape as follows:
-
-- **Sequence 1: Cold Start** becomes **Chapter 1: Cold Start**.
-- **Sequence 2: The Honest Job** becomes **Chapter 2: The Honest Job**.
-- **Sequence 3: Wrong Route Shape** becomes **Chapter 3: Proposed Extension Corridor**.
-- **Sequence 4: The Claw’s Shadow** is split between **Chapter 4: The Wrong Quiet** and **Chapter 5: Growth Event**.
-- **Sequence 5: Hidden Formation** and **Sequence 6: Footprints** compress into **Chapter 6: Footprints**.
-- **Sequence 7: The Lease Knife** threads through **Chapters 3, 4, 6, and 8**, rather than standing alone.
-- **Sequence 8: Rob’s Route** becomes **Chapter 7: Rob’s Map**.
-- **Sequence 9: Poison in the Paperwork** is reduced to suspicion inside **Chapter 7** and left unresolved for later.
-- **Sequence 10: Door Under the World** becomes **Chapter 8: Door Under the World** and **Chapter 9: The Route to It**.
-
-Compression principle:
-
-**The novella should merge explanation-heavy sequences into active chapters so the reader learns through field pressure.**
-
----
-
-## Reveal Timing by Novella Chapter
-
-### Chapter 1
-
-Reader knows Tenet, Red Umbrielor, Lindy, Rob’s absence, pistol, MITE II, and Horus’s wrong approval.
-
-### Chapter 2
-
-Reader knows the core crew gauges and that the route packet contradicts old signal reality.
-
-### Chapter 3
-
-Reader knows the official route logic and loadout are not aligned.
-
-### Chapter 4
-
-Reader knows the mission is structured around concealment.
-
-### Chapter 5
-
-Reader knows the land has changed wrong.
-
-### Chapter 6
-
-Reader knows something used the hidden formation.
-
-### Chapter 7
-
-Reader knows Rob’s Last Traverse was preparation, and Rob’s death may be a route Tenet is only beginning to understand.
-
-### Chapter 8
-
-Reader knows the formation is a door / route clue tied to the larger Core / gateway mystery.
-
-### Chapter 9
-
-Reader knows Tenet has not found the whole truth. He has found the route to it.
-
----
-
-## Novella Guardrails
-
-- Do not explain the whole Meridian Prime setting.
-- Do not solve the Core.
-- Do not fully reveal Rob’s poisoning chain.
-- Do not identify the assassin unless the final design deliberately wants a sharper cliff-edge.
-- Do not make Aeonos / Àæonos exposition arrive before the evidence forces the distinction.
-- Do not overpopulate the MITE II crew in the opening chapters.
-- Do not let Horus become cartoonish.
-- Do not let Mark become automatically guilty of everything Horus does.
-- Do not reveal every secret of The House Ten Built.
-- Do not let field procedure become decoration. Procedure should create plot pressure.
-
----
-
-## Novella Craft Rule
-
-For this novella, every chapter should answer at least one of these questions through action:
-
-1. What does Tenet notice that the packet does not admit?
-2. What does the crew know through work that authority tries to hide?
-3. What does the land reveal that the map cannot hold?
-4. What did Rob prepare before Tenet understood the preparation?
-5. What does honest work mean when the job is built from lies?
-
----
-
-## Current Working Tagline
-
-**A private Traverse job becomes a terrain mystery, then a family-history wound, then a doorway into the buried cosmology of Meridian Prime.**
-
-Shorter version:
-
-**Tenet follows a job forward and learns to read Rob’s death backward.**
-
----
-
-## Open Novella Questions
-
-1. Does Chapter 3 include a stop/check, or does it stay in motion?
-2. Which supporting crew member beyond Rudy, Forest, and Ildi becomes emotionally important?
-3. Who first sees the footprints in Chapter 6?
-4. What do the footprints look like?
-5. What exact detail in Chapter 7 connects the formation to Rob?
-6. Does Tenet learn the term **Chrono-Floquet Distillate** in the novella, or only suspect Crystalpnomia was false?
-7. Does Tenet return to The House Ten Built in this novella, or does the cabin remain a memory / later destination?
-8. What physical danger drives the Chapter 8 climax?
-9. What does Tenet choose to report at the end?
-10. What does Tenet choose not to report?
-11. What does Tenet physically carry on the final page: pistol, data, map, sample, coordinates, or someone else’s secret?
-12. What is the final image of the novella?
+**Tenet did not find the truth. He found the route to it.**
