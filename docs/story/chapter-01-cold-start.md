@@ -38,7 +38,7 @@ Opening rule:
 
 ## First Image
 
-Tenet Nocsid III stands beside **Red Umbrielor** before dawn, one hand on cold steel, waiting for the **MD-8** system to stop complaining.
+Tenet Nocsid III stands beside **Red Umbrielor** before dawn, one hand on cold steel, waiting for **MADS** to stop complaining.
 
 The machine is awake before the sun is.
 
@@ -48,7 +48,8 @@ The first image should show:
 
 - Tenet’s hand on old scarred steel
 - cold before dawn
-- MD-8 system complaints
+- MADS diagnostic complaints
+- MD-8 fuel handling in the yard, if useful
 - the NCI staging yard still half-asleep
 - a machine with history
 - a worker who knows how to wait without wasting time
@@ -56,6 +57,25 @@ The first image should show:
 Reader feeling:
 
 **This world is entered through cold steel and a stubborn engine.**
+
+---
+
+## Red Umbrielor Systems Note
+
+**MADS** is Red Umbrielor’s onboard diagnostic / alert system.
+
+**MD-8** is fuel: **Meridian Distillate 8**.
+
+Do not use MD-8 as Red Umbrielor’s computer, diagnostic voice, or alert system.
+
+Clean drafting distinction:
+
+- **MADS** complains.
+- **Red Umbrielor** burns **MD-8**.
+
+Cross-reference:
+
+- `docs/equipment/red-umbrielor-systems.md`
 
 ---
 
@@ -152,7 +172,7 @@ Red Umbrielor’s defrost does not fail catastrophically. It fails in the way ol
 
 Tenet stands beside Red Umbrielor before dawn.
 
-He waits for the MD-8 system to stop complaining.
+He waits for MADS to stop complaining.
 
 He knows the sound of the machine well enough to distinguish a real problem from ordinary morning hatred.
 
@@ -172,7 +192,7 @@ Reader learns:
 
 Tenet runs the opening checks.
 
-The MD-8 system complains, the defrost lags, and the cab refuses to clear properly.
+MADS complains, the defrost lags, and the cab refuses to clear properly.
 
 Tenet turns on the turkey roaster.
 
@@ -476,6 +496,8 @@ By the end of Chapter 1, the reader should know:
 
 - Tenet Nocsid III is experienced and practical.
 - Red Umbrielor is old, trusted, and central.
+- MADS is Red Umbrielor’s onboard diagnostic / alert system.
+- MD-8 is Meridian Distillate 8 fuel.
 - MD-8 fuel and machine procedure matter.
 - The turkey roaster is part of Red Umbrielor’s field reality.
 - NCI is family-rooted contractor culture.
@@ -550,7 +572,7 @@ Avoid:
 These are seeds, not final draft lines.
 
 - Red Umbrielor complained before dawn.
-- Tenet kept one hand on the cold steel and waited for the MD-8 system to finish lying to itself.
+- Tenet kept one hand on the cold steel and waited for MADS to finish lying to itself.
 - The defrost had quit sometime in the night, because old machines believed in timing.
 - He kicked the turkey roaster on and let the cab turn from murder-cold to merely insulting.
 - The passenger seat stayed empty with the kind of discipline only dead men kept.
