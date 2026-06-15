@@ -50,6 +50,20 @@ Ending target:
 
 ---
 
+## Equipment Naming Note
+
+**MADS** is Red Umbrielor’s onboard diagnostic / alert system.
+
+**MD-8** is **Meridian Distillate 8** fuel.
+
+Do not use MD-8 as the computer, diagnostic voice, or alert system.
+
+Cross-reference:
+
+- `docs/equipment/red-umbrielor-systems.md`
+
+---
+
 ## Chapter 1: Cold Start
 
 ### Chapter Title
@@ -75,7 +89,8 @@ Tenet prepares Red Umbrielor for MITE II departure.
 Required beats:
 
 - Tenet stands beside Red Umbrielor before dawn.
-- The MD-8 system complains.
+- MADS complains.
+- MD-8 fuel handling / procedure may appear as part of the NCI yard and Red Umbrielor’s field reality.
 - Red Umbrielor’s defrost is dead.
 - Tenet uses the turkey roaster.
 - The under-seat compartment holds Grandfather Ten’s pistol.
@@ -655,7 +670,7 @@ It leads onward.
 
 | Chapter | Main Motion | Reveal | Tenet Choice | Exit Hook |
 |---|---|---|---|---|
-| 1. Cold Start | Tenet prepares Red Umbrielor and receives the MITE II packet from Lindy. | The job is legal, but Horus’s approval makes it wrong by scale. | Accept the job anyway. | Red Umbrielor rolls out with the wrongness aboard. |
+| 1. Cold Start | Tenet prepares Red Umbrielor, hears MADS complain, and receives the MITE II packet from Lindy. | The job is legal, but Horus’s approval makes it wrong by scale. | Accept the job anyway. | Red Umbrielor rolls out with the wrongness aboard. |
 | 2. The Honest Job | MITE II enters travel rhythm and the first crew anchors appear. | The paper lied first. Then the old systems answered. | Treat the ghost handshake as a field discrepancy and keep moving. | Ildi’s ghost handshake repeats against a silent route. |
 | 3. Proposed Extension Corridor | The route stays in motion while the loadout contradicts the packet. | The route label says one thing. The loadout says another. | Treat the job as hazard assessment, not ordinary survey. | Route, cargo, and packet refuse to agree. |
 | 4. The Wrong Quiet | Comms, route shape, and systems silence reveal concealment. | The job is quiet in the way traps are quiet. | Tighten internal documentation while keeping the crew moving. | A dead channel breathes under Ildi’s instruments. |
