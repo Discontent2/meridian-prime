@@ -16,6 +16,27 @@ Keep detailed equipment lore in focused files.
 
 ## Current Equipment Files
 
+### Discovery
+
+File:
+
+`docs/equipment/discovery.md`
+
+Summary:
+
+Canonizes **Discovery** as Rudy Calder's mechanic / field-repair support rig in MITE II operations.
+
+Clean distinction:
+
+- **Red Umbrielor** = Tenet Nocsid III's lead Traverse tractor / command vehicle
+- **Discovery** = Rudy Calder's mechanic / field-repair support rig
+
+Core principle:
+
+**Discovery is Rudy Calder's rolling proof that the machines know the job is wrong before the paperwork admits it.**
+
+---
+
 ### Red Umbrielor Systems
 
 File:
@@ -26,12 +47,23 @@ Summary:
 
 Canonizes the distinction between:
 
-- **MADS** = Red Umbrielor’s onboard diagnostic / alert system
+- **MADS** = Red Umbrielor's onboard diagnostic / alert system
 - **MD-8** = Meridian Distillate 8 fuel
 
 Core principle:
 
 **MADS is the complaint. MD-8 is what Red Umbrielor burns while ignoring it.**
+
+---
+
+## Current Vehicle / System Distinctions
+
+| Vehicle / System | Primary Association | Function |
+|---|---|---|
+| **Red Umbrielor** | Tenet Nocsid III | lead Traverse tractor / command vehicle |
+| **Discovery** | Rudy Calder | mechanic / field-repair support rig |
+| **MADS** | Red Umbrielor | onboard diagnostic / alert system |
+| **MD-8** | fuel logistics | Meridian Distillate 8 fuel |
 
 ---
 
