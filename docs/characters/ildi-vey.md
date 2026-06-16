@@ -1,8 +1,13 @@
 # Ildi Vey
 
-> Character canon for Ildi Vey, MITE II signal-truth crew anchor and restricted Conjugate Chimera character.
+> Open character canon for Ildi Vey, MITE II signal-truth crew anchor, 409 driver, and restricted Conjugate Chimera character.
 
-**Canon Status:** MAIN CANON, RESTRICTED / EXPANDABLE
+**Canon Status:** MAIN CANON, OPEN / RESTRICTED REFERENCES, EXPANDABLE
+**Canon Weight:** Character / Book One Crew Anchor / Restricted Mystery Contact
+**Scope:** Reader-facing Ildi role, 409 assignment, reveal discipline, adaptation guardrails
+**Source of Truth:** Yes for open-facing Ildi characterization and 409 role
+
+---
 
 ## Core Character Role
 
@@ -10,7 +15,7 @@
 
 Role:
 
-**Module-attached mech / infrastructure monitor / old-route systems reader**
+**409 driver / forward systems operator / infrastructure monitor / old-route systems reader**
 
 People / species:
 
@@ -30,6 +35,31 @@ Core vibe:
 
 ---
 
+## Open Reader-Facing Identity
+
+Ildi is technical rather than mystical.
+
+Her weirdness should be grounded in:
+
+- Antisapien underclass signal logic
+- field experience
+- infrastructure literacy
+- hard-earned technical competence
+- private history with classification systems
+- distrust of clean packets, clean signals, and clean authority
+
+Reader-facing rule:
+
+**Ildi notices when systems are too clean, too quiet, or too eager to name something.**
+
+Restricted-development rule:
+
+**Ildi's body may know why before she allows anyone else to.**
+
+Do not treat that restricted rule as early Book One exposition.
+
+---
+
 ## Three Truths Structure
 
 Ildi represents **signal truth** among the first three MITE II crew anchors:
@@ -46,25 +76,68 @@ She should notice comms that are too quiet, dead channels that are not dead enou
 
 ## Work Function
 
-Ildi attaches to or rides with the module during Traverse to monitor:
+During moving Traverse, Ildi drives **409** from the forward driving / systems position.
 
-- coupling strain
+She monitors:
+
+- 409's drivetrain and sensor behavior
 - comms
 - heat
 - dead channels
 - corrupted terminals
 - route infrastructure
 - old signal behavior
-- module health
+- module health and module behavior through 409's operational web
 - buried or half-awake systems
+- ghost-handshake anomalies
 
-She is technical rather than mystical.
+409 is her cockpit, nerve-board, diagnostic nest, and partial interface station.
 
-Her weirdness should be grounded in Antisapien / underclass exposed-wire logic, field experience, signal sensitivity, and infrastructure literacy.
+Ildi may still work directly with module systems when parked, stopped, or operating in Traverse Town. In travel mode, her primary operating seat is 409.
+
+Cross-reference:
+
+- `docs/equipment/mite-ii-convoy-structure.md`
 
 Possible first impression line:
 
 **“Your clean packet is bleeding old signal.”**
+
+---
+
+## Relationship to 409
+
+409 is not simply a vehicle for Ildi.
+
+It is a professional ecology where her signal-reading skill, boundary sensitivity, and operational discipline can become useful without immediately becoming ownership.
+
+Open-facing principle:
+
+**Ildi does not become part of 409. She makes 409 understand the difference between interface and appetite.**
+
+409 may read signal stress, dead-channel behavior, and system contradictions before other MITE II equipment does.
+
+Do not let 409 turn Ildi into a magic scanner or living machine part.
+
+---
+
+## Relationship to Forest
+
+Kavo “Forest” Rill rides in 409's rear terrain-read station while Ildi drives and monitors forward systems.
+
+Forest should not be the person who explains, heals, or owns Ildi's condition.
+
+He should be the person who notices what the room, route, or system is doing to her before the room admits it is doing anything.
+
+Professional-first trust markers:
+
+- Forest sees a physical reaction and asks what needs doing, not what happened to her.
+- He notices when a scanner or signal pattern is making her more dangerous by naming her incorrectly.
+- He covers her body language with tactical movement, not sympathy theater.
+- He treats her pain as operationally real without turning her into a fragile object.
+- He refuses to let others translate her silence into consent.
+
+Their bond should remain professional before it becomes personal.
 
 ---
 
@@ -76,7 +149,7 @@ This is not public-facing early Book One exposition.
 
 Reader-facing first impression:
 
-Ildi is a brilliant, suspicious, module-attached systems reader who represents signal truth.
+Ildi is a brilliant, suspicious 409 driver and systems reader who represents signal truth.
 
 Hidden / restricted truth:
 
@@ -90,7 +163,11 @@ Her biology may explain why she hears systems as arguments, but it does not repl
 
 Her competence comes from training, anger, experience, underclass signal logic, and being very hard to fool.
 
-Cross-reference:
+Restricted backstory source:
+
+- `docs/characters/restricted/ildi-vey-conjugate-chimera-backstory.md`
+
+Cosmology cross-references:
 
 - `docs/cosmology/conjugate-chimeras.md`
 - `docs/cosmology/conjugate-contact-frames.md`
@@ -99,12 +176,12 @@ Cross-reference:
 
 ## Reveal Discipline
 
-Do not reveal Ildi’s Conjugate Chimera nature too early unless the novella structure is deliberately revised.
+Do not reveal Ildi's Conjugate Chimera nature too early unless the novella structure is deliberately revised.
 
 Recommended reveal ladder:
 
 1. **Early Book One:** Ildi detects the ghost handshake before anyone else. The reader reads this as technical brilliance.
-2. **Mid / later story:** Ildi’s body reacts before her instruments fully explain why.
+2. **Mid / later story:** Ildi's body reacts before her instruments fully explain why.
 3. **Later series truth:** Ildi is not merely reading signal. She is partly a living boundary sensor.
 
 Important guardrails:
@@ -116,10 +193,11 @@ Important guardrails:
 - Do not erase her Antisapien / underclass signal-band identity.
 - Do not make every Antisapien a Conjugate Chimera by association.
 - Do not make her a monster-of-the-week reveal.
+- Do not make her full restricted backstory public early.
 
 Canon tone:
 
-**Ildi’s signal truth has teeth under the skin.**
+**Ildi's signal truth has teeth under the skin.**
 
 ---
 
@@ -136,6 +214,7 @@ Possible Ildi-specific symptoms or textures:
 - medical files marked do-not-scan or restricted
 - instinctive distrust of clean packets and official silence
 - physical discomfort when the route is lying through infrastructure
+- a scar-line briefly responding under extreme old-signal pressure, then leaving no ordinary camera-readable trace
 
 Use these sparingly.
 
@@ -161,13 +240,13 @@ Canon line:
 
 **Being known can mean being owned.**
 
-This line should inform Ildi’s secrecy, defensiveness, and relationship to authority.
+This line should inform Ildi's secrecy, defensiveness, and relationship to authority.
 
 ---
 
 ## Story Function
 
-Ildi’s character functions as:
+Ildi's character functions as:
 
 - signal truth
 - technical suspicion
@@ -200,13 +279,13 @@ Reader-facing meaning:
 
 **The paper lied first. Then the old systems answered.**
 
-Ildi should introduce the first field-level wrongness after Horus’s approval stamp.
+Ildi should introduce the first field-level wrongness after Horus's approval stamp.
 
 ---
 
 ## Visual and Adaptation Notes
 
-Keep Ildi’s primary visual read as:
+Keep Ildi's primary visual read as:
 
 - Antisapien / underclass signal-band
 - wiry
@@ -215,6 +294,7 @@ Keep Ildi’s primary visual read as:
 - exposed-wire logic
 - technical field competence
 - punk / signal-truth aesthetics
+- 409 forward systems operator
 
 Conjugate Chimera visual clues should be subtle before reveal.
 
@@ -235,8 +315,8 @@ Do not make her look like a superhero hybrid or obvious monster.
 
 ## Common Mistakes to Avoid
 
-- Do not reveal Ildi’s restricted biology before establishing her technical competence.
-- Do not make Ildi’s biology more important than her personhood.
+- Do not reveal Ildi's restricted biology before establishing her technical competence.
+- Do not make Ildi's biology more important than her personhood.
 - Do not make Ildi a universal detector.
 - Do not use Ildi to solve the Core early.
 - Do not make her the source of the ghost handshake.
@@ -245,6 +325,8 @@ Do not make her look like a superhero hybrid or obvious monster.
 - Do not overwrite Antisapien canon through her.
 - Do not make her trust World Works or WWISSaRD easily without cause.
 - Do not make her condition public knowledge without deliberate story reason.
+- Do not make Forest her therapist, handler, or savior.
+- Do not make 409 treat her as property or equipment unless the scene is deliberately confronting that horror.
 
 ---
 
